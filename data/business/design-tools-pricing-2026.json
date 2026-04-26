@@ -1,0 +1,235 @@
+{
+  "meta": {
+    "source": "ComparEdge (https://comparedge.com)",
+    "license": "CC BY 4.0",
+    "category": "design-tools",
+    "full_comparison": "https://comparedge.com/best/design-tools",
+    "total_in_category": 18,
+    "exported": 8,
+    "updated": "2026-04-26",
+    "note": "This is a curated subset. For the full dataset visit comparedge.com"
+  },
+  "products": [
+    {
+      "name": "Miro",
+      "slug": "miro-design",
+      "category": "design-tools",
+      "website": "https://miro.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "forever"
+        },
+        {
+          "name": "Starter",
+          "price": 10,
+          "period": "user/mo"
+        },
+        {
+          "name": "Business",
+          "price": 20,
+          "period": "user/mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": null,
+          "period": "user/mo"
+        }
+      ],
+      "rating": 4.8,
+      "features_count": 15
+    },
+    {
+      "name": "Figma",
+      "slug": "figma",
+      "category": "design-tools",
+      "website": "https://www.figma.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Starter",
+          "price": 0,
+          "period": "forever"
+        },
+        {
+          "name": "Professional",
+          "price": 16,
+          "period": "full seat/mo"
+        },
+        {
+          "name": "Organization",
+          "price": 55,
+          "period": "full seat/mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": 90,
+          "period": "full seat/mo"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 38
+    },
+    {
+      "name": "Canva",
+      "slug": "canva",
+      "category": "design-tools",
+      "website": "https://www.canva.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "forever"
+        },
+        {
+          "name": "Pro",
+          "price": 15,
+          "period": "user/mo"
+        },
+        {
+          "name": "Teams",
+          "price": 10,
+          "period": "user/mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": null,
+          "period": "user/mo"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 15
+    },
+    {
+      "name": "Adobe Illustrator",
+      "slug": "adobe-illustrator",
+      "category": "design-tools",
+      "website": "https://www.adobe.com/products/illustrator.html",
+      "free_plan": false,
+      "starting_price": 22.99,
+      "plans": [
+        {
+          "name": "Illustrator",
+          "price": 22.99,
+          "period": "mo"
+        },
+        {
+          "name": "All Apps",
+          "price": 59.99,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.6,
+      "features_count": 15
+    },
+    {
+      "name": "Adobe Photoshop",
+      "slug": "adobe-photoshop",
+      "category": "design-tools",
+      "website": "https://www.adobe.com/products/photoshop.html",
+      "free_plan": false,
+      "starting_price": 9.99,
+      "plans": [
+        {
+          "name": "Photography Plan",
+          "price": 9.99,
+          "period": "mo"
+        },
+        {
+          "name": "Photoshop",
+          "price": 22.99,
+          "period": "mo"
+        },
+        {
+          "name": "All Apps",
+          "price": 59.99,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.6,
+      "features_count": 15
+    },
+    {
+      "name": "Procreate",
+      "slug": "procreate",
+      "category": "design-tools",
+      "website": "https://procreate.com",
+      "free_plan": false,
+      "starting_price": 12.99,
+      "plans": [
+        {
+          "name": "Procreate (iPad)",
+          "price": 12.99,
+          "period": "one-time"
+        },
+        {
+          "name": "Procreate Dreams",
+          "price": 19.99,
+          "period": "one-time"
+        }
+      ],
+      "rating": 4.6,
+      "features_count": 18
+    },
+    {
+      "name": "Whimsical",
+      "slug": "whimsical",
+      "category": "design-tools",
+      "website": "https://whimsical.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "forever"
+        },
+        {
+          "name": "Pro",
+          "price": 12,
+          "period": "user/mo"
+        },
+        {
+          "name": "Organization",
+          "price": 20,
+          "period": "user/mo"
+        }
+      ],
+      "rating": 4.6,
+      "features_count": 15
+    },
+    {
+      "name": "Sketch",
+      "slug": "sketch",
+      "category": "design-tools",
+      "website": "https://www.sketch.com",
+      "free_plan": false,
+      "starting_price": 12,
+      "plans": [
+        {
+          "name": "Standard",
+          "price": 12,
+          "period": "editor/mo (billed yearly)"
+        },
+        {
+          "name": "Professional",
+          "price": 25,
+          "period": "editor/mo (billed yearly)"
+        },
+        {
+          "name": "Enterprise",
+          "price": 44,
+          "period": "editor/mo (billed yearly)"
+        }
+      ],
+      "rating": 4.5,
+      "features_count": 15
+    }
+  ]
+}

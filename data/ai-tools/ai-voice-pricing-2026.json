@@ -1,0 +1,203 @@
+{
+  "meta": {
+    "source": "ComparEdge (https://comparedge.com)",
+    "license": "CC BY 4.0",
+    "category": "ai-voice",
+    "full_comparison": "https://comparedge.com/best/ai-voice",
+    "total_in_category": 7,
+    "exported": 7,
+    "updated": "2026-04-26",
+    "note": "This is a curated subset. For the full dataset visit comparedge.com"
+  },
+  "products": [
+    {
+      "name": "ElevenLabs",
+      "slug": "elevenlabs",
+      "category": "ai-voice",
+      "website": "https://elevenlabs.io",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Starter",
+          "price": 6,
+          "period": "mo"
+        },
+        {
+          "name": "Creator",
+          "price": 22,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 99,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 12
+    },
+    {
+      "name": "Murf AI",
+      "slug": "murf-ai",
+      "category": "ai-voice",
+      "website": "https://murf.ai",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Creator",
+          "price": 19,
+          "period": "mo (billed annually)"
+        },
+        {
+          "name": "Business",
+          "price": 66,
+          "period": "mo (billed annually)"
+        },
+        {
+          "name": "Enterprise",
+          "price": null,
+          "period": "custom"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 12
+    },
+    {
+      "name": "Speechify",
+      "slug": "speechify-voice",
+      "category": "ai-voice",
+      "website": "https://speechify.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Premium",
+          "price": 29,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 20
+    },
+    {
+      "name": "Suno",
+      "slug": "suno",
+      "category": "ai-voice",
+      "website": "https://suno.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 8,
+          "period": "user/mo (billed annually)"
+        },
+        {
+          "name": "Premier",
+          "price": 24,
+          "period": "user/mo (billed annually)"
+        }
+      ],
+      "rating": 4.6,
+      "features_count": 12
+    },
+    {
+      "name": "Adobe Podcast (Enhance)",
+      "slug": "adobe-podcast",
+      "category": "ai-voice",
+      "website": "https://podcast.adobe.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Premium",
+          "price": 5,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.6,
+      "features_count": 12
+    },
+    {
+      "name": "Play.ht",
+      "slug": "playht",
+      "category": "ai-voice",
+      "website": "https://play.ht",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Creator",
+          "price": 39,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 99,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.5,
+      "features_count": 12
+    },
+    {
+      "name": "Udio",
+      "slug": "udio",
+      "category": "ai-voice",
+      "website": "https://udio.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Standard",
+          "price": 10,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 30,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.5,
+      "features_count": 12
+    }
+  ]
+}

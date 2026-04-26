@@ -1,0 +1,165 @@
+{
+  "meta": {
+    "source": "ComparEdge (https://comparedge.com)",
+    "license": "CC BY 4.0",
+    "category": "crypto-wallets",
+    "full_comparison": "https://comparedge.com/best/crypto-wallets",
+    "total_in_category": 11,
+    "exported": 8,
+    "updated": "2026-04-26",
+    "note": "This is a curated subset. For the full dataset visit comparedge.com"
+  },
+  "products": [
+    {
+      "name": "Phantom",
+      "slug": "phantom-wallet",
+      "category": "crypto-wallets",
+      "website": "https://phantom.app",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.6,
+      "features_count": 11
+    },
+    {
+      "name": "Ledger",
+      "slug": "ledger",
+      "category": "crypto-wallets",
+      "website": "https://www.ledger.com",
+      "free_plan": false,
+      "starting_price": 79,
+      "plans": [
+        {
+          "name": "Ledger Nano S Plus",
+          "price": 79,
+          "period": "one-time"
+        },
+        {
+          "name": "Ledger Nano X",
+          "price": 149,
+          "period": "one-time"
+        },
+        {
+          "name": "Ledger Stax",
+          "price": 399,
+          "period": "one-time"
+        }
+      ],
+      "rating": 4.4,
+      "features_count": 12
+    },
+    {
+      "name": "Rabby Wallet",
+      "slug": "rabby-wallet",
+      "category": "crypto-wallets",
+      "website": "https://rabby.io",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.4,
+      "features_count": 12
+    },
+    {
+      "name": "MetaMask",
+      "slug": "metamask",
+      "category": "crypto-wallets",
+      "website": "https://metamask.io",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.3,
+      "features_count": 12
+    },
+    {
+      "name": "Trezor",
+      "slug": "trezor",
+      "category": "crypto-wallets",
+      "website": "https://trezor.io",
+      "free_plan": false,
+      "starting_price": 79,
+      "plans": [
+        {
+          "name": "Trezor Safe 3",
+          "price": 79,
+          "period": "one-time"
+        },
+        {
+          "name": "Trezor Safe 5",
+          "price": 169,
+          "period": "one-time"
+        }
+      ],
+      "rating": 4.3,
+      "features_count": 12
+    },
+    {
+      "name": "Exodus",
+      "slug": "exodus-wallet",
+      "category": "crypto-wallets",
+      "website": "https://www.exodus.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.3,
+      "features_count": 12
+    },
+    {
+      "name": "Trust Wallet",
+      "slug": "trust-wallet",
+      "category": "crypto-wallets",
+      "website": "https://trustwallet.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.2,
+      "features_count": 11
+    },
+    {
+      "name": "Coinbase Wallet",
+      "slug": "coinbase-wallet",
+      "category": "crypto-wallets",
+      "website": "https://www.coinbase.com/wallet",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.1,
+      "features_count": 12
+    }
+  ]
+}

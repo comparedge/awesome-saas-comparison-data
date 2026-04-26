@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "source": "ComparEdge (https://comparedge.com)",
+    "license": "CC BY 4.0",
+    "category": "llm",
+    "full_comparison": "https://comparedge.com/best/llm",
+    "total_in_category": 25,
+    "exported": 8,
+    "updated": "2026-04-26",
+    "note": "This is a curated subset. For the full dataset visit comparedge.com"
+  },
+  "products": [
+    {
+      "name": "ChatGPT",
+      "slug": "chatgpt",
+      "category": "llm",
+      "website": "https://chatgpt.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "month"
+        },
+        {
+          "name": "Plus",
+          "price": 20,
+          "period": "month"
+        },
+        {
+          "name": "Team",
+          "price": 30,
+          "period": "month"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 15
+    },
+    {
+      "name": "OpenAI API",
+      "slug": "openai-api",
+      "category": "llm",
+      "website": "https://platform.openai.com",
+      "free_plan": false,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Pay per use",
+          "price": 0,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 12
+    },
+    {
+      "name": "Anthropic API (Claude)",
+      "slug": "claude-api",
+      "category": "llm",
+      "website": "https://anthropic.com/api",
+      "free_plan": false,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Pay per use",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Workspaces",
+          "price": null,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 12
+    },
+    {
+      "name": "GPT-4o",
+      "slug": "gpt-4o",
+      "category": "llm",
+      "website": "https://openai.com/gpt-4o",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "month"
+        },
+        {
+          "name": "Plus",
+          "price": 20,
+          "period": "month"
+        },
+        {
+          "name": "Team",
+          "price": 30,
+          "period": "month"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 20
+    },
+    {
+      "name": "Claude 3.5 Sonnet",
+      "slug": "claude-3-5-sonnet",
+      "category": "llm",
+      "website": "https://claude.ai",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "month"
+        },
+        {
+          "name": "Pro",
+          "price": 20,
+          "period": "month"
+        },
+        {
+          "name": "Team",
+          "price": 30,
+          "period": "month"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 20
+    },
+    {
+      "name": "Claude",
+      "slug": "claude",
+      "category": "llm",
+      "website": "https://claude.ai",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "month"
+        },
+        {
+          "name": "Pro",
+          "price": 20,
+          "period": "month"
+        }
+      ],
+      "rating": 4.6,
+      "features_count": 8
+    },
+    {
+      "name": "Hugging Face",
+      "slug": "hugging-face",
+      "category": "llm",
+      "website": "https://huggingface.co",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 9,
+          "period": "mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": 20,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.6,
+      "features_count": 12
+    },
+    {
+      "name": "Llama (Meta)",
+      "slug": "llama",
+      "category": "llm",
+      "website": "https://www.llama.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Open Source",
+          "price": 0,
+          "period": "month"
+        },
+        {
+          "name": "Cloud (via providers)",
+          "price": null,
+          "period": "month"
+        }
+      ],
+      "rating": 4.6,
+      "features_count": 8
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "meta": {
+    "source": "ComparEdge (https://comparedge.com)",
+    "license": "CC BY 4.0",
+    "category": "dex",
+    "full_comparison": "https://comparedge.com/best/dex",
+    "total_in_category": 8,
+    "exported": 8,
+    "updated": "2026-04-26",
+    "note": "This is a curated subset. For the full dataset visit comparedge.com"
+  },
+  "products": [
+    {
+      "name": "Uniswap",
+      "slug": "uniswap",
+      "category": "dex",
+      "website": "https://app.uniswap.org",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "forever"
+        },
+        {
+          "name": "0.01% Pool Fee",
+          "price": 0.01,
+          "period": "per swap (%)"
+        },
+        {
+          "name": "0.05% Pool Fee",
+          "price": 0.05,
+          "period": "per swap (%)"
+        },
+        {
+          "name": "0.3% Pool Fee",
+          "price": 0.3,
+          "period": "per swap (%)"
+        },
+        {
+          "name": "1% Pool Fee",
+          "price": 1,
+          "period": "per swap (%)"
+        }
+      ],
+      "rating": null,
+      "features_count": 12
+    },
+    {
+      "name": "PancakeSwap",
+      "slug": "pancakeswap",
+      "category": "dex",
+      "website": "https://pancakeswap.finance",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "forever"
+        },
+        {
+          "name": "0.01% Fee Tier (V3)",
+          "price": 0.01,
+          "period": "per swap (%)"
+        },
+        {
+          "name": "0.05% Fee Tier (V3)",
+          "price": 0.05,
+          "period": "per swap (%)"
+        },
+        {
+          "name": "0.25% Fee Tier (V2)",
+          "price": 0.25,
+          "period": "per swap (%)"
+        },
+        {
+          "name": "1% Fee Tier (V3)",
+          "price": 1,
+          "period": "per swap (%)"
+        }
+      ],
+      "rating": null,
+      "features_count": 11
+    },
+    {
+      "name": "Raydium",
+      "slug": "raydium",
+      "category": "dex",
+      "website": "https://raydium.io",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "forever"
+        },
+        {
+          "name": "Standard Pool Fee",
+          "price": 0.25,
+          "period": "per swap (%)"
+        },
+        {
+          "name": "CLMM 0.01% Tier",
+          "price": 0.01,
+          "period": "per swap (%)"
+        },
+        {
+          "name": "CLMM 0.05% Tier",
+          "price": 0.05,
+          "period": "per swap (%)"
+        },
+        {
+          "name": "CLMM 1% Tier",
+          "price": 1,
+          "period": "per swap (%)"
+        }
+      ],
+      "rating": null,
+      "features_count": 11
+    },
+    {
+      "name": "Orca",
+      "slug": "orca",
+      "category": "dex",
+      "website": "https://www.orca.so",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "forever"
+        },
+        {
+          "name": "0.01% Whirlpool Fee",
+          "price": 0.01,
+          "period": "per swap (%)"
+        },
+        {
+          "name": "0.05% Whirlpool Fee",
+          "price": 0.05,
+          "period": "per swap (%)"
+        },
+        {
+          "name": "0.3% Whirlpool Fee",
+          "price": 0.3,
+          "period": "per swap (%)"
+        },
+        {
+          "name": "1% Whirlpool Fee",
+          "price": 1,
+          "period": "per swap (%)"
+        }
+      ],
+      "rating": null,
+      "features_count": 11
+    },
+    {
+      "name": "Curve Finance",
+      "slug": "curve-finance",
+      "category": "dex",
+      "website": "https://curve.fi",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "forever"
+        },
+        {
+          "name": "Stablecoin Pool Fee",
+          "price": 0.04,
+          "period": "per swap (%)"
+        },
+        {
+          "name": "V2 Crypto Pool Fee",
+          "price": 0.04,
+          "period": "per swap (%)"
+        },
+        {
+          "name": "Lending Pool Fee",
+          "price": 0.04,
+          "period": "per swap (%)"
+        }
+      ],
+      "rating": null,
+      "features_count": 11
+    },
+    {
+      "name": "SushiSwap",
+      "slug": "sushiswap",
+      "category": "dex",
+      "website": "https://www.sushi.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "forever"
+        },
+        {
+          "name": "0.3% Standard Pool (V2)",
+          "price": 0.3,
+          "period": "per swap (%)"
+        },
+        {
+          "name": "0.01% Concentrated (V3)",
+          "price": 0.01,
+          "period": "per swap (%)"
+        },
+        {
+          "name": "0.05% Concentrated (V3)",
+          "price": 0.05,
+          "period": "per swap (%)"
+        },
+        {
+          "name": "1% Concentrated (V3)",
+          "price": 1,
+          "period": "per swap (%)"
+        }
+      ],
+      "rating": null,
+      "features_count": 11
+    },
+    {
+      "name": "dYdX",
+      "slug": "dydx",
+      "category": "dex",
+      "website": "https://dydx.exchange",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "forever"
+        },
+        {
+          "name": "Maker Fee",
+          "price": 0.02,
+          "period": "per trade (% max)"
+        },
+        {
+          "name": "Taker Fee",
+          "price": 0.1,
+          "period": "per trade (% max)"
+        }
+      ],
+      "rating": null,
+      "features_count": 11
+    },
+    {
+      "name": "Trader Joe",
+      "slug": "trader-joe",
+      "category": "dex",
+      "website": "https://traderjoexyz.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "forever"
+        },
+        {
+          "name": "0.1% Liquidity Book Fee",
+          "price": 0.1,
+          "period": "per swap (%)"
+        },
+        {
+          "name": "0.2% Liquidity Book Fee",
+          "price": 0.2,
+          "period": "per swap (%)"
+        },
+        {
+          "name": "0.5% Liquidity Book Fee",
+          "price": 0.5,
+          "period": "per swap (%)"
+        },
+        {
+          "name": "Legacy V1 Pool Fee",
+          "price": 0.3,
+          "period": "per swap (%)"
+        }
+      ],
+      "rating": null,
+      "features_count": 11
+    }
+  ]
+}

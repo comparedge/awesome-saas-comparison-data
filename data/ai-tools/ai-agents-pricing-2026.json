@@ -1,0 +1,220 @@
+{
+  "meta": {
+    "source": "ComparEdge (https://comparedge.com)",
+    "license": "CC BY 4.0",
+    "category": "ai-agents",
+    "full_comparison": "https://comparedge.com/best/ai-agents",
+    "total_in_category": 8,
+    "exported": 8,
+    "updated": "2026-04-26",
+    "note": "This is a curated subset. For the full dataset visit comparedge.com"
+  },
+  "products": [
+    {
+      "name": "n8n",
+      "slug": "n8n",
+      "category": "ai-agents",
+      "website": "https://n8n.io",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Starter",
+          "price": 24,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 60,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 12
+    },
+    {
+      "name": "Make (Integromat)",
+      "slug": "make-ai",
+      "category": "ai-agents",
+      "website": "https://make.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Core",
+          "price": 10,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 18,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 12
+    },
+    {
+      "name": "Zapier AI",
+      "slug": "zapier-ai",
+      "category": "ai-agents",
+      "website": "https://zapier.com/ai",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Starter",
+          "price": 19.99,
+          "period": "mo"
+        },
+        {
+          "name": "Professional",
+          "price": 69,
+          "period": "mo"
+        },
+        {
+          "name": "Team",
+          "price": null,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.5,
+      "features_count": 12
+    },
+    {
+      "name": "Relevance AI",
+      "slug": "relevance-ai",
+      "category": "ai-agents",
+      "website": "https://relevanceai.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "month"
+        },
+        {
+          "name": "Pro",
+          "price": 19,
+          "period": "month"
+        },
+        {
+          "name": "Team",
+          "price": 199,
+          "period": "month"
+        }
+      ],
+      "rating": 4.5,
+      "features_count": 20
+    },
+    {
+      "name": "OpenAI Agents SDK",
+      "slug": "openai-agents-sdk",
+      "category": "ai-agents",
+      "website": "https://openai.com/agents",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free SDK",
+          "price": 0,
+          "period": "month"
+        },
+        {
+          "name": "API costs",
+          "price": 0,
+          "period": "month"
+        }
+      ],
+      "rating": 4.4,
+      "features_count": 20
+    },
+    {
+      "name": "CrewAI",
+      "slug": "crewai",
+      "category": "ai-agents",
+      "website": "https://crewai.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Open Source",
+          "price": 0,
+          "period": "month"
+        },
+        {
+          "name": "Enterprise",
+          "price": 0,
+          "period": "month"
+        }
+      ],
+      "rating": 4.2,
+      "features_count": 20
+    },
+    {
+      "name": "Devin",
+      "slug": "devin-ai",
+      "category": "ai-agents",
+      "website": "https://devin.ai",
+      "free_plan": false,
+      "starting_price": 20,
+      "plans": [
+        {
+          "name": "Starter",
+          "price": 20,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 80,
+          "period": "mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": null,
+          "period": "mo"
+        }
+      ],
+      "rating": 4,
+      "features_count": 20
+    },
+    {
+      "name": "AutoGPT",
+      "slug": "autogpt",
+      "category": "ai-agents",
+      "website": "https://agpt.co",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Open Source",
+          "price": 0,
+          "period": "month"
+        },
+        {
+          "name": "Cloud Beta",
+          "price": 0,
+          "period": "month"
+        }
+      ],
+      "rating": 3.8,
+      "features_count": 20
+    }
+  ]
+}

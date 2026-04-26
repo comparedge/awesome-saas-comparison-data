@@ -2,7 +2,9 @@
   "meta": {
     "source": "ComparEdge (https://comparedge.com)",
     "license": "CC BY 4.0",
-    "updated": "2026-04-26"
+    "updated": "2026-04-26",
+    "total_categories": 28,
+    "total_tools": 331
   },
   "categories": [
     {

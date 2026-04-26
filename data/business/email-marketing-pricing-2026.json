@@ -1,0 +1,250 @@
+{
+  "meta": {
+    "source": "ComparEdge (https://comparedge.com)",
+    "license": "CC BY 4.0",
+    "category": "email-marketing",
+    "full_comparison": "https://comparedge.com/best/email-marketing",
+    "total_in_category": 20,
+    "exported": 8,
+    "updated": "2026-04-26",
+    "note": "This is a curated subset. For the full dataset visit comparedge.com"
+  },
+  "products": [
+    {
+      "name": "Loops",
+      "slug": "loops",
+      "category": "email-marketing",
+      "website": "https://loops.so",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "forever"
+        },
+        {
+          "name": "Starter",
+          "price": 49,
+          "period": "mo"
+        },
+        {
+          "name": "Growth",
+          "price": 149,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 599,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.8,
+      "features_count": 15
+    },
+    {
+      "name": "MailerLite",
+      "slug": "mailerlite",
+      "category": "email-marketing",
+      "website": "https://www.mailerlite.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "forever"
+        },
+        {
+          "name": "Growing Business",
+          "price": 10,
+          "period": "mo"
+        },
+        {
+          "name": "Advanced",
+          "price": 20,
+          "period": "mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": null,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 15
+    },
+    {
+      "name": "beehiiv",
+      "slug": "beehiiv",
+      "category": "email-marketing",
+      "website": "https://www.beehiiv.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Launch",
+          "price": 0,
+          "period": "forever"
+        },
+        {
+          "name": "Scale",
+          "price": 43,
+          "period": "mo"
+        },
+        {
+          "name": "Max",
+          "price": 96,
+          "period": "mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": null,
+          "period": "custom"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 19
+    },
+    {
+      "name": "Klaviyo",
+      "slug": "klaviyo",
+      "category": "email-marketing",
+      "website": "https://www.klaviyo.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "forever"
+        },
+        {
+          "name": "Email",
+          "price": 20,
+          "period": "mo"
+        },
+        {
+          "name": "Email & SMS",
+          "price": 35,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.6,
+      "features_count": 41
+    },
+    {
+      "name": "Omnisend",
+      "slug": "omnisend",
+      "category": "email-marketing",
+      "website": "https://www.omnisend.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "forever"
+        },
+        {
+          "name": "Standard",
+          "price": 16,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 59,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.6,
+      "features_count": 15
+    },
+    {
+      "name": "Moosend",
+      "slug": "moosend",
+      "category": "email-marketing",
+      "website": "https://moosend.com",
+      "free_plan": false,
+      "starting_price": 9,
+      "plans": [
+        {
+          "name": "Pro",
+          "price": 9,
+          "period": "mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": null,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.6,
+      "features_count": 15
+    },
+    {
+      "name": "Buttondown",
+      "slug": "buttondown",
+      "category": "email-marketing",
+      "website": "https://buttondown.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "forever"
+        },
+        {
+          "name": "Basic",
+          "price": 9,
+          "period": "mo"
+        },
+        {
+          "name": "Standard",
+          "price": 29,
+          "period": "mo"
+        },
+        {
+          "name": "Professional",
+          "price": 79,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.6,
+      "features_count": 15
+    },
+    {
+      "name": "ActiveCampaign",
+      "slug": "activecampaign",
+      "category": "email-marketing",
+      "website": "https://www.activecampaign.com",
+      "free_plan": false,
+      "starting_price": 15,
+      "plans": [
+        {
+          "name": "Starter",
+          "price": 15,
+          "period": "mo"
+        },
+        {
+          "name": "Plus",
+          "price": 49,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 79,
+          "period": "mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": 145,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.5,
+      "features_count": 48
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "meta": {
+    "source": "ComparEdge (https://comparedge.com)",
+    "license": "CC BY 4.0",
+    "category": "ai-coding",
+    "full_comparison": "https://comparedge.com/best/ai-coding",
+    "total_in_category": 10,
+    "exported": 8,
+    "updated": "2026-04-26",
+    "note": "This is a curated subset. For the full dataset visit comparedge.com"
+  },
+  "products": [
+    {
+      "name": "Cursor",
+      "slug": "cursor",
+      "category": "ai-coding",
+      "website": "https://cursor.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 20,
+          "period": "mo"
+        },
+        {
+          "name": "Business",
+          "price": 40,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 12
+    },
+    {
+      "name": "Windsurf (Codeium)",
+      "slug": "windsurf",
+      "category": "ai-coding",
+      "website": "https://codeium.com/windsurf",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 20,
+          "period": "mo"
+        },
+        {
+          "name": "Teams",
+          "price": 40,
+          "period": "user/mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": null,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 12
+    },
+    {
+      "name": "Codeium",
+      "slug": "codeium",
+      "category": "ai-coding",
+      "website": "https://windsurf.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 20,
+          "period": "mo"
+        },
+        {
+          "name": "Teams",
+          "price": 40,
+          "period": "user/mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": null,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.6,
+      "features_count": 12
+    },
+    {
+      "name": "Bolt.new",
+      "slug": "bolt-new",
+      "category": "ai-coding",
+      "website": "https://bolt.new",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 25,
+          "period": "mo"
+        },
+        {
+          "name": "Teams",
+          "price": 30,
+          "period": "user/mo"
+        }
+      ],
+      "rating": 4.6,
+      "features_count": 12
+    },
+    {
+      "name": "v0 by Vercel",
+      "slug": "v0-dev",
+      "category": "ai-coding",
+      "website": "https://v0.app",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Team",
+          "price": 30,
+          "period": "user/mo"
+        },
+        {
+          "name": "Business",
+          "price": 100,
+          "period": "user/mo"
+        }
+      ],
+      "rating": 4.6,
+      "features_count": 12
+    },
+    {
+      "name": "Windsurf",
+      "slug": "windsurf-editor",
+      "category": "ai-coding",
+      "website": "https://codeium.com/windsurf",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 20,
+          "period": "mo"
+        },
+        {
+          "name": "Teams",
+          "price": 40,
+          "period": "user/mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": null,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.6,
+      "features_count": 20
+    },
+    {
+      "name": "GitHub Copilot",
+      "slug": "github-copilot",
+      "category": "ai-coding",
+      "website": "https://github.com/features/copilot",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "forever"
+        },
+        {
+          "name": "Pro",
+          "price": 10,
+          "period": "user/mo"
+        },
+        {
+          "name": "Pro+",
+          "price": 39,
+          "period": "user/mo"
+        },
+        {
+          "name": "Business",
+          "price": 19,
+          "period": "user/mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": null,
+          "period": "custom"
+        }
+      ],
+      "rating": 4.5,
+      "features_count": 16
+    },
+    {
+      "name": "Phind",
+      "slug": "phind",
+      "category": "ai-coding",
+      "website": "https://phind.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 17,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.5,
+      "features_count": 12
+    }
+  ]
+}

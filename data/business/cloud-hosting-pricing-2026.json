@@ -1,0 +1,250 @@
+{
+  "meta": {
+    "source": "ComparEdge (https://comparedge.com)",
+    "license": "CC BY 4.0",
+    "category": "cloud-hosting",
+    "full_comparison": "https://comparedge.com/best/cloud-hosting",
+    "total_in_category": 21,
+    "exported": 8,
+    "updated": "2026-04-26",
+    "note": "This is a curated subset. For the full dataset visit comparedge.com"
+  },
+  "products": [
+    {
+      "name": "Kinsta",
+      "slug": "kinsta",
+      "category": "cloud-hosting",
+      "website": "https://kinsta.com",
+      "free_plan": false,
+      "starting_price": 35,
+      "plans": [
+        {
+          "name": "Starter",
+          "price": 35,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 70,
+          "period": "mo"
+        },
+        {
+          "name": "Business 1",
+          "price": 115,
+          "period": "mo"
+        },
+        {
+          "name": "Enterprise 1",
+          "price": 675,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.8,
+      "features_count": 15
+    },
+    {
+      "name": "Railway",
+      "slug": "railway",
+      "category": "cloud-hosting",
+      "website": "https://railway.app",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Trial",
+          "price": 0,
+          "period": "one-time"
+        },
+        {
+          "name": "Hobby",
+          "price": 5,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 20,
+          "period": "user/mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": null,
+          "period": "custom"
+        }
+      ],
+      "rating": 4.6,
+      "features_count": 15
+    },
+    {
+      "name": "Hetzner",
+      "slug": "hetzner",
+      "category": "cloud-hosting",
+      "website": "https://www.hetzner.com",
+      "free_plan": false,
+      "starting_price": 4.35,
+      "plans": [
+        {
+          "name": "CX22",
+          "price": 4.35,
+          "period": "mo"
+        },
+        {
+          "name": "CX32",
+          "price": 7.69,
+          "period": "mo"
+        },
+        {
+          "name": "CX42",
+          "price": 14.49,
+          "period": "mo"
+        },
+        {
+          "name": "Dedicated",
+          "price": 44,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.6,
+      "features_count": 15
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "slug": "aws",
+      "category": "cloud-hosting",
+      "website": "https://aws.amazon.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free Tier",
+          "price": 0,
+          "period": "12 months"
+        },
+        {
+          "name": "Pay-as-you-go",
+          "price": null,
+          "period": "usage-based"
+        }
+      ],
+      "rating": 4.5,
+      "features_count": 67
+    },
+    {
+      "name": "Cloudways",
+      "slug": "cloudways",
+      "category": "cloud-hosting",
+      "website": "https://www.cloudways.com",
+      "free_plan": false,
+      "starting_price": 14,
+      "plans": [
+        {
+          "name": "DO 1GB",
+          "price": 14,
+          "period": "mo"
+        },
+        {
+          "name": "DO 2GB",
+          "price": 28,
+          "period": "mo"
+        },
+        {
+          "name": "DO 4GB",
+          "price": 54,
+          "period": "mo"
+        },
+        {
+          "name": "AWS/GCE",
+          "price": 38,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.5,
+      "features_count": 15
+    },
+    {
+      "name": "DigitalOcean",
+      "slug": "digitalocean",
+      "category": "cloud-hosting",
+      "website": "https://www.digitalocean.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "$200 Free Credit",
+          "price": 0,
+          "period": "60 days"
+        },
+        {
+          "name": "Basic Droplet",
+          "price": 4,
+          "period": "mo"
+        },
+        {
+          "name": "Regular Droplet",
+          "price": 6,
+          "period": "mo"
+        },
+        {
+          "name": "Premium Droplet",
+          "price": 8,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.5,
+      "features_count": 31
+    },
+    {
+      "name": "Hostinger",
+      "slug": "hostinger",
+      "category": "cloud-hosting",
+      "website": "https://www.hostinger.com",
+      "free_plan": false,
+      "starting_price": 2.99,
+      "plans": [
+        {
+          "name": "Premium",
+          "price": 2.99,
+          "period": "mo"
+        },
+        {
+          "name": "Business",
+          "price": 3.99,
+          "period": "mo"
+        },
+        {
+          "name": "Cloud Startup",
+          "price": 9.99,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.5,
+      "features_count": 15
+    },
+    {
+      "name": "Vercel",
+      "slug": "vercel",
+      "category": "cloud-hosting",
+      "website": "https://vercel.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Hobby",
+          "price": 0,
+          "period": "forever"
+        },
+        {
+          "name": "Pro",
+          "price": 20,
+          "period": "user/mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": null,
+          "period": "custom"
+        }
+      ],
+      "rating": 4.5,
+      "features_count": 22
+    }
+  ]
+}

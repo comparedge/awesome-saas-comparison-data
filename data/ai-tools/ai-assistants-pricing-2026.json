@@ -1,0 +1,193 @@
+{
+  "meta": {
+    "source": "ComparEdge (https://comparedge.com)",
+    "license": "CC BY 4.0",
+    "category": "ai-assistants",
+    "full_comparison": "https://comparedge.com/best/ai-assistants",
+    "total_in_category": 7,
+    "exported": 7,
+    "updated": "2026-04-26",
+    "note": "This is a curated subset. For the full dataset visit comparedge.com"
+  },
+  "products": [
+    {
+      "name": "Tidio",
+      "slug": "tidio-ai",
+      "category": "ai-assistants",
+      "website": "https://tidio.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "month"
+        },
+        {
+          "name": "Lyro AI",
+          "price": 39,
+          "period": "month"
+        },
+        {
+          "name": "Growth",
+          "price": 59,
+          "period": "month"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 20
+    },
+    {
+      "name": "Botpress",
+      "slug": "botpress-io",
+      "category": "ai-assistants",
+      "website": "https://botpress.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "month"
+        },
+        {
+          "name": "Plus",
+          "price": 89,
+          "period": "month"
+        }
+      ],
+      "rating": 4.6,
+      "features_count": 20
+    },
+    {
+      "name": "Microsoft Copilot",
+      "slug": "microsoft-copilot",
+      "category": "ai-assistants",
+      "website": "https://copilot.microsoft.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 20,
+          "period": "mo"
+        },
+        {
+          "name": "Microsoft 365",
+          "price": 30,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.5,
+      "features_count": 12
+    },
+    {
+      "name": "Intercom Fin",
+      "slug": "intercom-fin",
+      "category": "ai-assistants",
+      "website": "https://intercom.com/fin",
+      "free_plan": false,
+      "starting_price": 39,
+      "plans": [
+        {
+          "name": "Essential",
+          "price": 39,
+          "period": "month"
+        },
+        {
+          "name": "Advanced",
+          "price": 99,
+          "period": "month"
+        }
+      ],
+      "rating": 4.5,
+      "features_count": 20
+    },
+    {
+      "name": "Voiceflow",
+      "slug": "voiceflow-io",
+      "category": "ai-assistants",
+      "website": "https://voiceflow.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "month"
+        },
+        {
+          "name": "Pro",
+          "price": 40,
+          "period": "month"
+        },
+        {
+          "name": "Team",
+          "price": 125,
+          "period": "month"
+        }
+      ],
+      "rating": 4.5,
+      "features_count": 20
+    },
+    {
+      "name": "Chatbase",
+      "slug": "chatbase-io",
+      "category": "ai-assistants",
+      "website": "https://chatbase.co",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Hobby",
+          "price": 32,
+          "period": "mo"
+        },
+        {
+          "name": "Standard",
+          "price": 120,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 300,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.4,
+      "features_count": 20
+    },
+    {
+      "name": "Character.AI",
+      "slug": "character-ai",
+      "category": "ai-assistants",
+      "website": "https://character.ai",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "c.ai+",
+          "price": 10,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.3,
+      "features_count": 12
+    }
+  ]
+}

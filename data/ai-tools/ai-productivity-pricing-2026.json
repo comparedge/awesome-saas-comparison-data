@@ -1,0 +1,215 @@
+{
+  "meta": {
+    "source": "ComparEdge (https://comparedge.com)",
+    "license": "CC BY 4.0",
+    "category": "ai-productivity",
+    "full_comparison": "https://comparedge.com/best/ai-productivity",
+    "total_in_category": 13,
+    "exported": 8,
+    "updated": "2026-04-26",
+    "note": "This is a curated subset. For the full dataset visit comparedge.com"
+  },
+  "products": [
+    {
+      "name": "Fireflies.ai",
+      "slug": "fireflies-ai",
+      "category": "ai-productivity",
+      "website": "https://fireflies.ai",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 18,
+          "period": "mo"
+        },
+        {
+          "name": "Business",
+          "price": 29,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 12
+    },
+    {
+      "name": "Gamma",
+      "slug": "gamma-app",
+      "category": "ai-productivity",
+      "website": "https://gamma.app",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Plus",
+          "price": 8,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 15,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 12
+    },
+    {
+      "name": "Perplexity AI",
+      "slug": "perplexity",
+      "category": "ai-productivity",
+      "website": "https://perplexity.ai",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 20,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.6,
+      "features_count": 12
+    },
+    {
+      "name": "Notion AI",
+      "slug": "notion-ai",
+      "category": "ai-productivity",
+      "website": "https://notion.so/product/ai",
+      "free_plan": false,
+      "starting_price": 10,
+      "plans": [
+        {
+          "name": "Add-on",
+          "price": 10,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.6,
+      "features_count": 12
+    },
+    {
+      "name": "Consensus",
+      "slug": "consensus-ai",
+      "category": "ai-productivity",
+      "website": "https://consensus.app",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Premium",
+          "price": 10,
+          "period": "mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": null,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.6,
+      "features_count": 12
+    },
+    {
+      "name": "Obviously AI",
+      "slug": "obviously-ai",
+      "category": "ai-productivity",
+      "website": "https://zams.com",
+      "free_plan": false,
+      "starting_price": 50,
+      "plans": [
+        {
+          "name": "Starter",
+          "price": 50,
+          "period": "user/mo"
+        },
+        {
+          "name": "Professional",
+          "price": 100,
+          "period": "user/mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": null,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.6,
+      "features_count": 12
+    },
+    {
+      "name": "Elicit",
+      "slug": "elicit",
+      "category": "ai-productivity",
+      "website": "https://elicit.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Basic",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 49,
+          "period": "user/mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": null,
+          "period": "custom"
+        }
+      ],
+      "rating": 4.5,
+      "features_count": 12
+    },
+    {
+      "name": "Tome",
+      "slug": "tome-app",
+      "category": "ai-productivity",
+      "website": "https://tome.app",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 16,
+          "period": "mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": null,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.5,
+      "features_count": 12
+    }
+  ]
+}

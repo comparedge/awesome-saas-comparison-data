@@ -1,0 +1,245 @@
+{
+  "meta": {
+    "source": "ComparEdge (https://comparedge.com)",
+    "license": "CC BY 4.0",
+    "category": "ai-video",
+    "full_comparison": "https://comparedge.com/best/ai-video",
+    "total_in_category": 9,
+    "exported": 8,
+    "updated": "2026-04-26",
+    "note": "This is a curated subset. For the full dataset visit comparedge.com"
+  },
+  "products": [
+    {
+      "name": "HeyGen",
+      "slug": "heygen",
+      "category": "ai-video",
+      "website": "https://heygen.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Creator",
+          "price": 29,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 99,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.8,
+      "features_count": 12
+    },
+    {
+      "name": "Synthesia",
+      "slug": "synthesia",
+      "category": "ai-video",
+      "website": "https://synthesia.io",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "forever"
+        },
+        {
+          "name": "Starter",
+          "price": 29,
+          "period": "mo"
+        },
+        {
+          "name": "Creator",
+          "price": 89,
+          "period": "mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": null,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 12
+    },
+    {
+      "name": "Descript",
+      "slug": "descript",
+      "category": "ai-video",
+      "website": "https://descript.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Hobbyist",
+          "price": 19,
+          "period": "mo"
+        },
+        {
+          "name": "Creator",
+          "price": 35,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.6,
+      "features_count": 12
+    },
+    {
+      "name": "CapCut AI",
+      "slug": "capcut-ai",
+      "category": "ai-video",
+      "website": "https://capcut.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 10,
+          "period": "mo"
+        },
+        {
+          "name": "Business",
+          "price": 20,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.6,
+      "features_count": 12
+    },
+    {
+      "name": "Runway",
+      "slug": "runway",
+      "category": "ai-video",
+      "website": "https://runwayml.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Standard",
+          "price": 12,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 28,
+          "period": "mo"
+        },
+        {
+          "name": "Unlimited",
+          "price": 76,
+          "period": "user/mo (billed annually)"
+        }
+      ],
+      "rating": 4.5,
+      "features_count": 12
+    },
+    {
+      "name": "vidIQ AI",
+      "slug": "vidiq-ai",
+      "category": "ai-video",
+      "website": "https://vidiq.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Basic",
+          "price": 7,
+          "period": "mo"
+        },
+        {
+          "name": "Boost",
+          "price": 39,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.5,
+      "features_count": 12
+    },
+    {
+      "name": "InVideo AI",
+      "slug": "invideo-ai",
+      "category": "ai-video",
+      "website": "https://invideo.io",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Plus",
+          "price": 20,
+          "period": "mo"
+        },
+        {
+          "name": "Max",
+          "price": 48,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.5,
+      "features_count": 12
+    },
+    {
+      "name": "Pika",
+      "slug": "pika",
+      "category": "ai-video",
+      "website": "https://pika.art",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Standard",
+          "price": 8,
+          "period": "mo (billed yearly)"
+        },
+        {
+          "name": "Pro",
+          "price": 28,
+          "period": "mo (billed yearly)"
+        },
+        {
+          "name": "Fancy",
+          "price": 76,
+          "period": "mo (billed yearly)"
+        }
+      ],
+      "rating": 4.4,
+      "features_count": 12
+    }
+  ]
+}

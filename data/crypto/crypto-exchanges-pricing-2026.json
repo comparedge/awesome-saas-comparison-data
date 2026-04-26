@@ -1,0 +1,230 @@
+{
+  "meta": {
+    "source": "ComparEdge (https://comparedge.com)",
+    "license": "CC BY 4.0",
+    "category": "crypto-exchanges",
+    "full_comparison": "https://comparedge.com/best/crypto-exchanges",
+    "total_in_category": 8,
+    "exported": 8,
+    "updated": "2026-04-26",
+    "note": "This is a curated subset. For the full dataset visit comparedge.com"
+  },
+  "products": [
+    {
+      "name": "Binance",
+      "slug": "binance",
+      "category": "crypto-exchanges",
+      "website": "https://www.binance.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Regular (VIP 0)",
+          "price": 0,
+          "period": "one-time"
+        },
+        {
+          "name": "VIP 1",
+          "price": null,
+          "period": "one-time"
+        },
+        {
+          "name": "VIP 2",
+          "price": null,
+          "period": "one-time"
+        }
+      ],
+      "rating": 4.4,
+      "features_count": 12
+    },
+    {
+      "name": "Kraken",
+      "slug": "kraken",
+      "category": "crypto-exchanges",
+      "website": "https://www.kraken.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Starter (<$50K)",
+          "price": 0,
+          "period": "one-time"
+        },
+        {
+          "name": "Intermediate ($50K-$100K)",
+          "price": 0,
+          "period": "one-time"
+        },
+        {
+          "name": "Pro (>$10M)",
+          "price": 0,
+          "period": "one-time"
+        }
+      ],
+      "rating": 4.3,
+      "features_count": 12
+    },
+    {
+      "name": "Bybit",
+      "slug": "bybit",
+      "category": "crypto-exchanges",
+      "website": "https://www.bybit.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "VIP 0 (Standard)",
+          "price": 0,
+          "period": "one-time"
+        },
+        {
+          "name": "VIP 1",
+          "price": null,
+          "period": "one-time"
+        },
+        {
+          "name": "VIP 3",
+          "price": null,
+          "period": "one-time"
+        }
+      ],
+      "rating": 4.2,
+      "features_count": 12
+    },
+    {
+      "name": "Coinbase",
+      "slug": "coinbase",
+      "category": "crypto-exchanges",
+      "website": "https://www.coinbase.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Advanced Trade (Tier 1)",
+          "price": 0,
+          "period": "one-time"
+        },
+        {
+          "name": "Advanced Trade (Tier 2)",
+          "price": 0,
+          "period": "one-time"
+        },
+        {
+          "name": "Coinbase One",
+          "price": 29.99,
+          "period": "monthly"
+        }
+      ],
+      "rating": 4.1,
+      "features_count": 12
+    },
+    {
+      "name": "OKX",
+      "slug": "okx",
+      "category": "crypto-exchanges",
+      "website": "https://www.okx.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Level 1 (Regular)",
+          "price": 0,
+          "period": "one-time"
+        },
+        {
+          "name": "Level 2",
+          "price": null,
+          "period": "one-time"
+        },
+        {
+          "name": "VIP",
+          "price": null,
+          "period": "one-time"
+        }
+      ],
+      "rating": 4.1,
+      "features_count": 12
+    },
+    {
+      "name": "Bitget",
+      "slug": "bitget",
+      "category": "crypto-exchanges",
+      "website": "https://www.bitget.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Regular (Lv0)",
+          "price": 0,
+          "period": "one-time"
+        },
+        {
+          "name": "VIP 1",
+          "price": null,
+          "period": "one-time"
+        },
+        {
+          "name": "VIP 2",
+          "price": null,
+          "period": "one-time"
+        }
+      ],
+      "rating": 4.1,
+      "features_count": 12
+    },
+    {
+      "name": "KuCoin",
+      "slug": "kucoin",
+      "category": "crypto-exchanges",
+      "website": "https://www.kucoin.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Regular (Lv0)",
+          "price": 0,
+          "period": "one-time"
+        },
+        {
+          "name": "VIP 1",
+          "price": null,
+          "period": "one-time"
+        },
+        {
+          "name": "VIP 2+",
+          "price": null,
+          "period": "one-time"
+        }
+      ],
+      "rating": 4,
+      "features_count": 12
+    },
+    {
+      "name": "Gate.io",
+      "slug": "gate-io",
+      "category": "crypto-exchanges",
+      "website": "https://www.gate.io",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Regular (Lv0)",
+          "price": 0,
+          "period": "one-time"
+        },
+        {
+          "name": "Lv1 (≥30 GT)",
+          "price": null,
+          "period": "one-time"
+        },
+        {
+          "name": "Lv2+",
+          "price": null,
+          "period": "one-time"
+        }
+      ],
+      "rating": 3.9,
+      "features_count": 12
+    }
+  ]
+}

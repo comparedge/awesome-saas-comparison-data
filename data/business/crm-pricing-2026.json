@@ -1,0 +1,250 @@
+{
+  "meta": {
+    "source": "ComparEdge (https://comparedge.com)",
+    "license": "CC BY 4.0",
+    "category": "crm",
+    "full_comparison": "https://comparedge.com/best/crm",
+    "total_in_category": 18,
+    "exported": 8,
+    "updated": "2026-04-26",
+    "note": "This is a curated subset. For the full dataset visit comparedge.com"
+  },
+  "products": [
+    {
+      "name": "Less Annoying CRM",
+      "slug": "less-annoying-crm",
+      "category": "crm",
+      "website": "https://www.lessannoyingcrm.com",
+      "free_plan": false,
+      "starting_price": 15,
+      "plans": [
+        {
+          "name": "Standard",
+          "price": 15,
+          "period": "user/mo"
+        }
+      ],
+      "rating": 4.9,
+      "features_count": 15
+    },
+    {
+      "name": "Attio",
+      "slug": "attio",
+      "category": "crm",
+      "website": "https://attio.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "forever"
+        },
+        {
+          "name": "Plus",
+          "price": 34,
+          "period": "seat/mo"
+        },
+        {
+          "name": "Pro",
+          "price": 69,
+          "period": "seat/mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": null,
+          "period": "seat/mo"
+        }
+      ],
+      "rating": 4.8,
+      "features_count": 15
+    },
+    {
+      "name": "Close",
+      "slug": "close",
+      "category": "crm",
+      "website": "https://close.com",
+      "free_plan": false,
+      "starting_price": 49,
+      "plans": [
+        {
+          "name": "Startup",
+          "price": 49,
+          "period": "user/mo"
+        },
+        {
+          "name": "Professional",
+          "price": 99,
+          "period": "user/mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": 139,
+          "period": "user/mo"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 15
+    },
+    {
+      "name": "Folk",
+      "slug": "folk",
+      "category": "crm",
+      "website": "https://www.folk.app",
+      "free_plan": false,
+      "starting_price": 24,
+      "plans": [
+        {
+          "name": "Standard",
+          "price": 24,
+          "period": "user/mo"
+        },
+        {
+          "name": "Premium",
+          "price": 48,
+          "period": "user/mo"
+        },
+        {
+          "name": "Custom",
+          "price": null,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 15
+    },
+    {
+      "name": "Capsule CRM",
+      "slug": "capsule",
+      "category": "crm",
+      "website": "https://capsulecrm.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "forever"
+        },
+        {
+          "name": "Starter",
+          "price": 21,
+          "period": "user/mo"
+        },
+        {
+          "name": "Growth",
+          "price": 38,
+          "period": "user/mo"
+        },
+        {
+          "name": "Advanced",
+          "price": 60,
+          "period": "user/mo"
+        },
+        {
+          "name": "Ultimate",
+          "price": 75,
+          "period": "user/mo"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 15
+    },
+    {
+      "name": "monday CRM",
+      "slug": "monday-crm",
+      "category": "crm",
+      "website": "https://monday.com/crm",
+      "free_plan": false,
+      "starting_price": 12,
+      "plans": [
+        {
+          "name": "Basic",
+          "price": 12,
+          "period": "seat/mo"
+        },
+        {
+          "name": "Standard",
+          "price": 17,
+          "period": "seat/mo"
+        },
+        {
+          "name": "Pro",
+          "price": 28,
+          "period": "seat/mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": null,
+          "period": "seat/mo"
+        }
+      ],
+      "rating": 4.6,
+      "features_count": 15
+    },
+    {
+      "name": "Freshsales",
+      "slug": "freshsales",
+      "category": "crm",
+      "website": "https://www.freshworks.com/crm/sales/",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "forever"
+        },
+        {
+          "name": "Growth",
+          "price": 11,
+          "period": "user/mo"
+        },
+        {
+          "name": "Pro",
+          "price": 47,
+          "period": "user/mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": 71,
+          "period": "user/mo"
+        }
+      ],
+      "rating": 4.5,
+      "features_count": 15
+    },
+    {
+      "name": "Copper",
+      "slug": "copper",
+      "category": "crm",
+      "website": "https://www.copper.com",
+      "free_plan": false,
+      "starting_price": 12,
+      "plans": [
+        {
+          "name": "Starter",
+          "price": 12,
+          "period": "user/mo"
+        },
+        {
+          "name": "Basic",
+          "price": 29,
+          "period": "user/mo"
+        },
+        {
+          "name": "Professional",
+          "price": 69,
+          "period": "user/mo"
+        },
+        {
+          "name": "Business",
+          "price": 134,
+          "period": "user/mo"
+        }
+      ],
+      "rating": 4.5,
+      "features_count": 22
+    }
+  ]
+}

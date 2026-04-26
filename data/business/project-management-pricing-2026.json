@@ -1,0 +1,270 @@
+{
+  "meta": {
+    "source": "ComparEdge (https://comparedge.com)",
+    "license": "CC BY 4.0",
+    "category": "project-management",
+    "full_comparison": "https://comparedge.com/best/project-management",
+    "total_in_category": 20,
+    "exported": 8,
+    "updated": "2026-04-26",
+    "note": "This is a curated subset. For the full dataset visit comparedge.com"
+  },
+  "products": [
+    {
+      "name": "Height",
+      "slug": "height",
+      "category": "project-management",
+      "website": "https://height.app",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "forever"
+        },
+        {
+          "name": "Team",
+          "price": 8.5,
+          "period": "user/mo"
+        },
+        {
+          "name": "Business",
+          "price": 15,
+          "period": "user/mo"
+        }
+      ],
+      "rating": 4.8,
+      "features_count": 25
+    },
+    {
+      "name": "Miro",
+      "slug": "miro",
+      "category": "project-management",
+      "website": "https://miro.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "forever"
+        },
+        {
+          "name": "Starter",
+          "price": 8,
+          "period": "user/mo"
+        },
+        {
+          "name": "Business",
+          "price": 20,
+          "period": "user/mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": null,
+          "period": "user/mo"
+        }
+      ],
+      "rating": 4.8,
+      "features_count": 28
+    },
+    {
+      "name": "Notion",
+      "slug": "notion",
+      "category": "project-management",
+      "website": "https://www.notion.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "user/mo"
+        },
+        {
+          "name": "Plus",
+          "price": 12,
+          "period": "user/mo"
+        },
+        {
+          "name": "Business",
+          "price": 18,
+          "period": "user/mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": null,
+          "period": "user/mo"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 32
+    },
+    {
+      "name": "ClickUp",
+      "slug": "clickup",
+      "category": "project-management",
+      "website": "https://clickup.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "forever"
+        },
+        {
+          "name": "Unlimited",
+          "price": 7,
+          "period": "user/mo"
+        },
+        {
+          "name": "Business",
+          "price": 12,
+          "period": "user/mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": null,
+          "period": "user/mo"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 47
+    },
+    {
+      "name": "monday.com",
+      "slug": "monday",
+      "category": "project-management",
+      "website": "https://monday.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "forever"
+        },
+        {
+          "name": "Basic",
+          "price": 9,
+          "period": "seat/mo"
+        },
+        {
+          "name": "Standard",
+          "price": 12,
+          "period": "seat/mo"
+        },
+        {
+          "name": "Pro",
+          "price": 19,
+          "period": "seat/mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": null,
+          "period": "seat/mo"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 45
+    },
+    {
+      "name": "Coda",
+      "slug": "coda",
+      "category": "project-management",
+      "website": "https://coda.io",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 10,
+          "period": "Doc Maker/mo"
+        },
+        {
+          "name": "Team",
+          "price": 30,
+          "period": "Doc Maker/mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": null,
+          "period": "custom"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 24
+    },
+    {
+      "name": "Nifty",
+      "slug": "niftypm",
+      "category": "project-management",
+      "website": "https://niftypm.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "forever"
+        },
+        {
+          "name": "Starter",
+          "price": 39,
+          "period": "flat/mo (billed annually)"
+        },
+        {
+          "name": "Business",
+          "price": 124,
+          "period": "flat/mo (billed annually)"
+        },
+        {
+          "name": "Unlimited",
+          "price": 399,
+          "period": "flat/mo (billed annually)"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 15
+    },
+    {
+      "name": "Linear",
+      "slug": "linear",
+      "category": "project-management",
+      "website": "https://linear.app",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "forever"
+        },
+        {
+          "name": "Basic",
+          "price": 10,
+          "period": "user/mo"
+        },
+        {
+          "name": "Business",
+          "price": 16,
+          "period": "user/mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": null,
+          "period": "user/mo"
+        }
+      ],
+      "rating": 4.6,
+      "features_count": 22
+    }
+  ]
+}

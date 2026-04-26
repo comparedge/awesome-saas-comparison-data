@@ -1,0 +1,260 @@
+{
+  "meta": {
+    "source": "ComparEdge (https://comparedge.com)",
+    "license": "CC BY 4.0",
+    "category": "crypto-trading-bots",
+    "full_comparison": "https://comparedge.com/best/crypto-trading-bots",
+    "total_in_category": 8,
+    "exported": 8,
+    "updated": "2026-04-26",
+    "note": "This is a curated subset. For the full dataset visit comparedge.com"
+  },
+  "products": [
+    {
+      "name": "3Commas",
+      "slug": "3commas",
+      "category": "crypto-trading-bots",
+      "website": "https://3commas.io",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Starter",
+          "price": 15,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 40,
+          "period": "mo"
+        },
+        {
+          "name": "Expert",
+          "price": 60,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.3,
+      "features_count": 12
+    },
+    {
+      "name": "Pionex",
+      "slug": "pionex",
+      "category": "crypto-trading-bots",
+      "website": "https://www.pionex.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Standard",
+          "price": 0,
+          "period": "one-time"
+        },
+        {
+          "name": "Pionex Pro (Annual)",
+          "price": 96,
+          "period": "yearly"
+        }
+      ],
+      "rating": 4.3,
+      "features_count": 12
+    },
+    {
+      "name": "Bitsgap",
+      "slug": "bitsgap",
+      "category": "crypto-trading-bots",
+      "website": "https://bitsgap.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free Trial",
+          "price": 0,
+          "period": "7 days"
+        },
+        {
+          "name": "Basic",
+          "price": 23,
+          "period": "mo"
+        },
+        {
+          "name": "Advanced",
+          "price": 55,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 119,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.2,
+      "features_count": 12
+    },
+    {
+      "name": "Altrady",
+      "slug": "altrady",
+      "category": "crypto-trading-bots",
+      "website": "https://altrady.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free Trial",
+          "price": 0,
+          "period": "5 days"
+        },
+        {
+          "name": "Basic",
+          "price": 19,
+          "period": "mo"
+        },
+        {
+          "name": "Essential",
+          "price": 35,
+          "period": "mo"
+        },
+        {
+          "name": "Premium",
+          "price": 55,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.2,
+      "features_count": 12
+    },
+    {
+      "name": "Cornix",
+      "slug": "cornix",
+      "category": "crypto-trading-bots",
+      "website": "https://www.cornix.io",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free Trial",
+          "price": 0,
+          "period": "14 days"
+        },
+        {
+          "name": "Starter",
+          "price": 19,
+          "period": "mo"
+        },
+        {
+          "name": "Trader",
+          "price": 29,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 59,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.1,
+      "features_count": 12
+    },
+    {
+      "name": "Cryptohopper",
+      "slug": "cryptohopper",
+      "category": "crypto-trading-bots",
+      "website": "https://www.cryptohopper.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Explorer",
+          "price": 29,
+          "period": "mo"
+        },
+        {
+          "name": "Adventurer",
+          "price": 69,
+          "period": "mo"
+        },
+        {
+          "name": "Hero",
+          "price": 129,
+          "period": "mo"
+        }
+      ],
+      "rating": 4,
+      "features_count": 12
+    },
+    {
+      "name": "WunderTrading",
+      "slug": "wundertrading",
+      "category": "crypto-trading-bots",
+      "website": "https://wundertrading.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Basic",
+          "price": 19,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 39,
+          "period": "mo"
+        },
+        {
+          "name": "Premium",
+          "price": 69,
+          "period": "mo"
+        }
+      ],
+      "rating": 4,
+      "features_count": 12
+    },
+    {
+      "name": "TradeSanta",
+      "slug": "tradesanta",
+      "category": "crypto-trading-bots",
+      "website": "https://tradesanta.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Basic",
+          "price": 18,
+          "period": "mo"
+        },
+        {
+          "name": "Advanced",
+          "price": 32,
+          "period": "mo"
+        },
+        {
+          "name": "Maximum",
+          "price": 45,
+          "period": "mo"
+        }
+      ],
+      "rating": 3.9,
+      "features_count": 12
+    }
+  ]
+}

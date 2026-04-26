@@ -1,0 +1,230 @@
+{
+  "meta": {
+    "source": "ComparEdge (https://comparedge.com)",
+    "license": "CC BY 4.0",
+    "category": "ai-writing",
+    "full_comparison": "https://comparedge.com/best/ai-writing",
+    "total_in_category": 12,
+    "exported": 8,
+    "updated": "2026-04-26",
+    "note": "This is a curated subset. For the full dataset visit comparedge.com"
+  },
+  "products": [
+    {
+      "name": "Surfer SEO",
+      "slug": "surfer-seo",
+      "category": "ai-writing",
+      "website": "https://surferseo.com",
+      "free_plan": false,
+      "starting_price": 99,
+      "plans": [
+        {
+          "name": "Standard",
+          "price": 99,
+          "period": "mo"
+        },
+        {
+          "name": "Pro",
+          "price": 182,
+          "period": "mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": null,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.8,
+      "features_count": 20
+    },
+    {
+      "name": "Jasper",
+      "slug": "jasper",
+      "category": "ai-writing",
+      "website": "https://www.jasper.ai",
+      "free_plan": false,
+      "starting_price": 39,
+      "plans": [
+        {
+          "name": "Creator",
+          "price": 39,
+          "period": "user/mo"
+        },
+        {
+          "name": "Pro",
+          "price": 59,
+          "period": "user/mo"
+        },
+        {
+          "name": "Business",
+          "price": null,
+          "period": "custom"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 28
+    },
+    {
+      "name": "Copy.ai",
+      "slug": "copy-ai",
+      "category": "ai-writing",
+      "website": "https://www.copy.ai",
+      "free_plan": false,
+      "starting_price": null,
+      "plans": [
+        {
+          "name": "Chat",
+          "price": null,
+          "period": "custom"
+        },
+        {
+          "name": "Growth",
+          "price": 1000,
+          "period": "mo (billed yearly)"
+        },
+        {
+          "name": "Expansion",
+          "price": 2000,
+          "period": "mo (billed yearly)"
+        },
+        {
+          "name": "Scale",
+          "price": 3000,
+          "period": "mo (billed yearly)"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 8
+    },
+    {
+      "name": "Grammarly",
+      "slug": "grammarly",
+      "category": "ai-writing",
+      "website": "https://www.grammarly.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "forever"
+        },
+        {
+          "name": "Pro",
+          "price": 12,
+          "period": "user/mo"
+        },
+        {
+          "name": "Enterprise",
+          "price": null,
+          "period": "custom"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 8
+    },
+    {
+      "name": "Writesonic",
+      "slug": "writesonic",
+      "category": "ai-writing",
+      "website": "https://writesonic.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free Trial",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Starter",
+          "price": 79,
+          "period": "mo"
+        },
+        {
+          "name": "Basic",
+          "price": 199,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 12
+    },
+    {
+      "name": "Rytr",
+      "slug": "rytr",
+      "category": "ai-writing",
+      "website": "https://rytr.me",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Saver",
+          "price": 9,
+          "period": "mo"
+        },
+        {
+          "name": "Unlimited",
+          "price": 29,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.7,
+      "features_count": 12
+    },
+    {
+      "name": "Wordtune",
+      "slug": "wordtune",
+      "category": "ai-writing",
+      "website": "https://wordtune.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Basic",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Advanced",
+          "price": 6.99,
+          "period": "mo (billed annually)"
+        },
+        {
+          "name": "Unlimited",
+          "price": 9.99,
+          "period": "mo (billed annually)"
+        }
+      ],
+      "rating": 4.6,
+      "features_count": 12
+    },
+    {
+      "name": "QuillBot",
+      "slug": "quillbot",
+      "category": "ai-writing",
+      "website": "https://quillbot.com",
+      "free_plan": true,
+      "starting_price": 0,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo"
+        },
+        {
+          "name": "Premium",
+          "price": 13,
+          "period": "mo"
+        }
+      ],
+      "rating": 4.6,
+      "features_count": 12
+    }
+  ]
+}
