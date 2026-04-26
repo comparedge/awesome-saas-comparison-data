@@ -112,8 +112,8 @@ This dataset is a curated snapshot. For **real-time data**, interactive comparis
 
 ## 📊 Also Available On
 
-- **Kaggle**: [SaaS & AI Tools Market Analysis 2026](https://www.kaggle.com/datasets) — Notebook-ready, includes exploratory analysis
-- **Hugging Face**: [comparedge/software-pricing-2026](https://huggingface.co/datasets) — Structured for ML pipelines
+- **Kaggle**: [SaaS & AI Tools Market Analysis 2026](https://www.kaggle.com/datasets/comparedge/saas-ai-tools-market-2026) — 331 tools, notebook-ready CSV
+- **Hugging Face**: [ComparEdge/ai-tools-pricing-2026](https://huggingface.co/datasets/ComparEdge/ai-tools-pricing-2026) — 104 AI tools in JSONL
 
 ## 🛠 Use Cases
 
