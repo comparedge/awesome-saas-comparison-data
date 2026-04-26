@@ -1,0 +1,3674 @@
+[
+  {
+    "slug": "chatgpt",
+    "name": "ChatGPT",
+    "url": "https://chatgpt.com",
+    "category": "llm",
+    "description": "AI chatbot by OpenAI - the most widely used AI assistant for writing, coding, and analysis.",
+    "affiliate": {
+      "url": "https://openai.com",
+      "commission": "0%",
+      "network": "none"
+    },
+    "color": "#10a37f",
+    "logo": "GP",
+    "founded": 2022,
+    "users": "100M+",
+    "rating": {
+      "g2": 4.7,
+      "capterra": 4.6
+    },
+    "pricing": {
+      "free": true,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "month",
+          "highlights": [
+            "GPT-3.5",
+            "Limited GPT-4o",
+            "Basic features"
+          ]
+        },
+        {
+          "name": "Plus",
+          "price": 20,
+          "period": "month",
+          "highlights": [
+            "GPT-4o",
+            "DALL-E 3",
+            "Advanced data analysis",
+            "Plugins"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": 30,
+          "period": "month",
+          "highlights": [
+            "Everything in Plus",
+            "Higher limits",
+            "Admin console"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "AI text generation",
+      "Code assistance",
+      "Image generation",
+      "Data analysis",
+      "Plugins/GPTs",
+      "API access",
+      "Voice mode",
+      "Web browsing",
+      "Conversational Flow Control",
+      "Personalized Learning Paths",
+      "Advanced Sentiment Mapping",
+      "Multi Language Support",
+      "Intelligent Summarization Tools",
+      "Customizable Tone Options",
+      "Contextual Understanding Engine"
+    ],
+    "subcategory": "ai-writing",
+    "featureCount": 21,
+    "longDescription": "ChatGPT handles ai chatbot by openai - the most widely used ai assistant for writing, coding, and analysis. The platform stands out for AI text generation, Code assistance, Image generation. Free plan available; paid tiers from $20/mo. Rated 4.7/5 across independent review platforms. Used by 100M+ teams worldwide.",
+    "youtubeId": "hOe0maWOhp8",
+    "normalizedFeatures": {
+      "Text Generation": true,
+      "Image Generation": true,
+      "Video Generation": false,
+      "Code Generation": true,
+      "Voice/Speech": true,
+      "API Access": false,
+      "Free Tier": true,
+      "Browser Extension": false,
+      "Mobile App": false,
+      "Collaboration": false,
+      "Custom Training": false,
+      "Plugins/Extensions": false,
+      "File Upload": true,
+      "Web Search": true,
+      "Analytics": false,
+      "Automation/Workflows": false,
+      "Templates": false,
+      "Multi-language": false,
+      "Real-time": false,
+      "Enterprise/Team Plans": false
+    },
+    "pros": [
+      "Free plan available",
+      "Competitive pricing from $20/mo",
+      "Highly rated (4.7/5 on review platforms)",
+      "15 key features including AI text generation and Code assistance",
+      "Large user base (100M+)"
+    ],
+    "cons": [
+      "AI output quality varies by use case",
+      "Some advanced features locked behind higher tiers"
+    ],
+    "youtubeReview": "https://www.youtube.com/watch?v=gl07J_dRBTk",
+    "useCases": [
+      {
+        "title": "Convert Raw CSVs Into Board-Ready Reports",
+        "description": "Data analysis processes raw CSV exports into reports with charts and commentary, cutting manual quarterly assembly from 8 hours to under an hour.",
+        "icon": "chart"
+      },
+      {
+        "title": "Generate 200+ Test Cases Per Sprint",
+        "description": "Code assistance turns feature descriptions into test scripts, with Web browsing checking API docs in real time - multiplying test case output fivefold per sprint.",
+        "icon": "code"
+      }
+    ],
+    "youtubeUploadDate": "2025-01-01T16:08:05Z",
+    "pricingAnalysis": {
+      "overview": "ChatGPT - AI chatbot by OpenAI - the most widely used AI assistant for writing, coding, and analysis. The free tier gets you GPT-3.5, Limited GPT-4o, Basic features - a real plan, not a 14-day trial. Upgrading to Plus ($20/month) unlocks GPT-4o and DALL-E 3. Priced near the $17/mo category average, ChatGPT competes directly with OpenAI API and Anthropic API (Claude) on value.",
+      "planAdvice": [
+        {
+          "plan": "Free",
+          "price": 0,
+          "period": "month",
+          "advice": "You get GPT-3.5, Limited GPT-4o, Basic features. What's locked behind the paywall: gpt-4o, dall-e 3, advanced data analysis. If those matter, Plus at $20/month is the next step. Good enough for solo use and evaluation."
+        },
+        {
+          "plan": "Plus",
+          "price": 20,
+          "period": "month",
+          "advice": "$20/month gets you GPT-4o, DALL-E 3, Advanced data analysis, Plugins. The sweet spot for professionals who've maxed out the free plan and need GPT-4o, DALL-E 3."
+        },
+        {
+          "plan": "Team",
+          "price": 30,
+          "period": "month",
+          "advice": "$30/month gets you Everything in Plus, Higher limits, Admin console. 50% more than Plus - justified only if you need the extras."
+        }
+      ],
+      "verdict": "ChatGPT scores 4.7/5 and offers a free plan - that's a rare combination. The free tier with GPT-3.5 and Limited GPT-4o is more than enough to validate whether it fits your workflow. Start free. Move to Plus ($20/month) when GPT-4o becomes a need, not a want."
+    },
+    "expertTake": "The custom GPTs ecosystem is the real differentiator — you can build specialized tools without code that run inside your daily workflow. Worth it for power users; the free tier covers casual use, so the $20/mo is for heavy hitters.",
+    "bestFor": "General-purpose AI users"
+  },
+  {
+    "slug": "claude",
+    "name": "Claude",
+    "url": "https://claude.ai",
+    "category": "llm",
+    "description": "AI assistant by Anthropic - known for long context windows, nuanced reasoning, and safety.",
+    "affiliate": {
+      "url": "https://claude.ai",
+      "commission": "0%",
+      "network": "none"
+    },
+    "color": "#d97706",
+    "logo": "CL",
+    "founded": 2023,
+    "users": "10M+",
+    "rating": {
+      "g2": 4.6,
+      "capterra": 4.5
+    },
+    "pricing": {
+      "free": true,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "month",
+          "highlights": [
+            "Claude 3 Haiku",
+            "Limited messages",
+            "Basic features"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": 20,
+          "period": "month",
+          "highlights": [
+            "Claude 3.5 Sonnet",
+            "5x more usage",
+            "Priority access",
+            "Projects"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Long context (200K tokens)",
+      "Document analysis",
+      "Code generation",
+      "Safe AI responses",
+      "Projects feature",
+      "API access",
+      "Vision capabilities",
+      "Nuanced reasoning"
+    ],
+    "subcategory": "ai-models",
+    "featureCount": 8,
+    "longDescription": "Claude focuses on ai assistant by anthropic - known for long context windows, nuanced reasoning, and safety. Key capabilities include Long context (200K tokens), Document analysis, Code generation. Also covers Safe AI responses, Projects feature. Free plan available; paid tiers from $20/mo. Rated 4.5/5 across independent review platforms. Founded in 2023.",
+    "youtubeId": "eMZmDH3T2bY",
+    "normalizedFeatures": {
+      "Text Generation": true,
+      "Image Generation": false,
+      "Video Generation": false,
+      "Code Generation": false,
+      "Voice/Speech": false,
+      "API Access": true,
+      "Free Tier": true,
+      "Browser Extension": false,
+      "Mobile App": false,
+      "Collaboration": true,
+      "Custom Training": false,
+      "Plugins/Extensions": false,
+      "File Upload": true,
+      "Web Search": false,
+      "Analytics": false,
+      "Automation/Workflows": true,
+      "Templates": true,
+      "Multi-language": true,
+      "Real-time": true,
+      "Enterprise/Team Plans": true
+    },
+    "pros": [
+      "Free plan available",
+      "Competitive pricing from $20/mo",
+      "Highly rated (4.6/5 on G2)",
+      "8 key features including Long context (200K tokens) and Document analysis",
+      "Large user base (10M+)"
+    ],
+    "cons": [
+      "AI output quality varies by use case",
+      "Some advanced features locked behind higher tiers"
+    ],
+    "youtubeReview": "https://www.youtube.com/watch?v=WGbjP8q79i4",
+    "useCases": [
+      {
+        "title": "Parse Entire Contract Libraries in One Call",
+        "description": "Entire contract libraries load into one 200K context call, extracting obligations, payment terms, and renewal dates from hundreds of documents at once.",
+        "icon": "database"
+      },
+      {
+        "title": "Validate Pull Requests Before Merge",
+        "description": "Code generation paired with nuanced reasoning flags edge cases and memory leaks linters miss, returning test cases and refactor suggestions in one prompt chain.",
+        "icon": "code"
+      }
+    ],
+    "youtubeUploadDate": "2025-12-22T15:26:27Z",
+    "pricingAnalysis": {
+      "overview": "Claude - AI assistant by Anthropic - known for long context windows, nuanced reasoning, and safety. The free tier gets you Claude 3 Haiku, Limited messages, Basic features - a real plan, not a 14-day trial. Upgrading to Pro ($20/month) unlocks Claude 3.5 Sonnet and 5x more usage. Priced near the $17/mo category average, Claude competes directly with OpenAI API and ChatGPT on value.",
+      "planAdvice": [
+        {
+          "plan": "Free",
+          "price": 0,
+          "period": "month",
+          "advice": "You get Claude 3 Haiku, Limited messages, Basic features. What's locked behind the paywall: claude 3.5 sonnet, 5x more usage, priority access. If those matter, Pro at $20/month is the next step. Good enough for solo use and evaluation."
+        },
+        {
+          "plan": "Pro",
+          "price": 20,
+          "period": "month",
+          "advice": "$20/month gets you Claude 3.5 Sonnet, 5x more usage, Priority access, Projects. The sweet spot for professionals who've maxed out the free plan and need Claude 3.5 Sonnet, 5x more usage."
+        }
+      ],
+      "verdict": "Claude scores 4.5/5 and offers a free plan - that's a rare combination. The free tier with Claude 3 Haiku and Limited messages is more than enough to validate whether it fits your workflow. Start free. Move to Pro ($20/month) when Claude 3.5 Sonnet becomes a need, not a want."
+    },
+    "expertTake": "The 200K-token context window means you can drop an entire codebase or legal brief in and get coherent answers — nothing else matches this at the same price. Worth it specifically for Document analysis and long-form research tasks.",
+    "bestFor": "Long document analysis tasks"
+  },
+  {
+    "slug": "gemini",
+    "name": "Google Gemini",
+    "url": "https://gemini.google.com",
+    "category": "llm",
+    "description": "Google's multimodal AI assistant - integrated with Google Workspace and search.",
+    "affiliate": {
+      "url": "https://gemini.google.com",
+      "commission": "0%",
+      "network": "none"
+    },
+    "color": "#4285f4",
+    "logo": "GM",
+    "founded": 2023,
+    "users": "50M+",
+    "rating": {
+      "g2": 4.3,
+      "capterra": 4.2
+    },
+    "pricing": {
+      "free": true,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "month",
+          "highlights": [
+            "Gemini 1.5 Flash",
+            "Google integration",
+            "Basic features"
+          ]
+        },
+        {
+          "name": "Advanced",
+          "price": 20,
+          "period": "month",
+          "highlights": [
+            "Gemini 1.5 Pro",
+            "2TB storage",
+            "Google One benefits",
+            "Workspace integration"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Multimodal AI",
+      "Google Search integration",
+      "Google Docs/Gmail integration",
+      "Image generation",
+      "Code assistance",
+      "Long context",
+      "Real-time information",
+      "Multi-language"
+    ],
+    "subcategory": "ai-models",
+    "featureCount": 8,
+    "longDescription": "Google Gemini handles google's multimodal ai assistant - integrated with google workspace and search. The platform stands out for Multimodal AI, Google Search integration, Google Docs/Gmail integration. Free plan available; paid tiers from $20/mo. Rated 4.2/5 across independent review platforms. Used by 50M+ teams worldwide.",
+    "youtubeId": "pM8X5cQNxTY",
+    "normalizedFeatures": {
+      "Text Generation": true,
+      "Image Generation": false,
+      "Video Generation": false,
+      "Code Generation": false,
+      "Voice/Speech": true,
+      "API Access": true,
+      "Free Tier": true,
+      "Browser Extension": false,
+      "Mobile App": false,
+      "Collaboration": true,
+      "Custom Training": false,
+      "Plugins/Extensions": false,
+      "File Upload": true,
+      "Web Search": true,
+      "Analytics": true,
+      "Automation/Workflows": true,
+      "Templates": true,
+      "Multi-language": true,
+      "Real-time": true,
+      "Enterprise/Team Plans": true
+    },
+    "pros": [
+      "Free plan available",
+      "Competitive pricing from $20/mo",
+      "Strong user ratings (4.3/5 on G2)",
+      "8 key features including Multimodal AI and Google Search integration",
+      "Large user base (50M+)"
+    ],
+    "cons": [
+      "User ratings could be higher",
+      "AI output quality varies by use case"
+    ],
+    "youtubeReview": "https://www.youtube.com/watch?v=Kx_fX1xqVH4",
+    "useCases": [
+      {
+        "title": "Process 500-Page Documents in One Request",
+        "description": "A 1-million-token long context window accepts complete regulatory filings and policy manuals, extracting compliance gaps and contradictions in one API call.",
+        "icon": "database"
+      },
+      {
+        "title": "Route Multilingual Support Tickets Instantly",
+        "description": "Multi-language capabilities classify each ticket by language and urgency, routing to the correct specialist queue and reducing misdirected escalations by 40%.",
+        "icon": "zap"
+      }
+    ],
+    "youtubeUploadDate": "2024-05-27T16:37:09Z",
+    "pricingAnalysis": {
+      "overview": "Google Gemini - Google's multimodal AI assistant - integrated with Google Workspace and search. The free tier gets you Gemini 1.5 Flash, Google integration, Basic features - a real plan, not a 14-day trial. Upgrading to Advanced ($20/month) unlocks Gemini 1.5 Pro and 2TB storage. Priced near the $17/mo category average, Google Gemini competes directly with OpenAI API and ChatGPT on value.",
+      "planAdvice": [
+        {
+          "plan": "Free",
+          "price": 0,
+          "period": "month",
+          "advice": "You get Gemini 1.5 Flash, Google integration, Basic features. What's locked behind the paywall: gemini 1.5 pro, 2tb storage, google one benefits. If those matter, Advanced at $20/month is the next step. Good enough for solo use and evaluation."
+        },
+        {
+          "plan": "Advanced",
+          "price": 20,
+          "period": "month",
+          "advice": "$20/month gets you Gemini 1.5 Pro, 2TB storage, Google One benefits, Workspace integration. The sweet spot for professionals who've maxed out the free plan and need Gemini 1.5 Pro, 2TB storage."
+        }
+      ],
+      "verdict": "Rated 4.3/5, Google Gemini at $20/mo is a mainstream choice in its category. Start free. Move to Advanced ($20/month) when Gemini 1.5 Pro becomes a need, not a want."
+    },
+    "expertTake": "Google Docs and Gmail integration is the killer feature here — it drafts inside your real documents without copy-pasting anything. Skip if you're not in the Google ecosystem; outside Workspace the multimodal AI advantage largely disappears.",
+    "bestFor": "Google Workspace power users"
+  },
+  {
+    "slug": "openai-api",
+    "name": "OpenAI API",
+    "url": "https://platform.openai.com",
+    "category": "llm",
+    "subcategories": [
+      "ai-models"
+    ],
+    "description": "Developer API platform providing access to GPT-4o, DALL-E 3, Whisper, embeddings, and fine-tuning capabilities.",
+    "longDescription": "The OpenAI API is the foundational infrastructure behind thousands of AI-powered applications, giving developers programmatic access to OpenAI's full suite of models. GPT-4o provides state-of-the-art text generation, reasoning, and multimodal understanding. DALL-E 3 handles image generation, Whisper delivers high-accuracy speech transcription, and the embeddings endpoint powers semantic search and recommendation systems. The Assistants API provides a framework for building persistent AI agents with memory, file handling, and tool use capabilities. Fine-tuning endpoints allow developers to adapt base models to specific domains or communication styles. The Batch API reduces costs for non-time-sensitive workloads by processing large volumes of requests during off-peak periods. JSON mode ensures structured output for data-intensive applications. Function calling enables models to interact with external APIs and databases. With comprehensive documentation, SDKs for Python and JavaScript, and a playground for rapid prototyping, the OpenAI API remains the default starting point for most AI application development despite growing competition from Anthropic, Google, and open-source alternatives.",
+    "pricing": {
+      "free": false,
+      "plans": [
+        {
+          "name": "Pay per use",
+          "price": 0,
+          "period": "mo",
+          "highlights": [
+            "Token-based billing",
+            "Free trial credit",
+            "All models available"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "GPT-4o access",
+      "DALL-E 3",
+      "Whisper speech-to-text",
+      "Embeddings",
+      "Fine-tuning",
+      "Assistants API",
+      "Batch API",
+      "Vision models",
+      "Function calling",
+      "JSON mode",
+      "Streaming",
+      "Enterprise tier"
+    ],
+    "rating": {
+      "g2": 4.7,
+      "capterra": 4.8
+    },
+    "founded": 2020,
+    "users": "2M+",
+    "affiliate": {
+      "url": "https://platform.openai.com",
+      "commission": "N/A",
+      "network": "none"
+    },
+    "subcategory": "ai-models",
+    "featureCount": 12,
+    "normalizedFeatures": {
+      "Text Generation": true,
+      "Image Generation": true,
+      "Video Generation": false,
+      "Code Generation": false,
+      "Voice/Speech": true,
+      "API Access": true,
+      "Free Tier": true,
+      "Browser Extension": false,
+      "Mobile App": false,
+      "Collaboration": false,
+      "Custom Training": true,
+      "Plugins/Extensions": false,
+      "File Upload": false,
+      "Web Search": false,
+      "Analytics": false,
+      "Automation/Workflows": false,
+      "Templates": false,
+      "Multi-language": false,
+      "Real-time": false,
+      "Enterprise/Team Plans": true
+    },
+    "youtubeId": "UpFqcfEyoLE",
+    "pros": [
+      "Highly rated (4.7/5 on G2)",
+      "12 key features including GPT-4o access and DALL-E 3",
+      "Large user base (2M+)",
+      "API access for custom integrations",
+      "AI-powered features built in"
+    ],
+    "cons": [
+      "No free plan available",
+      "AI output quality varies by use case",
+      "Limited plan options"
+    ],
+    "youtubeReview": "https://www.youtube.com/watch?v=91aH8jsG4cc",
+    "useCases": [
+      {
+        "title": "2,000 Voicemails Transcribed and Routed Daily",
+        "description": "speech-to-text API transcribes inbound calls; LLM categorizes urgency and routes tickets in a single API call. Batch API handles off-peak volume spikes without extra infrastructure.",
+        "icon": "zap"
+      },
+      {
+        "title": "50K internal wiki Pages Made Semantically Searchable",
+        "description": "The Embeddings API indexes internal knowledge bases weekly. A team chat bot queries semantically at $0.02 per 1,000 embeddings - no infrastructure rebuild needed.",
+        "icon": "search"
+      }
+    ],
+    "youtubeUploadDate": "2024-03-12T14:15:04Z",
+    "pricingAnalysis": {
+      "overview": "OpenAI API - Developer API platform providing access to GPT-4o, DALL-E 3, Whisper, embeddings, and fine-tuning capabilities. OpenAI API is free to use with Token-based billing, Free trial credit, All models available. While most llm tools start at ~$18/mo, OpenAI API's free tier lets you skip the cost entirely until you need more.",
+      "planAdvice": [
+        {
+          "plan": "Pay per use",
+          "price": 0,
+          "period": "mo",
+          "advice": "You get Token-based billing, Free trial credit, All models available. Good enough for solo use and evaluation."
+        }
+      ],
+      "verdict": "OpenAI API scores 4.8/5 and offers a free plan - that's a rare combination. The free tier with Token-based billing and Free trial credit is more than enough to validate whether it fits your workflow."
+    },
+    "tokenPricing": {
+      "models": [
+        {
+          "name": "GPT-5.4",
+          "input": 2.5,
+          "output": 15,
+          "unit": "1M tokens"
+        },
+        {
+          "name": "GPT-5.4 mini",
+          "input": 0.75,
+          "output": 4.5,
+          "unit": "1M tokens"
+        }
+      ]
+    },
+    "expertTake": "GPT-4o access plus fine-tuning capability makes this the default choice for production AI apps. Worth it for developers, but costs scale fast — budget carefully before committing.",
+    "bestFor": "AI developers & startups"
+  },
+  {
+    "slug": "hugging-face",
+    "name": "Hugging Face",
+    "url": "https://huggingface.co",
+    "category": "llm",
+    "subcategories": [
+      "ai-models"
+    ],
+    "description": "The AI community platform hosting 500K+ models, datasets, and Spaces for discovering and deploying ML solutions.",
+    "longDescription": "Hugging Face is the central hub of the open-source machine learning community, hosting over 500,000 pre-trained models, 100,000+ datasets, and thousands of interactive demo Spaces. It has become indispensable for AI researchers, data scientists, and developers who need to find, evaluate, and deploy machine learning models without building from scratch. The Transformers library, developed and maintained by Hugging Face, has become the de facto standard for working with transformer-based models in Python. The Inference API allows immediate deployment of any hosted model with a simple HTTP request. AutoTrain enables non-experts to fine-tune models on custom datasets through a guided interface. Gradio integration makes it trivial to create web-based demos for ML models. Model cards provide standardized documentation covering training data, limitations, and evaluation benchmarks, promoting responsible AI development. Enterprise security features including private repositories, SSO, and audit logs support corporate adoption. With 5 million registered users and a vibrant community contributing models daily, Hugging Face is genuinely the GitHub of machine learning.",
+    "pricing": {
+      "free": true,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo",
+          "highlights": [
+            "Public models and datasets",
+            "Community spaces",
+            "Basic inference"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": 9,
+          "period": "mo",
+          "highlights": [
+            "ZeroGPU access",
+            "Private spaces",
+            "Priority support"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "price": 20,
+          "period": "mo",
+          "highlights": [
+            "Private datasets",
+            "SSO",
+            "Audit logs"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "500K+ models",
+      "Datasets hub",
+      "Spaces for demos",
+      "Inference API",
+      "AutoTrain",
+      "Model fine-tuning",
+      "Dataset creation",
+      "Transformers library",
+      "Gradio integration",
+      "Model cards",
+      "Community forums",
+      "Enterprise security"
+    ],
+    "rating": {
+      "g2": 4.6,
+      "capterra": 4.5
+    },
+    "founded": 2016,
+    "users": "5M+",
+    "affiliate": {
+      "url": "https://huggingface.co",
+      "commission": "N/A",
+      "network": "none"
+    },
+    "subcategory": "ai-models",
+    "featureCount": 12,
+    "normalizedFeatures": {
+      "Text Generation": true,
+      "Image Generation": true,
+      "Video Generation": true,
+      "Code Generation": true,
+      "Voice/Speech": true,
+      "API Access": true,
+      "Free Tier": true,
+      "Browser Extension": false,
+      "Mobile App": false,
+      "Collaboration": false,
+      "Custom Training": true,
+      "Plugins/Extensions": false,
+      "File Upload": false,
+      "Web Search": false,
+      "Analytics": false,
+      "Automation/Workflows": false,
+      "Templates": false,
+      "Multi-language": true,
+      "Real-time": true,
+      "Enterprise/Team Plans": true
+    },
+    "youtubeId": "GLO5FZzfrS0",
+    "pros": [
+      "Free plan available",
+      "Affordable starting at $9/mo",
+      "Highly rated (4.6/5 on G2)",
+      "12 key features including 500K+ models and Datasets hub",
+      "Large user base (5M+)"
+    ],
+    "cons": [
+      "AI output quality varies by use case",
+      "Some advanced features locked behind higher tiers"
+    ],
+    "youtubeReview": "https://www.youtube.com/watch?v=GaWa38yZOaM",
+    "useCases": [
+      {
+        "title": "Fine-Tuned Model Demo Live in Under 5 Minutes",
+        "description": "Upload a trained classifier to Spaces with Transformers library code and get a shareable URL immediately - no DevOps, no containerization, stakeholders test on real data.",
+        "icon": "rocket"
+      },
+      {
+        "title": "Domain Classifiers Built via AutoTrain Without GPU Clusters",
+        "description": "Upload labeled datasets, select a base model from 500K+ hub options, and AutoTrain handles hyperparameter tuning and validation. Time-to-model drops from 3 weeks to 3 days.",
+        "icon": "zap"
+      },
+      {
+        "title": "Model Inference Without Hosting via API Endpoint",
+        "description": "Call the Inference API endpoint for structured predictions at under 500ms latency. At $0.25 per 1,000 calls, startups skip dedicated GPU infrastructure entirely.",
+        "icon": "code"
+      },
+      {
+        "title": "Custom Corpora Version-Controlled in the Datasets Hub",
+        "description": "Create, annotate, and version-control labeled datasets in the hub. Link directly to training pipelines and track dataset lineage across experiments without storage sprawl.",
+        "icon": "database"
+      }
+    ],
+    "youtubeUploadDate": "2024-10-18T08:22:03Z",
+    "pricingAnalysis": {
+      "overview": "Hugging Face - The AI community platform hosting 500K+ models, datasets, and Spaces for discovering and deploying ML solutions. The free tier gets you Public models and datasets, Community spaces, Basic inference - a real plan, not a 14-day trial. Upgrading to Pro ($9/mo) unlocks ZeroGPU access and Private spaces. At $9/mo, Hugging Face undercuts the $18/mo category average by 50%. For comparison, OpenAI API starts at $free and ChatGPT at $20.",
+      "planAdvice": [
+        {
+          "plan": "Free",
+          "price": 0,
+          "period": "mo",
+          "advice": "You get Public models and datasets, Community spaces, Basic inference. What's locked behind the paywall: zerogpu access, private spaces, priority support. If those matter, Pro at $9/mo is the next step. Good enough for solo use and evaluation."
+        },
+        {
+          "plan": "Pro",
+          "price": 9,
+          "period": "mo",
+          "advice": "$9/mo gets you ZeroGPU access, Private spaces, Priority support. The sweet spot for professionals who've maxed out the free plan and need ZeroGPU access, Private spaces."
+        },
+        {
+          "plan": "Enterprise",
+          "price": 20,
+          "period": "mo",
+          "advice": "$20/mo gets you Private datasets, SSO, Audit logs. 122% more than Pro - justified only if you need the extras."
+        }
+      ],
+      "verdict": "Hugging Face scores 4.5/5 and offers a free plan - that's a rare combination. The free tier with Public models and datasets and Community spaces is more than enough to validate whether it fits your workflow. Start free. Move to Pro ($9/mo) when ZeroGPU access becomes a need, not a want."
+    },
+    "expertTake": "Access to 500K+ models and AutoTrain in one place makes this indispensable for ML teams. Skip if you need plug-and-play — the Inference API assumes solid technical confidence.",
+    "bestFor": "ML researchers & data scientists"
+  },
+  {
+    "slug": "replicate",
+    "name": "Replicate",
+    "url": "https://replicate.com",
+    "category": "llm",
+    "subcategories": [
+      "ai-models"
+    ],
+    "description": "Cloud platform for running and deploying AI models via simple API, with 50K+ community and custom models.",
+    "longDescription": "Replicate solves one of the most frustrating challenges in AI development, running diverse machine learning models without managing complex GPU infrastructure. The platform hosts over 50,000 community and commercial models spanning image generation, video synthesis, language processing, audio generation, and computer vision, all accessible through a uniform REST API. Deploying a custom model requires pushing to Replicate with a standardized configuration file, after which the platform handles all scaling, queuing, and infrastructure concerns automatically. The Python and Node.js SDKs make integration into existing applications straightforward. Webhooks deliver asynchronous results for long-running generation tasks, while streaming support enables real-time output for text generation models. Cost prediction tools let developers estimate expenses before committing to large batch jobs. Private models ensure proprietary fine-tunes remain confidential. GPU scaling happens automatically to handle traffic spikes without provisioning. Model versioning allows developers to pin applications to specific model checkpoints, preventing unexpected behavior changes when model weights are updated.",
+    "pricing": {
+      "free": true,
+      "plans": [
+        {
+          "name": "Pay per use",
+          "price": 0,
+          "period": "mo",
+          "highlights": [
+            "Per-second GPU billing",
+            "No minimum spend",
+            "All community models"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "50K+ models",
+      "Simple API",
+      "Custom model deployment",
+      "Webhooks",
+      "Streaming",
+      "Python/Node SDKs",
+      "GPU scaling",
+      "Model versioning",
+      "Private models",
+      "Cost prediction",
+      "Batch predictions",
+      "Community models"
+    ],
+    "rating": {
+      "g2": 4.5,
+      "capterra": 4.4
+    },
+    "founded": 2021,
+    "users": "200K+",
+    "affiliate": {
+      "url": "https://replicate.com",
+      "commission": "N/A",
+      "network": "none"
+    },
+    "subcategory": "ai-models",
+    "featureCount": 12,
+    "normalizedFeatures": {
+      "Text Generation": true,
+      "Image Generation": true,
+      "Video Generation": true,
+      "Code Generation": false,
+      "Voice/Speech": false,
+      "API Access": true,
+      "Free Tier": true,
+      "Browser Extension": false,
+      "Mobile App": false,
+      "Collaboration": false,
+      "Custom Training": true,
+      "Plugins/Extensions": false,
+      "File Upload": false,
+      "Web Search": false,
+      "Analytics": false,
+      "Automation/Workflows": false,
+      "Templates": false,
+      "Multi-language": false,
+      "Real-time": true,
+      "Enterprise/Team Plans": true
+    },
+    "youtubeId": "NMSo2fkjauw",
+    "pros": [
+      "Highly rated (4.5/5 on review platforms)",
+      "12 key features including 50K+ models and Simple API",
+      "Growing user base (200K+)",
+      "API access for custom integrations"
+    ],
+    "cons": [
+      "No free plan available",
+      "AI output quality varies by use case",
+      "Limited plan options"
+    ],
+    "youtubeReview": "https://www.youtube.com/watch?v=eJvfDUoIvIE",
+    "useCases": [
+      {
+        "title": "Custom Model Weights Deployed Without Kubernetes",
+        "description": "Push fine-tuned checkpoints directly to Replicate alongside 50K+ community models. GPU scaling is automatic - deployment overhead drops from weeks to hours.",
+        "icon": "rocket"
+      },
+      {
+        "title": "Webhooks Auto-Trigger Downstream Tasks After Inference",
+        "description": "Configure webhooks on video transcription models to trigger subtitle generation, sentiment analysis, and content moderation automatically - no polling needed.",
+        "icon": "zap"
+      }
+    ],
+    "youtubeUploadDate": "2025-06-29T21:13:50Z",
+    "pricingAnalysis": {
+      "overview": "Replicate - Cloud platform for running and deploying AI models via simple API, with 50K+ community and custom models. Replicate is free to use with Per-second GPU billing, No minimum spend, All community models. While most llm tools start at ~$18/mo, Replicate's free tier lets you skip the cost entirely until you need more.",
+      "planAdvice": [
+        {
+          "plan": "Pay per use",
+          "price": 0,
+          "period": "mo",
+          "advice": "You get Per-second GPU billing, No minimum spend, All community models. Good enough for solo use and evaluation."
+        }
+      ],
+      "verdict": "Replicate scores 4.5/5 and offers a free plan - that's a rare combination. The free tier with Per-second GPU billing and No minimum spend is more than enough to validate whether it fits your workflow."
+    },
+    "tokenPricing": {
+      "models": [
+        {
+          "name": "Various models",
+          "input": 0.1,
+          "output": 0.5,
+          "unit": "1M tokens",
+          "note": "Prices vary by model"
+        }
+      ]
+    },
+    "expertTake": "Pay-per-use with a simple API and 50K+ community models makes it ideal for prototyping without commitment. Skip if you need consistent latency — shared infrastructure can vary.",
+    "bestFor": "Developers prototyping AI apps"
+  },
+  {
+    "slug": "claude-api",
+    "name": "Anthropic API (Claude)",
+    "url": "https://anthropic.com/api",
+    "category": "llm",
+    "subcategories": [
+      "ai-agents"
+    ],
+    "description": "Anthropic's API providing access to Claude models with industry-leading safety, 200K context windows, and strong reasoning capabilities.",
+    "longDescription": "Anthropic's Claude API gives developers and enterprises access to the Claude family of models - Haiku, Sonnet, and Opus - each balancing speed, capability, and cost differently. Claude 3.5 Sonnet has consistently ranked at the top of coding and reasoning benchmarks while remaining faster and more cost-efficient than comparable alternatives. The 200K token context window is one of the industry's largest, enabling processing of entire codebases, lengthy legal documents, or complete book manuscripts in a single prompt. Vision capabilities handle image analysis, chart interpretation, and document processing. Anthropic's Constitutional AI training approach produces models that are notably less likely to produce harmful outputs, making Claude the preferred choice for safety-sensitive applications. Tool use and JSON mode support structured application development. The Batch API reduces costs for high-volume offline workloads. Enterprise tiers include dedicated capacity, compliance certifications, and audit logging.",
+    "pricing": {
+      "free": false,
+      "plans": [
+        {
+          "name": "Pay per use",
+          "price": 0,
+          "period": "mo",
+          "highlights": [
+            "Per-token pricing",
+            "All Claude models",
+            "API key access"
+          ]
+        },
+        {
+          "name": "Workspaces",
+          "price": null,
+          "period": "mo",
+          "highlights": [
+            "Team management",
+            "Usage controls",
+            "Enterprise features"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Claude 3.5 Sonnet/Opus/Haiku",
+      "200K context window",
+      "Vision capabilities",
+      "Function calling",
+      "Streaming",
+      "Batch API",
+      "Fine-tuning (coming)",
+      "Safety features",
+      "Constitutional AI",
+      "Tool use",
+      "JSON mode",
+      "Enterprise tier"
+    ],
+    "rating": {
+      "g2": 4.7,
+      "capterra": 4.6
+    },
+    "founded": 2021,
+    "users": "500K+",
+    "affiliate": {
+      "url": "https://anthropic.com",
+      "commission": "N/A",
+      "network": "none"
+    },
+    "subcategory": "ai-models",
+    "featureCount": 12,
+    "normalizedFeatures": {
+      "Text Generation": true,
+      "Image Generation": false,
+      "Video Generation": false,
+      "Code Generation": true,
+      "Voice/Speech": false,
+      "API Access": true,
+      "Free Tier": true,
+      "Browser Extension": true,
+      "Mobile App": false,
+      "Collaboration": true,
+      "Custom Training": false,
+      "Plugins/Extensions": true,
+      "File Upload": false,
+      "Web Search": false,
+      "Analytics": false,
+      "Automation/Workflows": false,
+      "Templates": false,
+      "Multi-language": false,
+      "Real-time": true,
+      "Enterprise/Team Plans": true
+    },
+    "youtubeId": "5rGTE8LcVEs",
+    "pros": [
+      "Highly rated (4.7/5 on review platforms)",
+      "12 key features including Claude 3.5 Sonnet/Opus/Haiku and 200K context window",
+      "Growing user base (500K+)",
+      "API access for custom integrations",
+      "AI-powered features built in"
+    ],
+    "cons": [
+      "No free plan available",
+      "AI output quality varies by use case"
+    ],
+    "youtubeReview": "https://www.youtube.com/watch?v=wfeiCZK0mNs",
+    "useCases": [
+      {
+        "title": "15 Earnings Documents Analyzed in 90 Seconds",
+        "description": "The 200K context window ingests transcripts and competitor filings together. Function calling extracts guidance ranges, risk factors, and management commentary in one request.",
+        "icon": "chart"
+      },
+      {
+        "title": "Prompt Chains Drive team chat-Based Content Reviews",
+        "description": "Streaming surfaces draft summaries in real time; function calling triggers database lookups for context, then a refinement pass enforces tone before posting to channels.",
+        "icon": "zap"
+      },
+      {
+        "title": "50,000 API Logs Scanned for Compliance Issues Nightly",
+        "description": "Safety features scan request/response logs for PII leakage and prompt injection. Vision flags sensitive screenshots in support tickets. Batch API processes 50K logs for $8-12.",
+        "icon": "shield"
+      },
+      {
+        "title": "2,000 Support Tickets Categorized and Written to internal wiki",
+        "description": "Claude 3.5 Sonnet generates JSON with sentiment, priority, product area, and next steps. Function calling writes results to internal wiki databases - no CSV imports or data entry.",
+        "icon": "database"
+      }
+    ],
+    "youtubeUploadDate": "2024-10-26T07:07:36Z",
+    "pricingAnalysis": {
+      "overview": "Anthropic API (Claude) - Anthropic's API providing access to Claude models with industry-leading safety, 200K context windows, and strong reasoning capabilities. Anthropic API (Claude) is free to use with Per-token pricing, All Claude models, API key access. While most llm tools start at ~$18/mo, Anthropic API (Claude)'s free tier lets you skip the cost entirely until you need more.",
+      "planAdvice": [
+        {
+          "plan": "Pay per use",
+          "price": 0,
+          "period": "mo",
+          "advice": "You get Per-token pricing, All Claude models, API key access. What's locked behind the paywall: team management, usage controls, enterprise features. Good enough for solo use and evaluation."
+        },
+        {
+          "plan": "Workspaces",
+          "price": null,
+          "period": "mo",
+          "advice": "Custom pricing for Team management, Usage controls, Enterprise features. Always negotiate - ask for pilot pricing if testing with <50 seats, and push for annual discount commitments. Compare enterprise quotes against OpenAI API's equivalent tier."
+        }
+      ],
+      "verdict": "Anthropic API (Claude) scores 4.7/5 and offers a free plan - that's a rare combination. The free tier with Per-token pricing and All Claude models is more than enough to validate whether it fits your workflow."
+    },
+    "tokenPricing": {
+      "models": [
+        {
+          "name": "Claude Opus 4.7",
+          "input": 5,
+          "output": 25,
+          "unit": "1M tokens"
+        },
+        {
+          "name": "Claude Sonnet 4.6",
+          "input": 3,
+          "output": 15,
+          "unit": "1M tokens"
+        },
+        {
+          "name": "Claude Haiku 4.5",
+          "input": 1,
+          "output": 5,
+          "unit": "1M tokens"
+        }
+      ]
+    },
+    "expertTake": "The 200K context window paired with Claude 3.5 Sonnet's reasoning makes it the top pick for long-document analysis and complex function calling pipelines. No free tier, but per-token pricing stays manageable until you hit serious production scale.",
+    "bestFor": "AI app developers"
+  },
+  {
+    "slug": "google-ai-studio",
+    "name": "Google AI Studio",
+    "url": "https://aistudio.google.com",
+    "category": "llm",
+    "subcategories": [
+      "ai-agents"
+    ],
+    "description": "Google's free development environment for experimenting with Gemini models and generating API keys for production deployment.",
+    "longDescription": "Google AI Studio serves as the primary entry point for developers exploring Gemini models before committing to production deployment through Vertex AI. The platform provides an interactive Playground where users can test prompts against Gemini 1.5 Pro and Flash - models that offer the largest commercially available context windows at up to 2 million tokens. This massive context capacity enables processing of entire software repositories, hours of video transcripts, or thousands of documents in a single API call. Multimodal input support handles text, images, audio, and video natively. System instructions configure model behavior for specific use cases without complex prompt engineering. Function calling enables structured tool use for agentic applications. Code execution capabilities let models write and run Python directly within the environment. Grounding with Google Search connects model outputs to real-time information. The free tier is particularly generous, making it accessible for experimentation and early-stage projects.",
+    "pricing": {
+      "free": true,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "mo",
+          "highlights": [
+            "Gemini 1.5 Flash free",
+            "15 RPM limit",
+            "API key generation"
+          ]
+        },
+        {
+          "name": "Pay per use",
+          "price": 0,
+          "period": "mo",
+          "highlights": [
+            "Gemini 1.5 Pro",
+            "Higher rate limits",
+            "Production ready"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Gemini 1.5 Pro/Flash",
+      "2M context window",
+      "Multimodal input",
+      "Prompt testing",
+      "API key generation",
+      "System instructions",
+      "Function calling",
+      "Streaming",
+      "Code execution",
+      "Grounding with Google Search",
+      "Safety settings",
+      "PromptLibrary"
+    ],
+    "rating": {
+      "g2": 4.5,
+      "capterra": 4.4
+    },
+    "founded": 2023,
+    "users": "2M+",
+    "affiliate": {
+      "url": "https://aistudio.google.com",
+      "commission": "N/A",
+      "network": "none"
+    },
+    "subcategory": "ai-models",
+    "featureCount": 12,
+    "normalizedFeatures": {
+      "Text Generation": true,
+      "Image Generation": false,
+      "Video Generation": false,
+      "Code Generation": true,
+      "Voice/Speech": false,
+      "API Access": true,
+      "Free Tier": true,
+      "Browser Extension": false,
+      "Mobile App": false,
+      "Collaboration": false,
+      "Custom Training": false,
+      "Plugins/Extensions": false,
+      "File Upload": false,
+      "Web Search": false,
+      "Analytics": false,
+      "Automation/Workflows": false,
+      "Templates": false,
+      "Multi-language": true,
+      "Real-time": true,
+      "Enterprise/Team Plans": false
+    },
+    "youtubeId": "-aT3Uh1hyis",
+    "pros": [
+      "Free plan available",
+      "Highly rated (4.5/5 on review platforms)",
+      "12 key features including Gemini 1.5 Pro/Flash and 2M context window",
+      "Large user base (2M+)",
+      "API access for custom integrations"
+    ],
+    "cons": [
+      "AI output quality varies by use case",
+      "Some advanced features locked behind higher tiers"
+    ],
+    "youtubeReview": "https://www.youtube.com/watch?v=_jnR0uPvWMY",
+    "useCases": [
+      {
+        "title": "Multi-Turn Support Flows Tested with Real Messages",
+        "description": "Prompt testing iterates escalation logic with actual customer messages before going live. The 2M context window holds full ticket histories and knowledge bases in one API call.",
+        "icon": "chat"
+      },
+      {
+        "title": "5,000 Invoices Extracted Monthly via Multimodal Input",
+        "description": "Multimodal input ingests PDFs and images; Function calling outputs JSON directly into accounting software. System instructions lock the extraction schema across all documents.",
+        "icon": "database"
+      }
+    ],
+    "youtubeUploadDate": "2025-07-23T13:08:42Z",
+    "pricingAnalysis": {
+      "overview": "Google AI Studio - Google's free development environment for experimenting with Gemini models and generating API keys for production deployment. Google AI Studio is free to use with Gemini 1.5 Flash free, 15 RPM limit, API key generation. While most llm tools start at ~$18/mo, Google AI Studio's free tier lets you skip the cost entirely until you need more.",
+      "planAdvice": [
+        {
+          "plan": "Free",
+          "price": 0,
+          "period": "mo",
+          "advice": "You get Gemini 1.5 Flash free, 15 RPM limit, API key generation. What's locked behind the paywall: gemini 1.5 pro, higher rate limits, production ready. Good enough for solo use and evaluation."
+        },
+        {
+          "plan": "Pay per use",
+          "price": 0,
+          "period": "mo",
+          "advice": "You get Gemini 1.5 Pro, Higher rate limits, Production ready. Good enough for solo use and evaluation."
+        }
+      ],
+      "verdict": "Google AI Studio scores 4.5/5 and offers a free plan - that's a rare combination. The free tier with Gemini 1.5 Flash free and 15 RPM limit is more than enough to validate whether it fits your workflow."
+    },
+    "tokenPricing": {
+      "models": [
+        {
+          "name": "Gemini 2.5 Pro",
+          "input": 1.25,
+          "output": 10,
+          "unit": "1M tokens"
+        },
+        {
+          "name": "Gemini 2.5 Flash",
+          "input": 0.15,
+          "output": 0.6,
+          "unit": "1M tokens"
+        }
+      ]
+    },
+    "expertTake": "The 2M context window is unmatched—feed entire codebases or book-length documents for free during development. Worth using just for prompt testing; API key generation makes the transition to production deployment seamless.",
+    "bestFor": "Developers prototyping Gemini apps"
+  },
+  {
+    "slug": "cohere",
+    "name": "Cohere",
+    "url": "https://cohere.com",
+    "category": "llm",
+    "subcategories": [
+      "ai-agents"
+    ],
+    "description": "Enterprise NLP platform offering Command, Embed, and Rerank models designed for RAG pipelines and business search applications.",
+    "longDescription": "Cohere has positioned itself as the enterprise-focused alternative to OpenAI, emphasizing deployment flexibility, multilingual support, and RAG (Retrieval-Augmented Generation) capabilities that connect AI to proprietary business data. The Command R+ model handles complex multi-step reasoning and tool use for agentic applications. The Embed API converts text into semantic vectors that power intelligent search across large document collections, while the Rerank API improves the relevance of search results from any retrieval system. Together these three primitives - generate, embed, rerank - provide all the building blocks for sophisticated enterprise AI applications. Cohere's connectors framework simplifies integration with existing data sources including SharePoint, Google Drive, and Salesforce. The platform supports over 100 languages natively, making it practical for global organizations. Critically for enterprises with strict compliance requirements, Cohere offers on-premise deployment options and Microsoft Azure private cloud hosting.",
+    "pricing": {
+      "free": true,
+      "plans": [
+        {
+          "name": "Free trial",
+          "price": 0,
+          "period": "mo",
+          "highlights": [
+            "Trial credits",
+            "API access",
+            "All endpoints"
+          ]
+        },
+        {
+          "name": "Production",
+          "price": 0,
+          "period": "mo",
+          "highlights": [
+            "Pay per token",
+            "Higher rate limits",
+            "SLA"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "price": null,
+          "period": "mo",
+          "highlights": [
+            "On-premise option",
+            "Custom models",
+            "Dedicated support"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Command R+ model",
+      "Embed API",
+      "Rerank API",
+      "RAG toolkit",
+      "Multi-lingual",
+      "Fine-tuning",
+      "Deployment flexibility",
+      "Enterprise security",
+      "On-premise option",
+      "Connectors",
+      "Tool use",
+      "Structured outputs"
+    ],
+    "rating": {
+      "g2": 4.5,
+      "capterra": 4.4
+    },
+    "founded": 2019,
+    "users": "200K+",
+    "affiliate": {
+      "url": "https://cohere.com",
+      "commission": "N/A",
+      "network": "none"
+    },
+    "subcategory": "ai-models",
+    "featureCount": 12,
+    "normalizedFeatures": {
+      "Text Generation": true,
+      "Image Generation": false,
+      "Video Generation": false,
+      "Code Generation": false,
+      "Voice/Speech": false,
+      "API Access": true,
+      "Free Tier": false,
+      "Browser Extension": false,
+      "Mobile App": false,
+      "Collaboration": true,
+      "Custom Training": true,
+      "Plugins/Extensions": false,
+      "File Upload": false,
+      "Web Search": true,
+      "Analytics": false,
+      "Automation/Workflows": false,
+      "Templates": false,
+      "Multi-language": true,
+      "Real-time": true,
+      "Enterprise/Team Plans": true
+    },
+    "youtubeId": "n4mIKHSw1Mo",
+    "pros": [
+      "Free plan available",
+      "Highly rated (4.5/5 on review platforms)",
+      "12 key features including Command R+ model and Embed API",
+      "Growing user base (200K+)",
+      "Multiple pricing tiers (3 plans) to match different needs"
+    ],
+    "cons": [
+      "AI output quality varies by use case",
+      "Some advanced features locked behind higher tiers"
+    ],
+    "youtubeReview": "https://www.youtube.com/watch?v=BRL8WPLJurI",
+    "useCases": [
+      {
+        "title": "Semantic Search Across 50K internal wiki Pages in 500ms",
+        "description": "Embed API indexes internal wikis and runbooks. Queries return semantically relevant results under 500ms - replacing keyword search across the entire knowledge base.",
+        "icon": "search"
+      },
+      {
+        "title": "25-Language Support Bot with Fine-Tuned Terminology",
+        "description": "Command R+ handles 25+ languages in a single deployment. Fine-tuning on company-specific terms ensures consistent tone and accuracy across all regional support queues.",
+        "icon": "globe"
+      },
+      {
+        "title": "Rerank API Cuts Search False Positives by 35%",
+        "description": "Chain dense retrieval into Cohere's ranking stage. A SaaS processing 2M daily queries dropped average response time from 1.8s to 0.6s without adding infrastructure.",
+        "icon": "zap"
+      }
+    ],
+    "youtubeUploadDate": "2024-06-16T18:44:46Z",
+    "pricingAnalysis": {
+      "overview": "Cohere - Enterprise NLP platform offering Command, Embed, and Rerank models designed for RAG pipelines and business search applications. Cohere is free to use with Trial credits, API access, All endpoints. While most llm tools start at ~$18/mo, Cohere's free tier lets you skip the cost entirely until you need more.",
+      "planAdvice": [
+        {
+          "plan": "Free trial",
+          "price": 0,
+          "period": "mo",
+          "advice": "You get Trial credits, API access, All endpoints. What's locked behind the paywall: pay per token, higher rate limits, sla. Good enough for solo use and evaluation."
+        },
+        {
+          "plan": "Production",
+          "price": 0,
+          "period": "mo",
+          "advice": "You get Pay per token, Higher rate limits, SLA. What's locked behind the paywall: on-premise option, custom models, dedicated support. Good enough for solo use and evaluation."
+        },
+        {
+          "plan": "Enterprise",
+          "price": null,
+          "period": "mo",
+          "advice": "Custom pricing for On-premise option, Custom models, Dedicated support. Always negotiate - ask for pilot pricing if testing with <50 seats, and push for annual discount commitments. Compare enterprise quotes against OpenAI API's equivalent tier."
+        }
+      ],
+      "verdict": "Cohere scores 4.5/5 and offers a free plan - that's a rare combination. The free tier with Trial credits and API access is more than enough to validate whether it fits your workflow."
+    },
+    "tokenPricing": {
+      "models": [
+        {
+          "name": "Command R+",
+          "input": 2.5,
+          "output": 10,
+          "unit": "1M tokens"
+        },
+        {
+          "name": "Command R",
+          "input": 0.15,
+          "output": 0.6,
+          "unit": "1M tokens"
+        }
+      ]
+    },
+    "expertTake": "The Rerank API and Embed API are purpose-built for RAG pipelines—better retrieval quality than any general-purpose LLM add-on. Skip Command R+ for creative work; it's engineered for enterprise search, not open-ended generation.",
+    "bestFor": "Enterprise RAG pipeline builders"
+  },
+  {
+    "slug": "mistral-ai",
+    "name": "Mistral AI",
+    "url": "https://mistral.ai",
+    "category": "llm",
+    "subcategories": [
+      "ai-agents"
+    ],
+    "description": "European AI company offering powerful open-source and commercial language models with a strong focus on efficiency and data sovereignty.",
+    "longDescription": "Mistral AI has emerged as Europe's most prominent AI research company, building models that consistently punch above their weight class in benchmarks relative to their parameter count. The company offers both open-source models like Mistral 7B and Mixtral 8x7B - freely downloadable and self-hostable - alongside commercial models like Mistral Large and Mistral Nemo for production applications. The Pixtral model extends capabilities to multimodal understanding of images and text. For organizations prioritizing data sovereignty, Mistral's European Union headquarters and infrastructure provides compliance advantages under GDPR. The La Plateforme API offers straightforward pay-per-token pricing without subscription requirements. Function calling, JSON mode, and the Agents API enable sophisticated application development. Le Chat assistant provides a consumer-facing ChatGPT alternative. The self-hostable nature of Mistral's models makes it uniquely attractive for organizations that cannot send data to external APIs.",
+    "pricing": {
+      "free": false,
+      "plans": [
+        {
+          "name": "Free API",
+          "price": 0,
+          "period": "mo",
+          "highlights": [
+            "Rate-limited access",
+            "Mistral Small",
+            "Experimental features"
+          ]
+        },
+        {
+          "name": "Pay per use",
+          "price": 0,
+          "period": "mo",
+          "highlights": [
+            "Per-token pricing",
+            "All models",
+            "Production ready"
+          ]
+        },
+        {
+          "name": "Enterprise",
+          "price": null,
+          "period": "mo",
+          "highlights": [
+            "Dedicated deployment",
+            "Custom models",
+            "EU data residency"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Mistral Large/Small/Nemo",
+      "Open source models",
+      "Function calling",
+      "JSON mode",
+      "Multimodal (Pixtral)",
+      "Self-hostable",
+      "Fast inference",
+      "Code generation",
+      "Le Chat assistant",
+      "Agents API",
+      "Batch processing",
+      "European data compliance"
+    ],
+    "rating": {
+      "g2": 4.5,
+      "capterra": 4.4
+    },
+    "founded": 2023,
+    "users": "500K+",
+    "affiliate": {
+      "url": "https://mistral.ai",
+      "commission": "N/A",
+      "network": "none"
+    },
+    "subcategory": "ai-models",
+    "featureCount": 12,
+    "normalizedFeatures": {
+      "Text Generation": true,
+      "Image Generation": true,
+      "Video Generation": false,
+      "Code Generation": true,
+      "Voice/Speech": true,
+      "API Access": true,
+      "Free Tier": true,
+      "Browser Extension": false,
+      "Mobile App": false,
+      "Collaboration": true,
+      "Custom Training": false,
+      "Plugins/Extensions": false,
+      "File Upload": true,
+      "Web Search": true,
+      "Analytics": false,
+      "Automation/Workflows": false,
+      "Templates": false,
+      "Multi-language": false,
+      "Real-time": false,
+      "Enterprise/Team Plans": true
+    },
+    "youtubeId": "WqTY_DHR6O8",
+    "pros": [
+      "Free plan available",
+      "Highly rated (4.5/5 on review platforms)",
+      "12 key features including Mistral Large/Small/Nemo and Open source models",
+      "Growing user base (500K+)",
+      "Multiple pricing tiers (3 plans) to match different needs"
+    ],
+    "cons": [
+      "AI output quality varies by use case",
+      "Some advanced features locked behind higher tiers"
+    ],
+    "youtubeReview": "https://www.youtube.com/watch?v=WqTY_DHR6O8",
+    "useCases": [
+      {
+        "title": "EU-Compliant AI Features Shipped in 2 Weeks",
+        "description": "Self-host Mistral Small to keep customer data within EU borders. Regulatory review drops from 90 days to 14 days when inference stays fully on-premise.",
+        "icon": "shield"
+      },
+      {
+        "title": "Function Calling Cuts Support Token Spend by 70%",
+        "description": "Route customer queries to database lookup, calculator, or human agent via structured function calls. Cost drops from $3K to $900 per 100K support tickets.",
+        "icon": "zap"
+      },
+      {
+        "title": "Pixtral Extracts Structured Data from Claim Documents",
+        "description": "Pixtral processes receipts, photos, and ID scans in one model call. JSON mode syncs outputs to underwriting backends - 5,000 documents daily at 92% first-pass accuracy.",
+        "icon": "layers"
+      }
+    ],
+    "youtubeUploadDate": "2025-07-16T18:53:37Z",
+    "pricingAnalysis": {
+      "overview": "Mistral AI - European AI company offering powerful open-source and commercial language models with a strong focus on efficiency and data sovereignty. Mistral AI is free to use with Rate-limited access, Mistral Small, Experimental features. While most llm tools start at ~$18/mo, Mistral AI's free tier lets you skip the cost entirely until you need more.",
+      "planAdvice": [
+        {
+          "plan": "Free API",
+          "price": 0,
+          "period": "mo",
+          "advice": "You get Rate-limited access, Mistral Small, Experimental features. What's locked behind the paywall: per-token pricing, all models, production ready. Good enough for solo use and evaluation."
+        },
+        {
+          "plan": "Pay per use",
+          "price": 0,
+          "period": "mo",
+          "advice": "You get Per-token pricing, All models, Production ready. What's locked behind the paywall: dedicated deployment, custom models, eu data residency. Good enough for solo use and evaluation."
+        },
+        {
+          "plan": "Enterprise",
+          "price": null,
+          "period": "mo",
+          "advice": "Custom pricing for Dedicated deployment, Custom models, EU data residency. Always negotiate - ask for pilot pricing if testing with <50 seats, and push for annual discount commitments. Compare enterprise quotes against OpenAI API's equivalent tier."
+        }
+      ],
+      "verdict": "Mistral AI scores 4.5/5 and offers a free plan - that's a rare combination. The free tier with Rate-limited access and Mistral Small is more than enough to validate whether it fits your workflow."
+    },
+    "tokenPricing": {
+      "models": [
+        {
+          "name": "Mistral Large",
+          "input": 2,
+          "output": 6,
+          "unit": "1M tokens"
+        },
+        {
+          "name": "Mistral Small",
+          "input": 0.1,
+          "output": 0.3,
+          "unit": "1M tokens"
+        }
+      ]
+    },
+    "expertTake": "Open-source models and a data sovereignty focus make this the smart pick for EU companies with compliance constraints. JSON mode and function calling are production-ready; Pixtral multimodal is still catching up to GPT-4o Vision.",
+    "bestFor": "Devs needing open-source LLMs"
+  },
+  {
+    "slug": "grok",
+    "name": "Grok",
+    "url": "https://x.ai/grok",
+    "category": "llm",
+    "subcategory": "ai-models",
+    "description": "AI assistant by xAI (Elon Musk) with real-time access to X/Twitter data and uncensored responses.",
+    "affiliate": {
+      "url": "https://grok.x.ai",
+      "commission": "0%",
+      "network": "none"
+    },
+    "color": "#1d9bf0",
+    "logo": "GR",
+    "founded": 2023,
+    "users": "10M+",
+    "rating": {
+      "g2": 4.3,
+      "capterra": 4.4,
+      "getapp": 4.3
+    },
+    "pricing": {
+      "free": true,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "month",
+          "features": [
+            "Limited Grok access",
+            "X integration"
+          ]
+        },
+        {
+          "name": "Premium+",
+          "price": 16,
+          "period": "month",
+          "features": [
+            "Full Grok 3 access",
+            "Priority speed",
+            "Real-time data"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Real-time X/Twitter data",
+      "Image generation",
+      "Code assistance",
+      "Web search",
+      "Uncensored mode",
+      "Deep Search",
+      "Voice mode",
+      "API access"
+    ],
+    "featureCount": 8,
+    "longDescription": "For ai tools teams tired of switching between tools, Grok consolidates ai assistant by xai (elon musk) with real-time access to x/twitter data and uncensored responses. Key capabilities include Real-time X/Twitter data, Image generation, Code assistance. Also covers Web search, Uncensored mode. Free plan available; paid tiers from $16/mo. Rated 4.3/5 across independent review platforms. Used by 10M+ teams worldwide.",
+    "normalizedFeatures": {
+      "Text Generation": true,
+      "Image Generation": false,
+      "Video Generation": false,
+      "Code Generation": false,
+      "Voice/Speech": false,
+      "API Access": true,
+      "Free Tier": true,
+      "Browser Extension": false,
+      "Mobile App": false,
+      "Collaboration": true,
+      "Custom Training": false,
+      "Plugins/Extensions": false,
+      "File Upload": true,
+      "Web Search": true,
+      "Analytics": true,
+      "Automation/Workflows": true,
+      "Templates": true,
+      "Multi-language": true,
+      "Real-time": true,
+      "Enterprise/Team Plans": true
+    },
+    "youtubeId": "V3YzhHlDt9c",
+    "pros": [
+      "Free plan available",
+      "Competitive pricing from $16/mo",
+      "Strong user ratings (4.3/5)",
+      "8 key features including Real-time X/Twitter data and Image generation",
+      "Large user base (10M+)"
+    ],
+    "cons": [
+      "AI output quality varies by use case",
+      "Some advanced features locked behind higher tiers"
+    ],
+    "youtubeReview": "https://www.youtube.com/watch?v=4qGw9WH4Xj8",
+    "useCases": [
+      {
+        "title": "Brand Sentiment Alerts Delivered Within 12 Minutes",
+        "description": "Deep Search scans X/Twitter in real time. Structured JSON pipes into team chat webhooks, triggering crisis alerts across 50+ keyword combinations before issues compound.",
+        "icon": "zap"
+      },
+      {
+        "title": "Adversarial Inputs Tested Before Internal AI Tools Launch",
+        "description": "Uncensored mode exposes model responses to sensitive or adversarial prompts without guardrails. Structured audit logs document gaps, cutting manual red-team cycles by 65%.",
+        "icon": "shield"
+      },
+      {
+        "title": "40 Market Data Parsers Built in 2 Weeks via Code Assistance",
+        "description": "Code assistance combined with live X/Twitter financial data generates monitoring scripts on demand. A trading desk built 40+ custom parsers in 2 weeks versus 6 manually.",
+        "icon": "code"
+      }
+    ],
+    "youtubeUploadDate": "2025-08-28T14:15:03Z",
+    "pricingAnalysis": {
+      "overview": "Grok - AI assistant by xAI (Elon Musk) with real-time access to X/Twitter data and uncensored responses. The free tier gets you core features - a real plan, not a 14-day trial. Upgrading to Premium+ ($16/month) unlocks premium capabilities. Priced near the $18/mo category average, Grok competes directly with OpenAI API and ChatGPT on value.",
+      "planAdvice": [
+        {
+          "plan": "Free",
+          "price": 0,
+          "period": "month",
+          "advice": "You get basic access. If those matter, Premium+ at $16/month is the next step. Good enough for solo use and evaluation."
+        },
+        {
+          "plan": "Premium+",
+          "price": 16,
+          "period": "month",
+          "advice": "$16/month gets you expanded functionality. The sweet spot for professionals who've maxed out the free plan."
+        }
+      ],
+      "verdict": "Rated 4.3/5, Grok at $16/mo is a value pick in its category. Start free. Move to Premium+ ($16/month) when the upgrade becomes a need, not a want."
+    },
+    "expertTake": "Real-time X/Twitter data is the actual differentiator — no other major LLM gives you live social pulse built in. Worth it if you track trends or public discourse; code assistance is capable but not the reason to choose this over alternatives.",
+    "bestFor": "X users wanting real-time AI"
+  },
+  {
+    "slug": "deepseek",
+    "name": "DeepSeek",
+    "url": "https://www.deepseek.com",
+    "category": "llm",
+    "subcategory": "ai-models",
+    "description": "Open-source AI model from China rivaling GPT-4 at a fraction of the cost - shook the AI world in 2025.",
+    "affiliate": {
+      "url": "https://www.deepseek.com",
+      "commission": "0%",
+      "network": "none"
+    },
+    "color": "#4d6bfe",
+    "logo": "DS",
+    "founded": 2023,
+    "users": "50M+",
+    "rating": {
+      "g2": 4.5,
+      "capterra": 4.6,
+      "getapp": 4.5
+    },
+    "pricing": {
+      "free": true,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "month",
+          "features": [
+            "DeepSeek V3 & R1 access",
+            "Web & app"
+          ]
+        },
+        {
+          "name": "API",
+          "price": null,
+          "period": "month",
+          "features": [
+            "Pay-per-token",
+            "$0.14/1M input tokens",
+            "Cheaper than GPT-4"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Open source",
+      "Chain-of-thought reasoning",
+      "Code generation",
+      "Math solving",
+      "Multimodal",
+      "API access",
+      "Local deployment",
+      "Cost-efficient"
+    ],
+    "featureCount": 8,
+    "longDescription": "With rated 4.5/5 across independent review platforms. DeepSeek has earned its place in the ai tools market. Open-source AI model from China rivaling GPT-4 at a fraction of the cost - shook the AI world in 2025. Key capabilities include Open source, Chain-of-thought reasoning, Code generation. Also covers Math solving, Multimodal. Completely free to use. Used by 50M+ teams worldwide.",
+    "normalizedFeatures": {
+      "Text Generation": true,
+      "Image Generation": false,
+      "Video Generation": false,
+      "Code Generation": true,
+      "Voice/Speech": false,
+      "API Access": true,
+      "Free Tier": true,
+      "Browser Extension": false,
+      "Mobile App": true,
+      "Collaboration": false,
+      "Custom Training": false,
+      "Plugins/Extensions": false,
+      "File Upload": false,
+      "Web Search": false,
+      "Analytics": false,
+      "Automation/Workflows": false,
+      "Templates": false,
+      "Multi-language": false,
+      "Real-time": false,
+      "Enterprise/Team Plans": true
+    },
+    "youtubeId": "naJO1zxB6_Q",
+    "pros": [
+      "Free plan available",
+      "Highly rated (4.5/5 on review platforms)",
+      "8 key features including Open source and Chain-of-thought reasoning",
+      "Large user base (50M+)",
+      "API access for custom integrations"
+    ],
+    "cons": [
+      "AI output quality varies by use case",
+      "Some advanced features locked behind higher tiers"
+    ],
+    "youtubeReview": "https://www.youtube.com/watch?v=EX_gPbb_M7E",
+    "useCases": [
+      {
+        "title": "Derivative Pricing Calculated and Audited Step-by-Step",
+        "description": "Chain-of-thought reasoning solves multi-step financial models in spreadsheet via API. Open-source architecture lets compliance teams audit exactly how each answer was reached.",
+        "icon": "code"
+      },
+      {
+        "title": "50K Daily Inferences at $0.14 per Million Tokens",
+        "description": "Run on local infrastructure for high-volume APIs. At $0.14/million tokens versus $15 for LLM, startups process millions of queries monthly without vendor lock-in.",
+        "icon": "zap"
+      },
+      {
+        "title": "PDF Contracts with Embedded Charts Parsed Inside internal wiki",
+        "description": "Multimodal feature parses documents containing tables and images within internal wiki. Liability clauses and compliance gaps extract with visual context - no separate image-to-text.",
+        "icon": "shield"
+      }
+    ],
+    "youtubeUploadDate": "2025-01-28T16:35:05Z",
+    "pricingAnalysis": {
+      "overview": "DeepSeek - Open-source AI model from China rivaling GPT-4 at a fraction of the cost - shook the AI world in 2025. DeepSeek is free to use. While most llm tools start at ~$18/mo, DeepSeek's free tier lets you skip the cost entirely until you need more.",
+      "planAdvice": [
+        {
+          "plan": "Free",
+          "price": 0,
+          "period": "month",
+          "advice": "You get basic access. Good enough for solo use and evaluation."
+        },
+        {
+          "plan": "API",
+          "price": null,
+          "period": "month",
+          "advice": "Custom pricing for SSO, SLA, dedicated support. Always negotiate - ask for pilot pricing if testing with <50 seats, and push for annual discount commitments. Compare enterprise quotes against OpenAI API's equivalent tier."
+        }
+      ],
+      "verdict": "DeepSeek scores 4.5/5 and offers a free plan - that's a rare combination."
+    },
+    "tokenPricing": {
+      "models": [
+        {
+          "name": "DeepSeek V4 Flash",
+          "input": 0.14,
+          "output": 0.28,
+          "unit": "1M tokens"
+        },
+        {
+          "name": "DeepSeek V4 Pro",
+          "input": 1.74,
+          "output": 3.48,
+          "unit": "1M tokens"
+        }
+      ]
+    },
+    "expertTake": "Worth it for anyone self-hosting — open source with chain-of-thought reasoning at near-zero cost is a genuine market disruption. Math solving and code generation rival models 10x more expensive; just factor in data privacy before deploying.",
+    "bestFor": "Cost-conscious AI developers"
+  },
+  {
+    "slug": "meta-ai",
+    "name": "Meta AI",
+    "url": "https://www.meta.ai",
+    "category": "llm",
+    "subcategory": "ai-models",
+    "description": "Meta's AI assistant powered by Llama 4 - built into WhatsApp, Instagram, Facebook, and Messenger.",
+    "affiliate": {
+      "url": "https://www.meta.ai",
+      "commission": "0%",
+      "network": "none"
+    },
+    "color": "#0082fb",
+    "logo": "MA",
+    "founded": 2023,
+    "users": "400M+",
+    "rating": {
+      "g2": 4.2,
+      "capterra": 4.3,
+      "getapp": 4.2
+    },
+    "pricing": {
+      "free": true,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "month",
+          "features": [
+            "Full access",
+            "Integrated in Meta apps",
+            "Image generation"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "WhatsApp/Instagram integration",
+      "Image generation",
+      "Real-time search",
+      "Llama 4 powered",
+      "Voice mode",
+      "Free forever",
+      "Multilingual",
+      "Mobile-first"
+    ],
+    "featureCount": 8,
+    "longDescription": "With rated 4.2/5 across independent review platforms. Meta AI has earned its place in the ai tools market. Meta's AI assistant powered by Llama 4 - built into WhatsApp, Instagram, Facebook, and Messenger. Key capabilities include WhatsApp/Instagram integration, Image generation, Real-time search. Also covers Llama 4 powered, Voice mode. Completely free to use. Used by 400M+ teams worldwide.",
+    "normalizedFeatures": {
+      "Text Generation": true,
+      "Image Generation": false,
+      "Video Generation": false,
+      "Code Generation": false,
+      "Voice/Speech": false,
+      "API Access": true,
+      "Free Tier": true,
+      "Browser Extension": false,
+      "Mobile App": false,
+      "Collaboration": true,
+      "Custom Training": true,
+      "Plugins/Extensions": false,
+      "File Upload": true,
+      "Web Search": false,
+      "Analytics": false,
+      "Automation/Workflows": false,
+      "Templates": false,
+      "Multi-language": true,
+      "Real-time": true,
+      "Enterprise/Team Plans": true
+    },
+    "youtubeId": "gVOW1Zw6_bY",
+    "pros": [
+      "Free plan available",
+      "Strong user ratings (4.2/5)",
+      "8 key features including WhatsApp/Instagram integration and Image generation",
+      "Large user base (400M+)",
+      "Mobile app available"
+    ],
+    "cons": [
+      "User ratings could be higher",
+      "AI output quality varies by use case",
+      "Limited plan options"
+    ],
+    "youtubeReview": "https://www.youtube.com/watch?v=GOejI6c0CMQ",
+    "useCases": [
+      {
+        "title": "WhatsApp Tickets Classified and Triaged Before Human Review",
+        "description": "Native WhatsApp integration extracts customer name, issue type, and priority directly in-thread. First-response time drops from 4 hours to 12 minutes with zero context switching.",
+        "icon": "mail"
+      },
+      {
+        "title": "Feedback in 47 Languages Structured as JSON for BI Tools",
+        "description": "Multilingual support processes Instagram DMs and Messenger feedback in their native language. Llama 4 outputs structured JSON for BI ingestion - no translation API costs or latency.",
+        "icon": "globe"
+      }
+    ],
+    "youtubeUploadDate": "2024-11-18T17:30:07Z",
+    "pricingAnalysis": {
+      "overview": "Meta AI - Meta's AI assistant powered by Llama 4 - built into WhatsApp, Instagram, Facebook, and Messenger. Meta AI is free to use. While most llm tools start at ~$18/mo, Meta AI's free tier lets you skip the cost entirely until you need more.",
+      "planAdvice": [
+        {
+          "plan": "Free",
+          "price": 0,
+          "period": "month",
+          "advice": "You get basic access. Good enough for solo use and evaluation."
+        }
+      ],
+      "verdict": "Rated 4.2/5, Meta AI  is a mainstream choice in its category."
+    },
+    "expertTake": "If you're already in WhatsApp or Instagram daily, the native integration makes this the most frictionless AI you'll ever use. Worth trying free, but don't expect the reasoning depth you'd get from dedicated paid models.",
+    "bestFor": "Social media & messaging users"
+  },
+  {
+    "slug": "llama",
+    "name": "Llama (Meta)",
+    "url": "https://www.llama.com",
+    "category": "llm",
+    "subcategory": "ai-models",
+    "description": "Meta's open-source large language model - the most popular foundation model for self-hosting and fine-tuning.",
+    "affiliate": {
+      "url": "https://llama.meta.com",
+      "commission": "0%",
+      "network": "none"
+    },
+    "color": "#0866ff",
+    "logo": "LL",
+    "founded": 2023,
+    "users": "5M+ devs",
+    "rating": {
+      "g2": 4.6,
+      "capterra": 4.7,
+      "getapp": 4.6
+    },
+    "pricing": {
+      "free": true,
+      "plans": [
+        {
+          "name": "Open Source",
+          "price": 0,
+          "period": "month",
+          "features": [
+            "Download & self-host",
+            "Commercial use allowed",
+            "Full weights"
+          ]
+        },
+        {
+          "name": "Cloud (via providers)",
+          "price": null,
+          "period": "month",
+          "features": [
+            "Pay-per-token on Groq/Together",
+            "No setup needed"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Open source & free",
+      "Self-hostable",
+      "Llama 3.3 70B",
+      "Commercial license",
+      "Fine-tuning support",
+      "Runs locally",
+      "API via Groq/Together",
+      "Multilingual"
+    ],
+    "featureCount": 8,
+    "longDescription": "For ai tools teams tired of switching between tools, Llama (Meta) consolidates meta's open-source large language model - the most popular foundation model for self-hosting and fine-tuning. Key capabilities include Open source & free, Self-hostable, Llama 3.3 70B. Also covers Commercial license, Fine-tuning support. Completely free to use. Rated 4.7/5 across independent review platforms. Used by 5M+ devs teams worldwide.",
+    "normalizedFeatures": {
+      "Text Generation": true,
+      "Image Generation": false,
+      "Video Generation": false,
+      "Code Generation": false,
+      "Voice/Speech": false,
+      "API Access": true,
+      "Free Tier": true,
+      "Browser Extension": false,
+      "Mobile App": false,
+      "Collaboration": false,
+      "Custom Training": true,
+      "Plugins/Extensions": false,
+      "File Upload": false,
+      "Web Search": false,
+      "Analytics": false,
+      "Automation/Workflows": false,
+      "Templates": false,
+      "Multi-language": true,
+      "Real-time": false,
+      "Enterprise/Team Plans": true
+    },
+    "youtubeId": "4rk9fHIOGTU",
+    "pros": [
+      "Free plan available",
+      "Highly rated (4.6/5 on G2)",
+      "8 key features including Open source & free and Self-hostable",
+      "API access for custom integrations"
+    ],
+    "cons": [
+      "AI output quality varies by use case",
+      "Some advanced features locked behind higher tiers"
+    ],
+    "youtubeReview": "https://www.youtube.com/watch?v=P4M9wfJH-yI",
+    "useCases": [
+      {
+        "title": "Self-Hosted LLM with Zero External Data Exposure",
+        "description": "Llama 3.3 70B runs on private infrastructure with complete control over weights and inference logs. Zero records leave the internal network - financial services runs analysis 40%.",
+        "icon": "shield"
+      },
+      {
+        "title": "Discharge Summaries Fine-Tuned to 2% Hallucination Rate",
+        "description": "Fine-tuning on 5,000 deidentified patient notes reduces hallucinations from 12% to 2%. Legal teams achieve 85% higher statute retrieval precision after domain-specific training.",
+        "icon": "database"
+      },
+      {
+        "title": "35-Language Support Handled at $0.012 per Request",
+        "description": "Multilingual capability via Groq API handles support across 35+ languages without separate models. Cost drops from $0.08 to $0.012 per request - $18K saved monthly at 6M queries.",
+        "icon": "globe"
+      },
+      {
+        "title": "team chat Prompt Chains Auto-Populate issue tracker in 4 Minutes",
+        "description": "Llama API calls via Groq summarize threads, extract action items, and write issue tracker tickets in sequence. 200 weekly meeting notes processed and ticketed in under 4 minutes.",
+        "icon": "zap"
+      }
+    ],
+    "youtubeUploadDate": "2024-07-29T15:47:20Z",
+    "pricingAnalysis": {
+      "overview": "Llama (Meta) - Meta's open-source large language model - the most popular foundation model for self-hosting and fine-tuning. Llama (Meta) is free to use. While most llm tools start at ~$18/mo, Llama (Meta)'s free tier lets you skip the cost entirely until you need more.",
+      "planAdvice": [
+        {
+          "plan": "Open Source",
+          "price": 0,
+          "period": "month",
+          "advice": "You get basic access. Good enough for solo use and evaluation."
+        },
+        {
+          "plan": "Cloud (via providers)",
+          "price": null,
+          "period": "month",
+          "advice": "Custom pricing for SSO, SLA, dedicated support. Always negotiate - ask for pilot pricing if testing with <50 seats, and push for annual discount commitments. Compare enterprise quotes against OpenAI API's equivalent tier."
+        }
+      ],
+      "verdict": "Llama (Meta) scores 4.6/5 and offers a free plan - that's a rare combination."
+    },
+    "tokenPricing": {
+      "models": [
+        {
+          "name": "Llama 3.1 405B (via providers)",
+          "input": 0.19,
+          "output": 0.49,
+          "unit": "1M tokens"
+        },
+        {
+          "name": "Llama 3.1 70B (via providers)",
+          "input": 0.05,
+          "output": 0.1,
+          "unit": "1M tokens"
+        }
+      ],
+      "note": "Open-source. Token prices vary by cloud provider (AWS, Azure, Together AI)."
+    },
+    "expertTake": "Worth it for developers who need full control — self-hostable and open source means no usage caps and no data leaving your infrastructure. Fine-tuning support lets you specialize Llama 3.3 70B for your exact domain at compute cost only.",
+    "bestFor": "Developers self-hosting AI",
+    "youtubeStats": {
+      "views": 48160,
+      "likes": 1233,
+      "fetchedAt": "2026-04-26T13:54:21.813Z"
+    },
+    "lastUpdated": "2026-04-26"
+  },
+  {
+    "slug": "gemini-advanced",
+    "name": "Gemini Advanced",
+    "url": "https://gemini.google.com/advanced",
+    "category": "llm",
+    "subcategory": "ai-models",
+    "description": "Google's most powerful AI - Gemini 2.0 Ultra with 1M token context, Deep Research, and Workspace integration.",
+    "affiliate": {
+      "url": "https://one.google.com",
+      "commission": "0%",
+      "network": "none"
+    },
+    "color": "#4285f4",
+    "logo": "GA",
+    "founded": 2024,
+    "users": "30M+",
+    "rating": {
+      "g2": 4.5,
+      "capterra": 4.5,
+      "getapp": 4.5
+    },
+    "pricing": {
+      "free": false,
+      "plans": [
+        {
+          "name": "Google One AI Premium",
+          "price": 19.99,
+          "period": "month",
+          "features": [
+            "Gemini 2.0 Ultra",
+            "Deep Research",
+            "2TB storage",
+            "Workspace AI"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "1M token context",
+      "Deep Research",
+      "Google Workspace integration",
+      "Image & video understanding",
+      "Code execution",
+      "Real-time data",
+      "NotebookLM Plus",
+      "Gemini in Gmail/Docs"
+    ],
+    "featureCount": 8,
+    "longDescription": "Gemini Advanced focuses on google's most powerful ai - gemini 2.0 ultra with 1m token context, deep research, and workspace integration. Key capabilities include 1M token context, Deep Research, Google Workspace integration. Also covers Image & video understanding, Code execution. Starts at $19.99/mo. Rated 4.5/5 across independent review platforms. Founded in 2024.",
+    "normalizedFeatures": {
+      "Text Generation": true,
+      "Image Generation": false,
+      "Video Generation": false,
+      "Code Generation": false,
+      "Voice/Speech": false,
+      "API Access": true,
+      "Free Tier": true,
+      "Browser Extension": false,
+      "Mobile App": false,
+      "Collaboration": true,
+      "Custom Training": false,
+      "Plugins/Extensions": false,
+      "File Upload": true,
+      "Web Search": false,
+      "Analytics": true,
+      "Automation/Workflows": true,
+      "Templates": true,
+      "Multi-language": true,
+      "Real-time": true,
+      "Enterprise/Team Plans": true
+    },
+    "youtubeId": "nN2xX27D8uc",
+    "pros": [
+      "Competitive pricing from $19.99/mo",
+      "Highly rated (4.5/5 on review platforms)",
+      "8 key features including 1M token context and Deep Research",
+      "Large user base (30M+)",
+      "AI-powered features built in"
+    ],
+    "cons": [
+      "No free plan available",
+      "AI output quality varies by use case",
+      "Limited plan options"
+    ],
+    "youtubeReview": "https://www.youtube.com/watch?v=OOmVjn75K7c",
+    "useCases": [
+      {
+        "title": "Entire Mailboxes Scanned for PII and Compliance Violations",
+        "description": "Gemini in Gmail processes months of email threads in a single 1M token request, flagging data exfiltration and phishing patterns. Findings export structured to SIEM.",
+        "icon": "shield"
+      },
+      {
+        "title": "Chained Prompts Build Branded Copy Inside Google Docs",
+        "description": "Embed Gemini in Docs: step 1 summarizes source material, step 2 generates copy, step 3 formats for LinkedIn. Reviewers iterate without leaving the document.",
+        "icon": "edit"
+      },
+      {
+        "title": "Screen Recordings and Error Logs Diagnosed Together",
+        "description": "Upload application video alongside stack traces. Gemini watches UI behavior while parsing logs, then surfaces root causes and fixes in 2 minutes instead of 30.",
+        "icon": "code"
+      },
+      {
+        "title": "Earnings Calls and Filings Converted to JSON for BI",
+        "description": "NotebookLM Plus ingests transcripts and competitor filings. Deep Research extracts revenue projections and strategic pivots - output as JSON without manual parsing.",
+        "icon": "chart"
+      }
+    ],
+    "youtubeUploadDate": "2024-05-16T23:14:41Z",
+    "pricingAnalysis": {
+      "overview": "Gemini Advanced - Google's most powerful AI - Gemini 2. Starts at $19.99/month (Google One AI Premium) with core features included. Priced near the $17/mo category average, Gemini Advanced competes directly with OpenAI API and ChatGPT on value.",
+      "planAdvice": [
+        {
+          "plan": "Google One AI Premium",
+          "price": 19.99,
+          "period": "month",
+          "advice": "$19.99/month gets you expanded functionality. Entry point - standard pricing for llm."
+        }
+      ],
+      "verdict": "Rated 4.5/5, Gemini Advanced at $19.99/mo is a mainstream choice in its category."
+    },
+    "expertTake": "The 1M token context window is transformative for anyone working with massive codebases or documents. Deep Research produces genuinely thorough reports, and Google Workspace integration makes it hard to leave if you live in Docs and Sheets.",
+    "bestFor": "Heavy Google Workspace users"
+  },
+  {
+    "slug": "gpt-4o",
+    "name": "GPT-4o",
+    "url": "https://openai.com/gpt-4o",
+    "category": "llm",
+    "description": "OpenAI's most capable multimodal model - text, image, audio in one. Fastest GPT-4 class model.",
+    "affiliate": {
+      "url": "https://openai.com",
+      "commission": "0%",
+      "network": "none"
+    },
+    "color": "#10a37f",
+    "logo": "GP",
+    "founded": 2024,
+    "users": "100M+",
+    "rating": {
+      "g2": 4.7,
+      "capterra": 4.6
+    },
+    "pricing": {
+      "free": true,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "month",
+          "highlights": [
+            "GPT-4o limited",
+            "Basic features"
+          ]
+        },
+        {
+          "name": "Plus",
+          "price": 20,
+          "period": "month",
+          "highlights": [
+            "GPT-4o full access",
+            "DALL-E 3",
+            "Advanced analysis"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": 30,
+          "period": "month",
+          "highlights": [
+            "Higher limits",
+            "Admin console"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Multimodal (text/image/audio)",
+      "Function calling",
+      "128K context window",
+      "JSON mode",
+      "Streaming",
+      "Vision",
+      "Code generation",
+      "Web browsing",
+      "File uploads",
+      "System prompts",
+      "Fine-tuning",
+      "API access",
+      "Real-time voice",
+      "Tool use",
+      "Batch API",
+      "Enterprise SSO",
+      "Reasoning mode",
+      "Plugin ecosystem",
+      "Custom GPTs",
+      "Team collaboration"
+    ],
+    "subcategory": "llm",
+    "featureCount": 20,
+    "longDescription": "GPT-4o is OpenAI's flagship multimodal model combining text, vision, and audio understanding in one unified model. Fastest and most cost-efficient GPT-4 class model with 128K context.",
+    "normalizedFeatures": {
+      "Text Generation": true,
+      "Code Generation": true,
+      "Image Understanding": true,
+      "Voice/Speech": true,
+      "API Access": true,
+      "Free Tier": true,
+      "Open Source": false,
+      "Fine-tuning": true,
+      "Function Calling": true,
+      "Long Context (100K+)": true,
+      "Reasoning": true,
+      "Web Search": true,
+      "Multi-modal": true,
+      "Streaming": true,
+      "Batch API": true,
+      "JSON Mode": true,
+      "System Prompts": true,
+      "Tool Use": true,
+      "Vision": true,
+      "Enterprise Plans": true
+    },
+    "pros": [
+      "Best-in-class multimodal capabilities",
+      "Free tier available",
+      "Extensive API ecosystem",
+      "Fastest GPT-4 class model",
+      "Widest third-party integration support"
+    ],
+    "cons": [
+      "Usage limits on free tier",
+      "API costs can scale up quickly"
+    ],
+    "youtubeReview": "https://www.youtube.com/watch?v=MmFLDvOFLW0",
+    "youtubeId": "1rhB3pSFJNI",
+    "useCases": [
+      {
+        "title": "Scanned Invoices and Contracts Audited via Vision in Batch",
+        "description": "Vision extracts tables, signatures, and handwritten annotations across thousands of scanned documents. The 128K context loads full multi-page PDFs alongside comparison datasets.",
+        "icon": "shield"
+      },
+      {
+        "title": "API Clients Auto-Generated from REST Endpoint Screenshots",
+        "description": "Feed documentation screenshots through Vision; Function calling generates typed Python, TypeScript, or Go client libraries. API integration drops from days to hours.",
+        "icon": "code"
+      },
+      {
+        "title": "500 Voicemail Files Converted to Structured JSON Daily",
+        "description": "Native audio input converts voicemails and call recordings directly to searchable JSON via JSON mode. Function calling routes issues to departments automatically - no transcription.",
+        "icon": "mail"
+      }
+    ],
+    "youtubeUploadDate": "2024-07-16T20:30:00Z",
+    "pricingAnalysis": {
+      "overview": "GPT-4o - OpenAI's most capable multimodal model - text, image, audio in one. The free tier gets you GPT-4o limited, Basic features - a real plan, not a 14-day trial. Upgrading to Plus ($20/month) unlocks GPT-4o full access and DALL-E 3. Priced near the $17/mo category average, GPT-4o competes directly with OpenAI API and ChatGPT on value.",
+      "planAdvice": [
+        {
+          "plan": "Free",
+          "price": 0,
+          "period": "month",
+          "advice": "You get GPT-4o limited, Basic features. What's locked behind the paywall: gpt-4o full access, dall-e 3, advanced analysis. If those matter, Plus at $20/month is the next step. Good enough for solo use and evaluation."
+        },
+        {
+          "plan": "Plus",
+          "price": 20,
+          "period": "month",
+          "advice": "$20/month gets you GPT-4o full access, DALL-E 3, Advanced analysis. The sweet spot for professionals who've maxed out the free plan and need GPT-4o full access, DALL-E 3."
+        },
+        {
+          "plan": "Team",
+          "price": 30,
+          "period": "month",
+          "advice": "$30/month gets you Higher limits, Admin console. 50% more than Plus - justified only if you need the extras."
+        }
+      ],
+      "verdict": "GPT-4o scores 4.7/5 and offers a free plan - that's a rare combination. The free tier with GPT-4o limited and Basic features is more than enough to validate whether it fits your workflow. Start free. Move to Plus ($20/month) when GPT-4o full access becomes a need, not a want."
+    },
+    "tokenPricing": {
+      "models": [
+        {
+          "name": "GPT-4o (API)",
+          "input": 2.5,
+          "output": 10,
+          "unit": "1M tokens"
+        }
+      ],
+      "note": "API pricing. Subscription available via ChatGPT Plus ($20/mo)."
+    },
+    "expertTake": "Handling text, image, and audio in a single multimodal call is still the benchmark other models chase. Function calling and JSON mode make it the go-to for developers building production apps that need reliable structured output.",
+    "bestFor": "Developers needing versatile AI",
+    "youtubeStats": {
+      "views": 416,
+      "likes": 14,
+      "fetchedAt": "2026-04-26T13:54:21.813Z"
+    },
+    "lastUpdated": "2026-04-26"
+  },
+  {
+    "slug": "claude-3-5-sonnet",
+    "name": "Claude 3.5 Sonnet",
+    "url": "https://claude.ai",
+    "category": "llm",
+    "description": "Anthropic's most intelligent model - tops coding benchmarks, 200K context, excellent reasoning.",
+    "affiliate": {
+      "url": "https://anthropic.com",
+      "commission": "0%",
+      "network": "none"
+    },
+    "color": "#d97706",
+    "logo": "CL",
+    "founded": 2024,
+    "users": "10M+",
+    "rating": {
+      "g2": 4.7,
+      "capterra": 4.5
+    },
+    "pricing": {
+      "free": true,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "month",
+          "highlights": [
+            "Claude 3.5 Sonnet limited",
+            "Basic features"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": 20,
+          "period": "month",
+          "highlights": [
+            "5x more usage",
+            "Projects",
+            "Priority access"
+          ]
+        },
+        {
+          "name": "Team",
+          "price": 30,
+          "period": "month",
+          "highlights": [
+            "Everything in Pro",
+            "Central billing",
+            "Admin console"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "200K context window",
+      "Artifacts feature",
+      "Computer use (beta)",
+      "Code generation",
+      "Vision",
+      "Function calling",
+      "JSON mode",
+      "Streaming",
+      "API access",
+      "System prompts",
+      "Tool use",
+      "Document analysis",
+      "Advanced reasoning",
+      "Multi-language",
+      "File uploads",
+      "Batch processing",
+      "Enterprise SSO",
+      "Custom instructions",
+      "Citation support",
+      "Safety controls"
+    ],
+    "subcategory": "llm",
+    "featureCount": 20,
+    "longDescription": "Claude 3.5 Sonnet by Anthropic leads coding and reasoning benchmarks. Famous for 200K context window, Artifacts for interactive outputs, and safety-first design.",
+    "normalizedFeatures": {
+      "Text Generation": true,
+      "Code Generation": true,
+      "Image Understanding": true,
+      "Voice/Speech": false,
+      "API Access": true,
+      "Free Tier": true,
+      "Open Source": false,
+      "Fine-tuning": false,
+      "Function Calling": true,
+      "Long Context (100K+)": true,
+      "Reasoning": true,
+      "Web Search": false,
+      "Multi-modal": true,
+      "Streaming": true,
+      "Batch API": true,
+      "JSON Mode": true,
+      "System Prompts": true,
+      "Tool Use": true,
+      "Vision": true,
+      "Enterprise Plans": true
+    },
+    "pros": [
+      "Best coding performance",
+      "200K context window",
+      "Artifacts for interactive content",
+      "Strong safety record",
+      "Excellent instruction following"
+    ],
+    "cons": [
+      "No native web search",
+      "No image generation"
+    ],
+    "youtubeReview": "https://www.youtube.com/watch?v=yrMyCtkjm7M",
+    "youtubeId": "RudrWy9uPZE",
+    "useCases": [
+      {
+        "title": "Full Monorepo Security Audit Completed in One API Call",
+        "description": "200K context loads entire codebases to identify cross-file vulnerabilities. No chunking - audit cycles compress from weeks to days with ~45% fewer false positives.",
+        "icon": "shield"
+      },
+      {
+        "title": "Python Notebooks Rendered Live Inside the Interface",
+        "description": "Artifacts generates executable notebooks and SQL queries that render directly. Analyses iterate 3x faster with real-time output updates - no Jupyter or IDE context switch.",
+        "icon": "code"
+      },
+      {
+        "title": "Multi-Step Browser Workflows Automated Without Selenium",
+        "description": "Computer use (beta) handles form-filling, screenshot validation, and cross-browser testing. Test setup time drops ~60%; dynamic UI elements that static selectors miss are handled.",
+        "icon": "zap"
+      }
+    ],
+    "youtubeUploadDate": "2025-02-11T13:00:41Z",
+    "pricingAnalysis": {
+      "overview": "Claude 3.5 Sonnet - Anthropic's most intelligent model - tops coding benchmarks, 200K context, excellent reasoning. The free tier gets you Claude 3.5 Sonnet limited, Basic features - a real plan, not a 14-day trial. Upgrading to Pro ($20/month) unlocks 5x more usage and Projects. Priced near the $17/mo category average, Claude 3.5 Sonnet competes directly with OpenAI API and ChatGPT on value.",
+      "planAdvice": [
+        {
+          "plan": "Free",
+          "price": 0,
+          "period": "month",
+          "advice": "You get Claude 3.5 Sonnet limited, Basic features. What's locked behind the paywall: 5x more usage, projects, priority access. If those matter, Pro at $20/month is the next step. Good enough for solo use and evaluation."
+        },
+        {
+          "plan": "Pro",
+          "price": 20,
+          "period": "month",
+          "advice": "$20/month gets you 5x more usage, Projects, Priority access. The sweet spot for professionals who've maxed out the free plan and need 5x more usage, Projects."
+        },
+        {
+          "plan": "Team",
+          "price": 30,
+          "period": "month",
+          "advice": "$30/month gets you Everything in Pro, Central billing, Admin console. 50% more than Pro - justified only if you need the extras."
+        }
+      ],
+      "verdict": "Claude 3.5 Sonnet scores 4.6/5 and offers a free plan - that's a rare combination. The free tier with Claude 3.5 Sonnet limited and Basic features is more than enough to validate whether it fits your workflow. Start free. Move to Pro ($20/month) when 5x more usage becomes a need, not a want."
+    },
+    "expertTake": "Worth it for teams pushing coding limits — the 200K context window handles full codebases, and Computer use (beta) opens doors no other model does. Skip if you just need basic Q&A.",
+    "bestFor": "Developers needing top coding AI"
+  },
+  {
+    "slug": "gemini-1-5-pro",
+    "name": "Gemini 1.5 Pro",
+    "url": "https://gemini.google.com",
+    "category": "llm",
+    "description": "Google's multimodal LLM with 1M token context - handles entire codebases, books, hours of video.",
+    "affiliate": {
+      "url": "https://gemini.google.com",
+      "commission": "0%",
+      "network": "none"
+    },
+    "color": "#4285f4",
+    "logo": "GM",
+    "founded": 2024,
+    "users": "50M+",
+    "rating": {
+      "g2": 4.5,
+      "capterra": 4.4
+    },
+    "pricing": {
+      "free": true,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "month",
+          "highlights": [
+            "Gemini 1.5 Flash",
+            "Basic features"
+          ]
+        },
+        {
+          "name": "Advanced",
+          "price": 20,
+          "period": "month",
+          "highlights": [
+            "Gemini 1.5 Pro",
+            "1M context",
+            "Google Workspace integration"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "1M token context window",
+      "Multimodal (text/image/video/audio)",
+      "Code generation",
+      "Function calling",
+      "JSON mode",
+      "Streaming",
+      "API access",
+      "Google Search integration",
+      "System prompts",
+      "Tool use",
+      "Video understanding",
+      "Audio understanding",
+      "File uploads",
+      "Real-time data",
+      "Multi-language",
+      "Document analysis",
+      "Enterprise SSO",
+      "Grounding",
+      "Citation",
+      "Batch processing"
+    ],
+    "subcategory": "llm",
+    "featureCount": 20,
+    "longDescription": "Gemini 1.5 Pro offers the largest context window of any major LLM at 1M tokens. Can analyze entire codebases, books, hours of video. Deep Google ecosystem integration.",
+    "normalizedFeatures": {
+      "Text Generation": true,
+      "Code Generation": true,
+      "Image Understanding": true,
+      "Voice/Speech": true,
+      "API Access": true,
+      "Free Tier": true,
+      "Open Source": false,
+      "Fine-tuning": true,
+      "Function Calling": true,
+      "Long Context (100K+)": true,
+      "Reasoning": true,
+      "Web Search": true,
+      "Multi-modal": true,
+      "Streaming": true,
+      "Batch API": true,
+      "JSON Mode": true,
+      "System Prompts": true,
+      "Tool Use": true,
+      "Vision": true,
+      "Enterprise Plans": true
+    },
+    "pros": [
+      "Largest context window (1M tokens)",
+      "Native Google Search integration",
+      "Excellent multimodal performance",
+      "Free tier available",
+      "Strong video/audio understanding"
+    ],
+    "cons": [
+      "Less consistent than GPT-4o on some tasks",
+      "Google ecosystem lock-in"
+    ],
+    "youtubeReview": "https://www.youtube.com/watch?v=zLGun3lUp58",
+    "youtubeId": "pM8X5cQNxTY",
+    "useCases": [
+      {
+        "title": "Complete Monorepos Analyzed Without Splitting Into Chunks",
+        "description": "Load 500K+ token codebases into the 1M context window. Cross-module dependency analysis returns in a single request - latency drops 70% versus 10+ sequential API calls.",
+        "icon": "code"
+      },
+      {
+        "title": "2-Hour Video Processed and Flagged for Review in 8 Minutes",
+        "description": "Multimodal capabilities ingest uncut footage, extract scene timestamps, and flag policy violations in one API call - previously requiring parallel inference across 10-minute chunks.",
+        "icon": "zap"
+      },
+      {
+        "title": "400-Page PDFs Extracted with Page-Number Citations",
+        "description": "Feed full documents into the multimodal API. Definitions extract with precise page citations; Google Search integration cross-references findings against live sources in the same.",
+        "icon": "layers"
+      }
+    ],
+    "youtubeUploadDate": "2024-05-27T16:37:09Z",
+    "pricingAnalysis": {
+      "overview": "Gemini 1.5 Pro - Google's multimodal LLM with 1M token context - handles entire codebases, books, hours of video. The free tier gets you Gemini 1.5 Flash, Basic features - a real plan, not a 14-day trial. Upgrading to Advanced ($20/month) unlocks Gemini 1.5 Pro and 1M context. Priced near the $17/mo category average, Gemini 1.5 Pro competes directly with OpenAI API and ChatGPT on value.",
+      "planAdvice": [
+        {
+          "plan": "Free",
+          "price": 0,
+          "period": "month",
+          "advice": "You get Gemini 1.5 Flash, Basic features. What's locked behind the paywall: gemini 1.5 pro, 1m context, google workspace integration. If those matter, Advanced at $20/month is the next step. Good enough for solo use and evaluation."
+        },
+        {
+          "plan": "Advanced",
+          "price": 20,
+          "period": "month",
+          "advice": "$20/month gets you Gemini 1.5 Pro, 1M context, Google Workspace integration. The sweet spot for professionals who've maxed out the free plan and need Gemini 1.5 Pro, 1M context."
+        }
+      ],
+      "verdict": "Gemini 1.5 Pro scores 4.5/5 and offers a free plan - that's a rare combination. The free tier with Gemini 1.5 Flash and Basic features is more than enough to validate whether it fits your workflow. Start free. Move to Advanced ($20/month) when Gemini 1.5 Pro becomes a need, not a want."
+    },
+    "expertTake": "If your workflow involves massive documents or hours of video, the 1M token context window is genuinely unmatched. Multimodal support across text, image, video, and audio makes it worth it for media-heavy pipelines.",
+    "bestFor": "Processing massive documents or video",
+    "youtubeStats": {
+      "views": 10223,
+      "likes": 157,
+      "fetchedAt": "2026-04-26T13:54:21.813Z"
+    },
+    "lastUpdated": "2026-04-26"
+  },
+  {
+    "slug": "deepseek-v3",
+    "name": "DeepSeek V3",
+    "url": "https://deepseek.com",
+    "category": "llm",
+    "description": "Chinese open-source LLM that rivals GPT-4 at a fraction of the cost. Exceptional coding ability.",
+    "affiliate": {
+      "url": "https://deepseek.com",
+      "commission": "0%",
+      "network": "none"
+    },
+    "color": "#3b82f6",
+    "logo": "DS",
+    "founded": 2024,
+    "users": "5M+",
+    "rating": {
+      "g2": 4.4,
+      "capterra": 4.3
+    },
+    "pricing": {
+      "free": true,
+      "plans": [
+        {
+          "name": "Free (API)",
+          "price": 0,
+          "period": "month",
+          "highlights": [
+            "Limited API calls",
+            "DeepSeek-V3 access"
+          ]
+        },
+        {
+          "name": "API Pay-as-you-go",
+          "price": 0,
+          "period": "month",
+          "highlights": [
+            "$0.27/1M input tokens",
+            "Cheapest frontier model"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "128K context window",
+      "Open weights",
+      "API access",
+      "Code generation",
+      "Function calling",
+      "JSON mode",
+      "Streaming",
+      "Multi-language",
+      "System prompts",
+      "Tool use",
+      "Math reasoning",
+      "Scientific analysis",
+      "Mixture of Experts",
+      "Cost-efficient inference",
+      "Self-hosted option",
+      "Real-time data (web)",
+      "Batch processing",
+      "Concurrent requests",
+      "Vision (V3-turbo)",
+      "Document analysis"
+    ],
+    "subcategory": "llm",
+    "featureCount": 20,
+    "longDescription": "DeepSeek V3 shocked AI world by matching GPT-4 performance at 30x lower cost. Open-source, self-hostable, with exceptional coding and math capabilities.",
+    "normalizedFeatures": {
+      "Text Generation": true,
+      "Code Generation": true,
+      "Image Understanding": true,
+      "Voice/Speech": false,
+      "API Access": true,
+      "Free Tier": true,
+      "Open Source": true,
+      "Fine-tuning": true,
+      "Function Calling": true,
+      "Long Context (100K+)": true,
+      "Reasoning": true,
+      "Web Search": true,
+      "Multi-modal": true,
+      "Streaming": true,
+      "Batch API": true,
+      "JSON Mode": true,
+      "System Prompts": true,
+      "Tool Use": true,
+      "Vision": true,
+      "Enterprise Plans": false
+    },
+    "pros": [
+      "GPT-4 level at fraction of cost",
+      "Open-source & self-hostable",
+      "Exceptional coding performance",
+      "Cheapest frontier model API",
+      "Strong math & reasoning"
+    ],
+    "cons": [
+      "Less ecosystem support than OpenAI/Anthropic",
+      "Data privacy concerns for some users"
+    ],
+    "youtubeReview": "https://www.youtube.com/watch?v=cvH6xjpT1PA",
+    "youtubeId": "xUlX6jvwVfM",
+    "useCases": [
+      {
+        "title": "12-Language Support Bot Built via Function Calling",
+        "description": "Function calling routes queries to the right handler - translation, database lookup, or escalation. One deployment handles Portuguese, Mandarin, and English without separate models.",
+        "icon": "globe"
+      },
+      {
+        "title": "2M Daily Inferences at Under $1.2K/Month Self-Hosted",
+        "description": "Self-host open weights on internal GPU clusters to eliminate per-token fees. One fintech dropped inference costs from $8K to under $1.2K monthly for 2M daily code review requests.",
+        "icon": "zap"
+      },
+      {
+        "title": "Legacy Repo Migration Assessment Condensed from 6 Weeks to 3 Days",
+        "description": "Load entire legacy repositories - settings, migrations, tests - into one 128K-token prompt for LLM-level refactoring suggestions without chunking or splitting.",
+        "icon": "code"
+      }
+    ],
+    "youtubeUploadDate": "2026-03-24T17:05:54Z",
+    "pricingAnalysis": {
+      "overview": "DeepSeek V3 - Chinese open-source LLM that rivals GPT-4 at a fraction of the cost. DeepSeek V3 is free to use with Limited API calls, DeepSeek-V3 access. While most llm tools start at ~$18/mo, DeepSeek V3's free tier lets you skip the cost entirely until you need more.",
+      "planAdvice": [
+        {
+          "plan": "Free (API)",
+          "price": 0,
+          "period": "month",
+          "advice": "You get Limited API calls, DeepSeek-V3 access. What's locked behind the paywall: $0.27/1m input tokens, cheapest frontier model. Good enough for solo use and evaluation."
+        },
+        {
+          "plan": "API Pay-as-you-go",
+          "price": 0,
+          "period": "month",
+          "advice": "You get $0.27/1M input tokens, Cheapest frontier model. Good enough for solo use and evaluation."
+        }
+      ],
+      "verdict": "Rated 4.3/5, DeepSeek V3  is a mainstream choice in its category."
+    },
+    "tokenPricing": {
+      "models": [
+        {
+          "name": "DeepSeek V4 Flash",
+          "input": 0.14,
+          "output": 0.28,
+          "unit": "1M tokens"
+        },
+        {
+          "name": "DeepSeek V4 Pro",
+          "input": 1.74,
+          "output": 3.48,
+          "unit": "1M tokens"
+        }
+      ]
+    },
+    "expertTake": "Open weights plus serious Code generation at near-zero API cost makes this a no-brainer for budget-conscious builders. Skip if data privacy regs restrict Chinese-origin models; otherwise it's hard to beat.",
+    "bestFor": "Budget-conscious developers and teams"
+  },
+  {
+    "slug": "llama-3-1",
+    "name": "Llama 3.1",
+    "url": "https://www.llama.com",
+    "category": "llm",
+    "description": "Meta's open-source LLM family. 8B to 405B parameters - truly free, self-hostable, commercially usable.",
+    "affiliate": {
+      "url": "https://llama.meta.com",
+      "commission": "0%",
+      "network": "none"
+    },
+    "color": "#0668e1",
+    "logo": "LL",
+    "founded": 2024,
+    "users": "10M+",
+    "rating": {
+      "g2": 4.3,
+      "capterra": 4.2
+    },
+    "pricing": {
+      "free": true,
+      "plans": [
+        {
+          "name": "Free (open-source)",
+          "price": 0,
+          "period": "month",
+          "highlights": [
+            "Commercial use allowed",
+            "Self-host anywhere"
+          ]
+        },
+        {
+          "name": "Via API providers",
+          "price": 0,
+          "period": "month",
+          "highlights": [
+            "Groq, Together AI, etc.",
+            "$0.05-0.9/1M tokens"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Open-source weights",
+      "128K context window",
+      "Commercial license",
+      "Self-hostable",
+      "Multiple model sizes (8B/70B/405B)",
+      "Code generation",
+      "Function calling",
+      "JSON mode",
+      "Multi-language",
+      "Tool use",
+      "Fine-tuning",
+      "Quantization support",
+      "GGUF format",
+      "HuggingFace integration",
+      "RAG support",
+      "Local deployment",
+      "Batch processing",
+      "Custom training",
+      "Community ecosystem",
+      "No data sent to third parties"
+    ],
+    "subcategory": "llm",
+    "featureCount": 20,
+    "longDescription": "Llama 3.1 from Meta is the most widely-used open-source LLM. Available in 8B, 70B, 405B. Run locally, fine-tune, deploy anywhere - commercially for free.",
+    "normalizedFeatures": {
+      "Text Generation": true,
+      "Code Generation": true,
+      "Image Understanding": false,
+      "Voice/Speech": false,
+      "API Access": true,
+      "Free Tier": true,
+      "Open Source": true,
+      "Fine-tuning": true,
+      "Function Calling": true,
+      "Long Context (100K+)": true,
+      "Reasoning": true,
+      "Web Search": false,
+      "Multi-modal": false,
+      "Streaming": true,
+      "Batch API": true,
+      "JSON Mode": true,
+      "System Prompts": true,
+      "Tool Use": true,
+      "Vision": false,
+      "Enterprise Plans": false
+    },
+    "pros": [
+      "Truly free - open source with commercial license",
+      "Self-hostable for full privacy",
+      "Best open-source performance",
+      "Fine-tune for any use case",
+      "Massive community & integrations"
+    ],
+    "cons": [
+      "Requires technical setup for self-hosting",
+      "No built-in web search or image generation"
+    ],
+    "youtubeReview": "https://www.youtube.com/watch?v=wVXmlHXjxOs",
+    "youtubeId": "1xdneyn6zjw",
+    "useCases": [
+      {
+        "title": "Private Code Completion Cluster Running on Internal Kubernetes",
+        "description": "Deploy the 70B model on internal infrastructure under commercial license. Function calling binds completions to internal linters. External API spend drops from $12K to $800/month.",
+        "icon": "code"
+      },
+      {
+        "title": "200-Page Contracts Parsed Into Normalized Schema at 94% Accuracy",
+        "description": "JSON mode extracts contract fields without custom fine-tuning. The 128K context loads entire agreements plus extraction instructions in one prompt - no document chunking.",
+        "icon": "layers"
+      },
+      {
+        "title": "Multi-Tenant Prompts Routed Without Model Redeployment",
+        "description": "Run the 8B model on shared hardware; function calling routes tenant-specific system prompts dynamically. Open-source weights satisfy model transparency requirements for compliance.",
+        "icon": "lock"
+      }
+    ],
+    "youtubeUploadDate": "2024-07-24T20:06:24Z",
+    "pricingAnalysis": {
+      "overview": "Llama 3.1 - Meta's open-source LLM family. Llama 3.1 is free to use with Commercial use allowed, Self-host anywhere. While most llm tools start at ~$18/mo, Llama 3.1's free tier lets you skip the cost entirely until you need more.",
+      "planAdvice": [
+        {
+          "plan": "Free (open-source)",
+          "price": 0,
+          "period": "month",
+          "advice": "You get Commercial use allowed, Self-host anywhere. What's locked behind the paywall: groq, together ai, etc., $0.05-0.9/1m tokens. Good enough for solo use and evaluation."
+        },
+        {
+          "plan": "Via API providers",
+          "price": 0,
+          "period": "month",
+          "advice": "You get Groq, Together AI, etc., $0.05-0.9/1M tokens. Good enough for solo use and evaluation."
+        }
+      ],
+      "verdict": "Rated 4.3/5, Llama 3.1  is a mainstream choice in its category."
+    },
+    "tokenPricing": {
+      "models": [
+        {
+          "name": "Llama 3.1 405B (via providers)",
+          "input": 0.19,
+          "output": 0.49,
+          "unit": "1M tokens"
+        },
+        {
+          "name": "Llama 3.1 70B (via providers)",
+          "input": 0.05,
+          "output": 0.1,
+          "unit": "1M tokens"
+        }
+      ],
+      "note": "Open-source. Token prices vary by cloud provider (AWS, Azure, Together AI)."
+    },
+    "expertTake": "The commercial license and self-hostable design make this the go-to for anyone who can't send data to third-party clouds. Multiple model sizes from 8B to 405B let you match compute to budget precisely.",
+    "bestFor": "Developers self-hosting open-source AI"
+  },
+  {
+    "slug": "mistral-large",
+    "name": "Mistral Large",
+    "url": "https://mistral.ai",
+    "category": "llm",
+    "description": "European frontier LLM with strong multilingual & coding abilities. Efficient, GDPR-friendly.",
+    "affiliate": {
+      "url": "https://mistral.ai",
+      "commission": "0%",
+      "network": "none"
+    },
+    "color": "#ff6b35",
+    "logo": "ML",
+    "founded": 2024,
+    "users": "2M+",
+    "rating": {
+      "g2": 4.3,
+      "capterra": 4.2
+    },
+    "pricing": {
+      "free": true,
+      "plans": [
+        {
+          "name": "Free tier",
+          "price": 0,
+          "period": "month",
+          "highlights": [
+            "Mistral Small via API",
+            "Limited calls"
+          ]
+        },
+        {
+          "name": "Pay-as-you-go",
+          "price": 0,
+          "period": "month",
+          "highlights": [
+            "Mistral Large: $2/1M tokens",
+            "Cheapest frontier tier"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "128K context window",
+      "Function calling",
+      "JSON mode",
+      "Streaming",
+      "API access",
+      "Code generation",
+      "Multi-language (French/Spanish/German/Italian/Portuguese)",
+      "System prompts",
+      "Tool use",
+      "GDPR compliant",
+      "European hosting",
+      "Open models available",
+      "Fine-tuning",
+      "Batch processing",
+      "Enterprise on-premise",
+      "RAG support",
+      "Low latency",
+      "Concurrent requests",
+      "Document analysis",
+      "Citation"
+    ],
+    "subcategory": "llm",
+    "featureCount": 20,
+    "longDescription": "Mistral AI brings European frontier AI. GDPR-compliant, data stays in EU. Strong multilingual performance. Open-source Mistral 7B among most popular models on HuggingFace.",
+    "normalizedFeatures": {
+      "Text Generation": true,
+      "Code Generation": true,
+      "Image Understanding": false,
+      "Voice/Speech": false,
+      "API Access": true,
+      "Free Tier": true,
+      "Open Source": true,
+      "Fine-tuning": true,
+      "Function Calling": true,
+      "Long Context (100K+)": true,
+      "Reasoning": true,
+      "Web Search": false,
+      "Multi-modal": false,
+      "Streaming": true,
+      "Batch API": true,
+      "JSON Mode": true,
+      "System Prompts": true,
+      "Tool Use": true,
+      "Vision": false,
+      "Enterprise Plans": true
+    },
+    "pros": [
+      "GDPR-compliant with EU hosting",
+      "Strong multilingual performance",
+      "Most cost-efficient frontier API",
+      "Open-source models available",
+      "Low latency inference"
+    ],
+    "cons": [
+      "No native image generation or web search",
+      "Smaller ecosystem than OpenAI"
+    ],
+    "youtubeReview": "https://www.youtube.com/watch?v=WqTY_DHR6O8",
+    "youtubeId": "dryq4AqNjAo",
+    "useCases": [
+      {
+        "title": "EU Contract Data Extracted Without Leaving EU Infrastructure",
+        "description": "Function calling extracts terms and compliance clauses from 50+ page PDFs in one pass. GDPR-friendly architecture keeps sensitive client data within EU infrastructure throughout.",
+        "icon": "shield"
+      }
+    ],
+    "youtubeUploadDate": "2024-07-27T19:00:30Z",
+    "pricingAnalysis": {
+      "overview": "Mistral Large - European frontier LLM with strong multilingual & coding abilities. Mistral Large is free to use with Mistral Small via API, Limited calls. While most llm tools start at ~$18/mo, Mistral Large's free tier lets you skip the cost entirely until you need more.",
+      "planAdvice": [
+        {
+          "plan": "Free tier",
+          "price": 0,
+          "period": "month",
+          "advice": "You get Mistral Small via API, Limited calls. What's locked behind the paywall: mistral large: $2/1m tokens, cheapest frontier tier. Good enough for solo use and evaluation."
+        },
+        {
+          "plan": "Pay-as-you-go",
+          "price": 0,
+          "period": "month",
+          "advice": "You get Mistral Large: $2/1M tokens, Cheapest frontier tier. Good enough for solo use and evaluation."
+        }
+      ],
+      "verdict": "Rated 4.3/5, Mistral Large  is a mainstream choice in its category."
+    },
+    "tokenPricing": {
+      "models": [
+        {
+          "name": "Mistral Large 2.1",
+          "input": 2,
+          "output": 6,
+          "unit": "1M tokens"
+        }
+      ]
+    },
+    "expertTake": "GDPR-conscious teams in Europe have a real option here — Function calling and JSON mode are solid, and the API is efficient. Worth it if compliance matters; skip if you need vision or multimodal tasks.",
+    "bestFor": "GDPR-compliant European enterprise teams"
+  },
+  {
+    "slug": "grok-2",
+    "name": "Grok 2",
+    "url": "https://x.ai/grok",
+    "category": "llm",
+    "description": "xAI's LLM with real-time X/Twitter data access, image generation via Aurora, and unfiltered style.",
+    "affiliate": {
+      "url": "https://x.ai",
+      "commission": "0%",
+      "network": "none"
+    },
+    "color": "#1a1a1a",
+    "logo": "GK",
+    "founded": 2024,
+    "users": "5M+",
+    "rating": {
+      "g2": 4.2,
+      "capterra": 4.1
+    },
+    "pricing": {
+      "free": true,
+      "plans": [
+        {
+          "name": "Free",
+          "price": 0,
+          "period": "forever",
+          "highlights": [
+            "Limited queries via X/Twitter",
+            "Basic Grok access"
+          ]
+        },
+        {
+          "name": "X Premium",
+          "price": 8,
+          "period": "month",
+          "highlights": [
+            "Grok 2 access",
+            "Real-time data"
+          ]
+        },
+        {
+          "name": "X Premium+",
+          "price": 16,
+          "period": "month",
+          "highlights": [
+            "Higher limits",
+            "Priority access"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Real-time X/Twitter data",
+      "Image generation (Aurora)",
+      "131K context",
+      "Code generation",
+      "Function calling",
+      "Web search",
+      "Multi-language",
+      "API access (beta)",
+      "System prompts",
+      "Unfiltered responses",
+      "Humor & personality",
+      "News analysis",
+      "Social media insights",
+      "Streaming",
+      "JSON mode",
+      "Tool use",
+      "Document analysis",
+      "Voice (coming)",
+      "Image understanding",
+      "Trend analysis"
+    ],
+    "subcategory": "llm",
+    "featureCount": 20,
+    "longDescription": "Grok 2 by xAI (Elon Musk) has unique real-time access to X/Twitter data. Built-in image generation with Aurora model. Known for wit and fewer content restrictions.",
+    "normalizedFeatures": {
+      "Text Generation": true,
+      "Code Generation": true,
+      "Image Understanding": true,
+      "Voice/Speech": false,
+      "API Access": true,
+      "Free Tier": true,
+      "Open Source": false,
+      "Fine-tuning": false,
+      "Function Calling": true,
+      "Long Context (100K+)": true,
+      "Reasoning": true,
+      "Web Search": true,
+      "Multi-modal": true,
+      "Streaming": true,
+      "Batch API": false,
+      "JSON Mode": true,
+      "System Prompts": true,
+      "Tool Use": true,
+      "Vision": true,
+      "Enterprise Plans": false
+    },
+    "pros": [
+      "Real-time X/Twitter data access",
+      "Built-in image generation",
+      "Included in X Premium subscription",
+      "Less restrictive content policy",
+      "Witty and engaging personality"
+    ],
+    "cons": [
+      "Requires X Premium subscription",
+      "API not widely available yet"
+    ],
+    "youtubeReview": "https://www.youtube.com/watch?v=JszCwBVJzgM",
+    "youtubeId": "yTp0tkc2EVg",
+    "useCases": [
+      {
+        "title": "Live X/Twitter Posts Into Sentiment Pipelines Within Seconds",
+        "description": "Real-time data access feeds posts and engagement metrics into sentiment workflows. Crisis alerts trigger in 12 minutes rather than waiting hours for batch reports.",
+        "icon": "zap"
+      },
+      {
+        "title": "SaaS UI Mockups Generated via Aurora in Under 10 Seconds",
+        "description": "Image generation with Aurora creates UI components and lifestyle shots on-demand via API. Agencies iterate visual concepts without designer availability or stock licensing delays.",
+        "icon": "edit"
+      },
+      {
+        "title": "20-Language Support Agent with Full Chat History Context",
+        "description": "Multi-language capability combined with 131K context handles queries in 20+ languages. Full conversation history and company knowledge bases fit in one inference pass.",
+        "icon": "globe"
+      }
+    ],
+    "youtubeUploadDate": "2026-03-22T14:37:04Z",
+    "pricingAnalysis": {
+      "overview": "Grok 2 - xAI's LLM with real-time X/Twitter data access, image generation via Aurora, and unfiltered style. The free tier gets you Limited queries via X/Twitter, Basic Grok access - a real plan, not a 14-day trial. Upgrading to X Premium ($8/month) unlocks Grok 2 access and Real-time data. At $8/mo, Grok 2 undercuts the $18/mo category average by 56%. For comparison, OpenAI API starts at $free and ChatGPT at $20.",
+      "planAdvice": [
+        {
+          "plan": "Free",
+          "price": 0,
+          "period": "forever",
+          "advice": "You get Limited queries via X/Twitter, Basic Grok access. What's locked behind the paywall: grok 2 access, real-time data. If those matter, X Premium at $8/month is the next step. Good enough for solo use and evaluation."
+        },
+        {
+          "plan": "X Premium",
+          "price": 8,
+          "period": "month",
+          "advice": "$8/month gets you Grok 2 access, Real-time data. The sweet spot for professionals who've maxed out the free plan and need Grok 2 access, Real-time data."
+        },
+        {
+          "plan": "X Premium+",
+          "price": 16,
+          "period": "month",
+          "advice": "$16/month gets you Higher limits, Priority access. 100% more than X Premium - justified only if you need the extras."
+        }
+      ],
+      "verdict": "Rated 4.2/5, Grok 2 at $8/mo is a value pick in its category. Start free. Move to X Premium ($8/month) when Grok 2 access becomes a need, not a want."
+    },
+    "expertTake": "Real-time X/Twitter data gives it a unique edge for trend monitoring and social-aware apps no other model can match natively. Aurora image generation is a bonus, though it's not the primary reason to choose it.",
+    "bestFor": "X/Twitter power users and researchers"
+  },
+  {
+    "slug": "openai-o1",
+    "name": "OpenAI o1",
+    "url": "https://openai.com/o1",
+    "category": "llm",
+    "description": "OpenAI's reasoning model - thinks step-by-step before answering. Best for math, science, complex coding.",
+    "affiliate": {
+      "url": "https://openai.com",
+      "commission": "0%",
+      "network": "none"
+    },
+    "color": "#10a37f",
+    "logo": "O1",
+    "founded": 2024,
+    "users": "10M+",
+    "rating": {
+      "g2": 4.6,
+      "capterra": 4.5
+    },
+    "pricing": {
+      "free": false,
+      "plans": [
+        {
+          "name": "Plus",
+          "price": 20,
+          "period": "month",
+          "highlights": [
+            "o1 access (limited)",
+            "o1-mini included"
+          ]
+        },
+        {
+          "name": "Pro",
+          "price": 200,
+          "period": "month",
+          "highlights": [
+            "Unlimited o1",
+            "o1 pro mode"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Chain-of-thought reasoning",
+      "PhD-level science",
+      "Advanced math",
+      "Complex coding",
+      "128K context",
+      "Vision",
+      "API access",
+      "Function calling",
+      "JSON mode",
+      "Streaming",
+      "System prompts",
+      "File uploads",
+      "Safety evaluation",
+      "STEM optimization",
+      "Batch API",
+      "Tool use",
+      "Document analysis",
+      "Benchmark-leading",
+      "Research tasks",
+      "Multi-step problem solving"
+    ],
+    "subcategory": "llm",
+    "featureCount": 20,
+    "longDescription": "OpenAI o1 thinks before answering using chain-of-thought reasoning. Leads benchmarks in math (AIME), science (GPQA), and competitive coding. Best for complex multi-step problems.",
+    "normalizedFeatures": {
+      "Text Generation": true,
+      "Code Generation": true,
+      "Image Understanding": true,
+      "Voice/Speech": false,
+      "API Access": true,
+      "Free Tier": false,
+      "Open Source": false,
+      "Fine-tuning": false,
+      "Function Calling": true,
+      "Long Context (100K+)": true,
+      "Reasoning": true,
+      "Web Search": false,
+      "Multi-modal": true,
+      "Streaming": true,
+      "Batch API": true,
+      "JSON Mode": true,
+      "System Prompts": true,
+      "Tool Use": true,
+      "Vision": true,
+      "Enterprise Plans": true
+    },
+    "pros": [
+      "Best reasoning & math performance",
+      "PhD-level science benchmark leader",
+      "Chain-of-thought transparency",
+      "Excellent for complex coding",
+      "Strong safety evaluation"
+    ],
+    "cons": [
+      "Expensive - $200/mo for unlimited",
+      "Slower than GPT-4o (thinks longer)"
+    ],
+    "youtubeReview": "https://www.youtube.com/watch?v=9cPcwmOZwOo",
+    "youtubeId": "iBfQTnA2n2s",
+    "useCases": [
+      {
+        "title": "Derivative Pricing Proofs Verified in 18 Minutes",
+        "description": "Advanced math steps through each operation in chain-of-thought, catching sign errors and boundary conditions. Manual proof validation drops from 6 hours per model release.",
+        "icon": "code"
+      },
+      {
+        "title": "Kubernetes Manifests, Logs, and Traces Analyzed Together",
+        "description": "The 128K context pastes full infrastructure configs alongside logs and network traces for root cause analysis. Race conditions across 50+ microservices identified in under 90.",
+        "icon": "layers"
+      },
+      {
+        "title": "500K-Line Monolith Refactored via Chained Function Calls",
+        "description": "Function calling chains analysis, test generation, and PR submission in automated sequence. Hands-off migration from procedural to OOP patterns runs over weeks, not months.",
+        "icon": "rocket"
+      }
+    ],
+    "youtubeUploadDate": "2024-12-05T18:26:22Z",
+    "pricingAnalysis": {
+      "overview": "OpenAI o1 - OpenAI's reasoning model - thinks step-by-step before answering. Starts at $20/month (Plus) with o1 access (limited), o1-mini included. Priced near the $17/mo category average, OpenAI o1 competes directly with OpenAI API and ChatGPT on value. Watch the 10x price jump from Plus ($20) to Pro ($200) - map out which features you actually need before committing to upper tiers.",
+      "planAdvice": [
+        {
+          "plan": "Plus",
+          "price": 20,
+          "period": "month",
+          "advice": "$20/month gets you o1 access (limited), o1-mini included. Entry point - standard pricing for llm."
+        },
+        {
+          "plan": "Pro",
+          "price": 200,
+          "period": "month",
+          "advice": "$200/month gets you Unlimited o1, o1 pro mode. 900% more than Plus - justified only if you need the extras."
+        }
+      ],
+      "verdict": "Rated 4.5/5, OpenAI o1 at $20/mo is a mainstream choice in its category. Start with Plus ($20/month). Upgrade to Pro only after you've confirmed Unlimited o1 will get used."
+    },
+    "expertTake": "Worth it for PhD-level science problems and advanced math where correctness matters more than speed. Skip for casual tasks — chain-of-thought reasoning trades latency for precision, and the cost adds up fast.",
+    "bestFor": "Math, science, and complex reasoning"
+  },
+  {
+    "slug": "command-r-plus",
+    "name": "Command R+",
+    "url": "https://cohere.com",
+    "category": "llm",
+    "description": "Cohere's enterprise LLM - RAG-optimized, tool use, grounding. Built for real business workflows.",
+    "affiliate": {
+      "url": "https://cohere.com",
+      "commission": "0%",
+      "network": "none"
+    },
+    "color": "#39d353",
+    "logo": "CR",
+    "founded": 2024,
+    "users": "1M+",
+    "rating": {
+      "g2": 4.3,
+      "capterra": 4.2
+    },
+    "pricing": {
+      "free": true,
+      "plans": [
+        {
+          "name": "Trial",
+          "price": 0,
+          "period": "month",
+          "highlights": [
+            "Limited API calls",
+            "Command R access"
+          ]
+        },
+        {
+          "name": "Production",
+          "price": 0,
+          "period": "month",
+          "highlights": [
+            "Pay-as-you-go",
+            "$2.5/1M input tokens"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "128K context",
+      "RAG optimization",
+      "Tool use",
+      "Grounding with citations",
+      "Function calling",
+      "JSON mode",
+      "Streaming",
+      "Enterprise deployment",
+      "Multi-language (10 languages)",
+      "API access",
+      "Embedding models",
+      "Reranking",
+      "Fine-tuning",
+      "On-premise option",
+      "System prompts",
+      "Document analysis",
+      "Batch processing",
+      "GDPR compliant",
+      "Enterprise SSO",
+      "Safety controls"
+    ],
+    "subcategory": "llm",
+    "featureCount": 20,
+    "longDescription": "Command R+ by Cohere is built for enterprise RAG workflows. Optimized for retrieval-augmented generation with grounding, citations, and tool use at scale.",
+    "normalizedFeatures": {
+      "Text Generation": true,
+      "Code Generation": true,
+      "Image Understanding": false,
+      "Voice/Speech": false,
+      "API Access": true,
+      "Free Tier": true,
+      "Open Source": false,
+      "Fine-tuning": true,
+      "Function Calling": true,
+      "Long Context (100K+)": true,
+      "Reasoning": true,
+      "Web Search": true,
+      "Multi-modal": false,
+      "Streaming": true,
+      "Batch API": true,
+      "JSON Mode": true,
+      "System Prompts": true,
+      "Tool Use": true,
+      "Vision": false,
+      "Enterprise Plans": true
+    },
+    "pros": [
+      "Optimized for RAG and enterprise search",
+      "Strong tool use and grounding",
+      "Multi-language support",
+      "On-premise deployment option",
+      "Built for production scale"
+    ],
+    "cons": [
+      "No image generation or vision",
+      "Less known than OpenAI/Anthropic"
+    ],
+    "youtubeReview": "https://www.youtube.com/watch?v=FB2maJL6ycs",
+    "youtubeId": "FIrsOBy5k58",
+    "useCases": [
+      {
+        "title": "Support Responses Grounded with Cited Documentation",
+        "description": "Grounding with citations fetches from internal knowledge bases per ticket. Every response includes traceable source links - false information drops ~85% versus ungrounded responses.",
+        "icon": "search"
+      },
+      {
+        "title": "50K Daily Transactions Audited via Function Calling",
+        "description": "Function calling wires Command R+ directly into legacy banking systems and audit databases. Transaction history, rule validation, and anomaly flagging complete in one inference.",
+        "icon": "shield"
+      }
+    ],
+    "youtubeUploadDate": "2020-12-01T00:53:30Z",
+    "pricingAnalysis": {
+      "overview": "Command R+ - Cohere's enterprise LLM - RAG-optimized, tool use, grounding. Command R+ is free to use with Limited API calls, Command R access. While most llm tools start at ~$18/mo, Command R+'s free tier lets you skip the cost entirely until you need more.",
+      "planAdvice": [
+        {
+          "plan": "Trial",
+          "price": 0,
+          "period": "month",
+          "advice": "You get Limited API calls, Command R access. What's locked behind the paywall: pay-as-you-go, $2.5/1m input tokens. Good enough for solo use and evaluation."
+        },
+        {
+          "plan": "Production",
+          "price": 0,
+          "period": "month",
+          "advice": "You get Pay-as-you-go, $2.5/1M input tokens. Good enough for solo use and evaluation."
+        }
+      ],
+      "verdict": "Rated 4.3/5, Command R+  is a mainstream choice in its category."
+    },
+    "tokenPricing": {
+      "models": [
+        {
+          "name": "Command R+",
+          "input": 2.5,
+          "output": 10,
+          "unit": "1M tokens"
+        }
+      ]
+    },
+    "expertTake": "RAG optimization and grounding with citations make this the sharpest choice for enterprise search and document-heavy workflows. Worth it if sourced accuracy is critical; overkill for general-purpose use.",
+    "bestFor": "Enterprise RAG and workflow builders"
+  },
+  {
+    "slug": "phi-3-medium",
+    "name": "Phi-3",
+    "url": "https://azure.microsoft.com/products/phi",
+    "category": "llm",
+    "description": "Microsoft's small language models - punches above weight. Phi-3 Mini runs on phones and edge devices.",
+    "affiliate": {
+      "url": "https://azure.microsoft.com",
+      "commission": "0%",
+      "network": "none"
+    },
+    "color": "#0078d4",
+    "logo": "PH",
+    "founded": 2024,
+    "users": "500K+",
+    "rating": {
+      "g2": 4,
+      "capterra": 4
+    },
+    "pricing": {
+      "free": true,
+      "plans": [
+        {
+          "name": "Free (open-source)",
+          "price": 0,
+          "period": "month",
+          "highlights": [
+            "Download & run locally",
+            "MIT License"
+          ]
+        },
+        {
+          "name": "Azure AI",
+          "price": 0,
+          "period": "month",
+          "highlights": [
+            "Pay-per-token",
+            "Managed hosting"
+          ]
+        }
+      ]
+    },
+    "features": [
+      "Edge deployment",
+      "On-device inference",
+      "Open-source (MIT)",
+      "128K context",
+      "Code generation",
+      "Multi-language",
+      "Fine-tuning",
+      "Quantization",
+      "GGUF support",
+      "Azure integration",
+      "Local deployment",
+      "Low memory footprint",
+      "Fast inference",
+      "ONNX support",
+      "Function calling",
+      "JSON mode",
+      "System prompts",
+      "HuggingFace integration",
+      "Commercial use",
+      "No GPU required for small variants"
+    ],
+    "subcategory": "llm",
+    "featureCount": 20,
+    "longDescription": "Microsoft Phi-3 proves small models can beat larger ones with better training data. Phi-3 Mini (3.8B) runs on phones. Phi-3 Medium rivals Llama 70B. Open-source MIT license.",
+    "normalizedFeatures": {
+      "Text Generation": true,
+      "Code Generation": true,
+      "Image Understanding": true,
+      "Voice/Speech": false,
+      "API Access": true,
+      "Free Tier": true,
+      "Open Source": true,
+      "Fine-tuning": true,
+      "Function Calling": true,
+      "Long Context (100K+)": true,
+      "Reasoning": true,
+      "Web Search": false,
+      "Multi-modal": true,
+      "Streaming": true,
+      "Batch API": false,
+      "JSON Mode": true,
+      "System Prompts": true,
+      "Tool Use": false,
+      "Vision": true,
+      "Enterprise Plans": true
+    },
+    "pros": [
+      "Runs on edge devices & phones",
+      "MIT open-source license",
+      "Excellent performance per parameter",
+      "No GPU needed for small variants",
+      "Strong benchmark results for size"
+    ],
+    "cons": [
+      "Best for specialized tasks, not general chat",
+      "Less capable than frontier models at complex reasoning"
+    ],
+    "youtubeReview": "https://www.youtube.com/watch?v=6GODB4jON6s",
+    "youtubeId": "pxhkDaKzBaY",
+    "useCases": [
+      {
+        "title": "On-Device Code Completion at Sub-200ms Without API Calls",
+        "description": "Phi-3 Mini quantized to 4-bit runs inference on mobile devices without internet connectivity. Autocomplete and summaries generate 40% faster than API-dependent alternatives.",
+        "icon": "zap"
+      },
+      {
+        "title": "Go Microservices Fine-Tuned to Match Team Conventions",
+        "description": "Fine-tune on proprietary codebases and naming patterns. A fintech backend team cut code review cycles 35% after training on 5,000 examples of internal Go microservices.",
+        "icon": "code"
+      },
+      {
+        "title": "IoT Devices Handle 44+ Languages Without Cloud APIs",
+        "description": "Multi-language capability processes user manuals and chatbot queries directly on embedded hardware. No external API calls eliminates bandwidth costs and network latency.",
+        "icon": "globe"
+      },
+      {
+        "title": "Quantized Models Fit in 2GB RAM on Clinical Workstations",
+        "description": "Quantization compresses from 7B to 2B effective size for resource-constrained hardware. A healthcare provider deployed to 200 clinical workstations with only a 2GB footprint each.",
+        "icon": "layers"
+      }
+    ],
+    "youtubeUploadDate": "2024-09-12T14:30:31Z",
+    "pricingAnalysis": {
+      "overview": "Phi-3 - Microsoft's small language models - punches above weight. Phi-3 is free to use with Download & run locally, MIT License. While most llm tools start at ~$18/mo, Phi-3's free tier lets you skip the cost entirely until you need more.",
+      "planAdvice": [
+        {
+          "plan": "Free (open-source)",
+          "price": 0,
+          "period": "month",
+          "advice": "You get Download & run locally, MIT License. What's locked behind the paywall: pay-per-token, managed hosting. Good enough for solo use and evaluation."
+        },
+        {
+          "plan": "Azure AI",
+          "price": 0,
+          "period": "month",
+          "advice": "You get Pay-per-token, Managed hosting. Good enough for solo use and evaluation."
+        }
+      ],
+      "verdict": "Rated 4.0/5, Phi-3  is a mainstream choice in its category."
+    },
+    "tokenPricing": {
+      "models": [
+        {
+          "name": "Phi-3 Medium (Azure)",
+          "input": 0.14,
+          "output": 0.56,
+          "unit": "1M tokens"
+        }
+      ],
+      "note": "Open-source. Free to self-host, API pricing via Azure."
+    },
+    "expertTake": "On-device inference and edge deployment make this the only serious option when data must stay local on phones or IoT hardware. The MIT license removes any commercial friction — worth it for privacy-first builds.",
+    "bestFor": "Mobile and edge AI developers"
+  }
+]
