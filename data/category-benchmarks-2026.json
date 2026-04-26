@@ -1,0 +1,205 @@
+{
+  "meta": {
+    "source": "ComparEdge (https://comparedge.com)",
+    "license": "CC BY 4.0",
+    "updated": "2026-04-26"
+  },
+  "categories": [
+    {
+      "category": "llm",
+      "tools_count": 25,
+      "avg_rating": 4.47,
+      "free_plan_percentage": 80,
+      "explore": "https://comparedge.com/best/llm"
+    },
+    {
+      "category": "cloud-hosting",
+      "tools_count": 21,
+      "avg_rating": 4.38,
+      "free_plan_percentage": 52,
+      "explore": "https://comparedge.com/best/cloud-hosting"
+    },
+    {
+      "category": "project-management",
+      "tools_count": 20,
+      "avg_rating": 4.51,
+      "free_plan_percentage": 95,
+      "explore": "https://comparedge.com/best/project-management"
+    },
+    {
+      "category": "email-marketing",
+      "tools_count": 20,
+      "avg_rating": 4.38,
+      "free_plan_percentage": 70,
+      "explore": "https://comparedge.com/best/email-marketing"
+    },
+    {
+      "category": "website-builders",
+      "tools_count": 19,
+      "avg_rating": 4.37,
+      "free_plan_percentage": 68,
+      "explore": "https://comparedge.com/best/website-builders"
+    },
+    {
+      "category": "video-conferencing",
+      "tools_count": 19,
+      "avg_rating": 4.47,
+      "free_plan_percentage": 79,
+      "explore": "https://comparedge.com/best/video-conferencing"
+    },
+    {
+      "category": "crm",
+      "tools_count": 18,
+      "avg_rating": 4.43,
+      "free_plan_percentage": 39,
+      "explore": "https://comparedge.com/best/crm"
+    },
+    {
+      "category": "design-tools",
+      "tools_count": 18,
+      "avg_rating": 4.5,
+      "free_plan_percentage": 61,
+      "explore": "https://comparedge.com/best/design-tools"
+    },
+    {
+      "category": "accounting",
+      "tools_count": 15,
+      "avg_rating": 4.29,
+      "free_plan_percentage": 40,
+      "explore": "https://comparedge.com/best/accounting"
+    },
+    {
+      "category": "ai-image",
+      "tools_count": 13,
+      "avg_rating": 4.52,
+      "free_plan_percentage": 69,
+      "explore": "https://comparedge.com/best/ai-image"
+    },
+    {
+      "category": "ai-productivity",
+      "tools_count": 13,
+      "avg_rating": 4.5,
+      "free_plan_percentage": 77,
+      "explore": "https://comparedge.com/best/ai-productivity"
+    },
+    {
+      "category": "ai-writing",
+      "tools_count": 12,
+      "avg_rating": 4.61,
+      "free_plan_percentage": 58,
+      "explore": "https://comparedge.com/best/ai-writing"
+    },
+    {
+      "category": "crypto-wallets",
+      "tools_count": 11,
+      "avg_rating": 4.33,
+      "free_plan_percentage": 64,
+      "explore": "https://comparedge.com/best/crypto-wallets"
+    },
+    {
+      "category": "ai-coding",
+      "tools_count": 10,
+      "avg_rating": 4.53,
+      "free_plan_percentage": 100,
+      "explore": "https://comparedge.com/best/ai-coding"
+    },
+    {
+      "category": "ai-video",
+      "tools_count": 9,
+      "avg_rating": 4.54,
+      "free_plan_percentage": 89,
+      "explore": "https://comparedge.com/best/ai-video"
+    },
+    {
+      "category": "ai-agents",
+      "tools_count": 8,
+      "avg_rating": 4.35,
+      "free_plan_percentage": 88,
+      "explore": "https://comparedge.com/best/ai-agents"
+    },
+    {
+      "category": "crypto-trading-bots",
+      "tools_count": 8,
+      "avg_rating": 4.13,
+      "free_plan_percentage": 100,
+      "explore": "https://comparedge.com/best/crypto-trading-bots"
+    },
+    {
+      "category": "crypto-analytics",
+      "tools_count": 8,
+      "avg_rating": 4.31,
+      "free_plan_percentage": 88,
+      "explore": "https://comparedge.com/best/crypto-analytics"
+    },
+    {
+      "category": "crypto-exchanges",
+      "tools_count": 8,
+      "avg_rating": 4.14,
+      "free_plan_percentage": 100,
+      "explore": "https://comparedge.com/best/crypto-exchanges"
+    },
+    {
+      "category": "crypto-telegram-bots",
+      "tools_count": 8,
+      "avg_rating": 4.16,
+      "free_plan_percentage": 100,
+      "explore": "https://comparedge.com/best/crypto-telegram-bots"
+    },
+    {
+      "category": "dex",
+      "tools_count": 8,
+      "avg_rating": null,
+      "free_plan_percentage": 100,
+      "explore": "https://comparedge.com/best/dex"
+    },
+    {
+      "category": "ai-voice",
+      "tools_count": 7,
+      "avg_rating": 4.61,
+      "free_plan_percentage": 100,
+      "explore": "https://comparedge.com/best/ai-voice"
+    },
+    {
+      "category": "ai-assistants",
+      "tools_count": 7,
+      "avg_rating": 4.5,
+      "free_plan_percentage": 86,
+      "explore": "https://comparedge.com/best/ai-assistants"
+    },
+    {
+      "category": "crypto-tax",
+      "tools_count": 6,
+      "avg_rating": 4.12,
+      "free_plan_percentage": 83,
+      "explore": "https://comparedge.com/best/crypto-tax"
+    },
+    {
+      "category": "password-managers",
+      "tools_count": 5,
+      "avg_rating": 4.56,
+      "free_plan_percentage": 80,
+      "explore": "https://comparedge.com/best/password-managers"
+    },
+    {
+      "category": "vpn",
+      "tools_count": 5,
+      "avg_rating": 4.54,
+      "free_plan_percentage": 20,
+      "explore": "https://comparedge.com/best/vpn"
+    },
+    {
+      "category": "crypto-portfolio-trackers",
+      "tools_count": 5,
+      "avg_rating": 4.48,
+      "free_plan_percentage": 100,
+      "explore": "https://comparedge.com/best/crypto-portfolio-trackers"
+    },
+    {
+      "category": "defi-tools",
+      "tools_count": 5,
+      "avg_rating": 4.36,
+      "free_plan_percentage": 100,
+      "explore": "https://comparedge.com/best/defi-tools"
+    }
+  ]
+}
