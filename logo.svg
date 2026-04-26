@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#10b981;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#059669;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#34d399;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#10b981;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="512" height="512" rx="64" fill="#0a0a0a"/>
+  
+  <!-- Comparison bars - left group -->
+  <rect x="96" y="140" width="32" height="232" rx="8" fill="url(#grad1)" opacity="0.4"/>
+  <rect x="144" y="100" width="32" height="272" rx="8" fill="url(#grad1)" opacity="0.6"/>
+  <rect x="192" y="160" width="32" height="212" rx="8" fill="url(#grad1)" opacity="0.8"/>
+  
+  <!-- Edge / divider -->
+  <line x1="256" y1="80" x2="256" y2="432" stroke="#10b981" stroke-width="3" stroke-dasharray="8,6" opacity="0.5"/>
+  
+  <!-- Comparison bars - right group (mirrored, different heights = comparison) -->
+  <rect x="288" y="120" width="32" height="252" rx="8" fill="url(#grad2)" opacity="0.8"/>
+  <rect x="336" y="180" width="32" height="192" rx="8" fill="url(#grad2)" opacity="0.6"/>
+  <rect x="384" y="80" width="32" height="292" rx="8" fill="url(#grad2)" opacity="1.0"/>
+  
+  <!-- Top accent diamond -->
+  <polygon points="256,56 268,72 256,88 244,72" fill="#10b981"/>
+  
+  <!-- Bottom accent diamond -->
+  <polygon points="256,424 268,440 256,456 244,440" fill="#10b981"/>
+</svg>
