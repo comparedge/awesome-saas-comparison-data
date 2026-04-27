@@ -149,3 +149,29 @@ https://comparedge.com
   <a href="https://blog.comparedge.com">Research Blog</a> · 
   <a href="https://x.com/ComparEdge">X (Twitter)</a>
 </p>
+
+## Database & Schema
+
+Pre-built SQLite database and DDL schema with full product, pricing, and feature data.
+
+| File | Description |
+|------|-------------|
+| [comparedge_v1.sqlite](database/comparedge_v1.sqlite) | Full SQLite database — 331 products, 1,013 pricing plans, 6,052 features |
+| [core_schema_v2.sql](database/core_schema_v2.sql) | Complete DDL schema with views and sample data |
+
+## Enterprise Assets
+
+Ready-to-use templates for SaaS procurement and TCO analysis.
+
+| File | Description |
+|------|-------------|
+| [Vendor_Evaluation_Template_2026.docx](enterprise-assets/Vendor_Evaluation_Template_2026.docx) | SaaS vendor evaluation checklist (22 criteria) |
+| [TCO_Calculator_2026.xlsx](enterprise-assets/TCO_Calculator_2026.xlsx) | 4-sheet TCO calculator with 3-year projection formulas |
+
+## Reports
+
+Research and analysis reports on SaaS pricing trends.
+
+| File | Description |
+|------|-------------|
+| [SaaS_Pricing_Report_Q2_2026.pdf](reports/SaaS_Pricing_Report_Q2_2026.pdf) | Q2 2026 SaaS pricing analysis across 29 categories |
