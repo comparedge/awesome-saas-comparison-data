@@ -13,7 +13,7 @@
 
 Choosing the right software tool shouldn't require visiting 30 different pricing pages. We maintain a curated, machine-readable dataset so developers, analysts, and founders can make data-driven decisions.
 
-This repository contains a **curated subset** (~40%) of the full database powering [ComparEdge](https://comparedge.com) — an independent software comparison platform covering 331+ tools across 28 categories.
+This repository contains a **curated subset** (~40%) of the full database powering [ComparEdge](https://comparedge.com) — an independent software comparison platform covering hundreds of tools across dozens of categories.
 
 ## 📁 Data Structure
 
@@ -41,7 +41,7 @@ data/
 │   ├── crypto-trading-bots-pricing-2026.json
 │   └── dex-pricing-2026.json
 └── benchmarks/
-    └── category-benchmarks-2026.json   # Market stats for all 28 categories
+    └── category-benchmarks-2026.json   # Market stats for all categories
 ```
 
 ## 📋 Data Schema
@@ -89,7 +89,7 @@ data/
 
 ## 🔗 Explore Full Data
 
-This dataset is a curated snapshot. For **real-time data**, interactive comparisons, and the full 331-tool database:
+This dataset is a curated snapshot. For **real-time data**, interactive comparisons, and the full database:
 
 | Resource | Link |
 |----------|------|
@@ -112,7 +112,7 @@ This dataset is a curated snapshot. For **real-time data**, interactive comparis
 
 ## 📊 Also Available On
 
-- **Kaggle**: [SaaS & AI Tools Market Analysis 2026](https://www.kaggle.com/datasets/comparedge/saas-ai-tools-market-2026) — 331 tools, notebook-ready CSV
+- **Kaggle**: [SaaS & AI Tools Market Analysis 2026](https://www.kaggle.com/datasets/comparedge/saas-ai-tools-market-2026) — Full catalog, notebook-ready CSV
 - **Hugging Face**: [ComparEdge/ai-tools-pricing-2026](https://huggingface.co/datasets/ComparEdge/ai-tools-pricing-2026) — 104 AI tools in JSONL
 
 ## 🛠 Use Cases
@@ -144,7 +144,7 @@ https://comparedge.com
 
 <p align="center">
   <b>Built & maintained by <a href="https://comparedge.com">ComparEdge</a></b><br>
-  <sub>Independent software comparison platform · 331+ tools · 28 categories · Updated daily</sub><br><br>
+  <sub>Independent software comparison platform · Open SaaS pricing intelligence · Updated daily</sub><br><br>
   <a href="https://comparedge.com">Website</a> · 
   <a href="https://blog.comparedge.com">Research Blog</a> · 
   <a href="https://x.com/ComparEdge">X (Twitter)</a>
@@ -156,7 +156,7 @@ Pre-built SQLite database and DDL schema with full product, pricing, and feature
 
 | File | Description |
 |------|-------------|
-| [comparedge_v1.sqlite](database/comparedge_v1.sqlite) | Full SQLite database — 331 products, 1,013 pricing plans, 6,052 features |
+| [comparedge_v1.sqlite](database/comparedge_v1.sqlite) | Full SQLite database — all products, pricing plans, and features |
 | [core_schema_v2.sql](database/core_schema_v2.sql) | Complete DDL schema with views and sample data |
 
 ## Enterprise Assets
