@@ -1,11 +1,11 @@
 # 📊 Awesome SaaS Comparison Data
 
-> **Curated pricing, ratings & feature data** for 140+ top software tools across AI, Business & Crypto categories. Machine-readable formats. Updated monthly.
+> **Curated pricing, ratings & feature data** for 508+ software tools across AI, Business, Security & Crypto categories. Machine-readable formats. Updated weekly.
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Tools: 142](https://img.shields.io/badge/Tools-142-blue.svg)](https://comparedge.com/best)
-[![Categories: 18](https://img.shields.io/badge/Categories-18-green.svg)](https://comparedge.com/best)
-[![Updated: April 2026](https://img.shields.io/badge/Updated-April%202026-orange.svg)](https://comparedge.com)
+[![Tools: 508](https://img.shields.io/badge/Tools-508-blue.svg)](https://comparedge.com/tools)
+[![Categories: 45](https://img.shields.io/badge/Categories-45-green.svg)](https://comparedge.com/best)
+[![Updated: May 2026](https://img.shields.io/badge/Updated-May%202026-orange.svg)](https://comparedge.com)
 
 ---
 
@@ -13,14 +13,14 @@
 
 Choosing the right software tool shouldn't require visiting 30 different pricing pages. We maintain a curated, machine-readable dataset so developers, analysts, and founders can make data-driven decisions.
 
-This repository contains a **curated subset** (~40%) of the full database powering [ComparEdge](https://comparedge.com) — an independent software comparison platform covering hundreds of tools across dozens of categories.
+This repository contains a **curated subset** of the full database powering [ComparEdge](https://comparedge.com) — an independent software comparison platform covering 508+ tools across 45 categories.
 
 ## 📁 Data Structure
 
 ```
 data/
-├── ai-tools/                    # AI & Machine Learning
-│   ├── llm-pricing-2026.json           # GPT-4o, Claude, Gemini, Llama...
+├── ai-tools/                    # AI & Machine Learning (12 categories)
+│   ├── llm-pricing-2026.json           # ChatGPT, Claude, Gemini, Llama...
 │   ├── ai-coding-pricing-2026.json     # Cursor, GitHub Copilot, Windsurf...
 │   ├── ai-writing-pricing-2026.json    # Jasper, Copy.ai, Writesonic...
 │   ├── ai-image-pricing-2026.json      # Midjourney, DALL-E 3, Stable Diffusion...
@@ -28,20 +28,44 @@ data/
 │   ├── ai-voice-pricing-2026.json      # ElevenLabs, Play.ht, Murf...
 │   ├── ai-agents-pricing-2026.json     # AutoGPT, CrewAI, LangChain...
 │   ├── ai-productivity-pricing-2026.json
-│   └── ai-assistants-pricing-2026.json
-├── business/                    # Business Software
+│   ├── ai-assistants-pricing-2026.json
+│   ├── ai-meeting-pricing-2026.json
+│   └── ai-security-pricing-2026.json
+├── business/                    # Business Software (15 categories)
 │   ├── crm-pricing-2026.json           # Salesforce, HubSpot, Pipedrive...
-│   ├── project-management-pricing-2026.json  # Notion, Asana, Monday...
+│   ├── project-management-pricing-2026.json  # Notion, Asana, Linear...
 │   ├── email-marketing-pricing-2026.json
 │   ├── cloud-hosting-pricing-2026.json
-│   └── design-tools-pricing-2026.json
-├── crypto/                      # Crypto & Web3
+│   ├── design-tools-pricing-2026.json
+│   ├── website-builders-pricing-2026.json
+│   ├── accounting-pricing-2026.json
+│   ├── password-managers-pricing-2026.json
+│   ├── vpn-pricing-2026.json
+│   ├── video-conferencing-pricing-2026.json
+│   ├── analytics-pricing-2026.json
+│   ├── hr-tools-pricing-2026.json
+│   ├── payments-pricing-2026.json
+│   ├── seo-tools-pricing-2026.json
+│   └── customer-support-pricing-2026.json
+├── security/                    # Security & Infrastructure (9 categories)
+│   ├── iam-pricing-2026.json           # Okta, Auth0, Azure AD...
+│   ├── cloud-security-pricing-2026.json
+│   ├── endpoint-security-pricing-2026.json
+│   ├── compliance-pricing-2026.json
+│   ├── vector-databases-pricing-2026.json
+│   ├── finops-pricing-2026.json
+│   ├── databases-pricing-2026.json
+│   ├── erp-pricing-2026.json
+│   └── data-observability-pricing-2026.json
+├── crypto/                      # Crypto & Web3 (6 categories)
 │   ├── crypto-exchanges-pricing-2026.json
 │   ├── crypto-wallets-pricing-2026.json
 │   ├── crypto-trading-bots-pricing-2026.json
-│   └── dex-pricing-2026.json
+│   ├── crypto-analytics-pricing-2026.json
+│   ├── dex-pricing-2026.json
+│   └── defi-tools-pricing-2026.json
 └── benchmarks/
-    └── category-benchmarks-2026.json   # Market stats for all categories
+    └── category-benchmarks-2026.json   # Market stats for all 45 categories
 ```
 
 ## 📋 Data Schema
@@ -56,6 +80,8 @@ data/
   "website": "https://cursor.sh",
   "free_plan": true,
   "starting_price": 0,
+  "verified_at": "2026-05-15",
+  "last_updated": "2026-05-17",
   "plans": [
     { "name": "Hobby", "price": 0, "period": "mo" },
     { "name": "Pro", "price": 20, "period": "mo" },
@@ -66,112 +92,50 @@ data/
 }
 ```
 
-### Category Benchmark
+## 🔢 Coverage
 
-```json
-{
-  "category": "ai-coding",
-  "tools_count": 10,
-  "avg_rating": 4.38,
-  "free_plan_percentage": 70,
-  "explore": "https://comparedge.com/best/ai-coding"
-}
-```
+| Domain | Categories | Tools |
+|--------|-----------|-------|
+| AI & LLM | 12 | 180+ |
+| Business SaaS | 15 | 200+ |
+| Security & Infra | 9 | 80+ |
+| Crypto & Web3 | 6 | 50+ |
+| **Total** | **45** | **508+** |
 
-## 🔍 Quick Insights (April 2026)
+## 🔗 ComparEdge Platform
 
-| Metric | Value |
-|--------|-------|
-| Highest avg. rating category | AI Assistants (4.54) |
-| Most competitive category | LLMs (25 tools) |
-| Highest free plan % | AI Productivity (85%) |
-| Fastest growing | AI Agents (+40% YoY) |
+| Feature | URL |
+|---------|-----|
+| Browse all tools | [comparedge.com/tools](https://comparedge.com/tools) |
+| Compare two tools | [comparedge.com/compare](https://comparedge.com/compare) |
+| Pricing breakdowns | [comparedge.com/pricing](https://comparedge.com/pricing) |
+| Alternatives finder | [comparedge.com/alternatives](https://comparedge.com/alternatives) |
+| Security hub | [comparedge.com/security](https://comparedge.com/security) |
+| Chrome Extension | [comparedge.com/extension](https://comparedge.com/extension) |
+| Free Tools Suite | [comparedge.com/suite](https://comparedge.com/suite) |
+| Blog | [comparedge.com/blog](https://comparedge.com/blog) |
 
-## 🔗 Explore Full Data
+## 🧩 Chrome Extension
 
-This dataset is a curated snapshot. For **real-time data**, interactive comparisons, and the full database:
+Get instant pricing data while browsing any SaaS website — no tab switching required.
 
-| Resource | Link |
-|----------|------|
-| 🏆 Software Leaderboard | [comparedge.com/best](https://comparedge.com/best) |
-| ⚔️ 2,266+ Comparisons | [comparedge.com/compare](https://comparedge.com/compare) |
-| 💰 Pricing Breakdown | [comparedge.com/pricing](https://comparedge.com/pricing) |
-| 📖 Methodology | [comparedge.com/methodology](https://comparedge.com/methodology) |
-| 📊 Market Research | [blog.comparedge.com](https://blog.comparedge.com) |
+→ [comparedge.com/extension](https://comparedge.com/extension)
 
-### Deep Links by Category
+## 🤖 Use with AI Tools
 
-**AI & ML:**
-[LLMs](https://comparedge.com/best/llm) · [AI Coding](https://comparedge.com/best/ai-coding) · [AI Writing](https://comparedge.com/best/ai-writing) · [AI Image](https://comparedge.com/best/ai-image) · [AI Video](https://comparedge.com/best/ai-video) · [AI Voice](https://comparedge.com/best/ai-voice) · [AI Agents](https://comparedge.com/best/ai-agents) · [AI Productivity](https://comparedge.com/best/ai-productivity)
+| Integration | Repo |
+|------------|------|
+| LangChain | [langchain-comparedge](https://github.com/comparedge/langchain-comparedge) |
+| LlamaIndex | [llamaindex-comparedge](https://github.com/comparedge/llamaindex-comparedge) |
+| Claude MCP | [mcp-server-comparedge](https://github.com/comparedge/mcp-server-comparedge) |
+| GitHub Action | [saas-price-check](https://github.com/comparedge/saas-price-check) |
+| Terraform | [terraform-comparedge-saas](https://github.com/comparedge/terraform-comparedge-saas) |
 
-**Business:**
-[CRM](https://comparedge.com/best/crm) · [Project Management](https://comparedge.com/best/project-management) · [Email Marketing](https://comparedge.com/best/email-marketing) · [Cloud Hosting](https://comparedge.com/best/cloud-hosting) · [Design Tools](https://comparedge.com/best/design-tools)
+## 📜 License
 
-**Crypto & Web3:**
-[Exchanges](https://comparedge.com/best/crypto-exchanges) · [Wallets](https://comparedge.com/best/crypto-wallets) · [Trading Bots](https://comparedge.com/best/crypto-trading-bots) · [DEX](https://comparedge.com/best/dex)
-
-## 📊 Also Available On
-
-- **Kaggle**: [SaaS & AI Tools Market Analysis 2026](https://www.kaggle.com/datasets/comparedge/saas-ai-tools-market-2026) — Full catalog, notebook-ready CSV
-- **Hugging Face**: [ComparEdge/ai-tools-pricing-2026](https://huggingface.co/datasets/ComparEdge/ai-tools-pricing-2026) — 104 AI tools in JSONL
-
-## 🛠 Use Cases
-
-- **Startup founders** — Find affordable tools, compare pricing tiers side-by-side
-- **Data analysts** — Benchmark SaaS pricing, build market models
-- **Researchers** — Study pricing strategies, freemium adoption rates
-- **Developers** — Build custom comparison tools, integrate into apps
-- **Content writers** — Reference accurate pricing in articles (with attribution)
-
-## 🤝 Contributing
-
-Found an error? Know a tool we're missing?
-
-- Open an [Issue](../../issues) with details
-- Read our [Contributing Guide](CONTRIBUTING.md)
-- Submit a tool for review at [comparedge.com](https://comparedge.com)
-
-## 📄 License
-
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — Use freely with attribution.
-
-```
-Source: ComparEdge — Software Comparison Data (2026)
-https://comparedge.com
-```
+Data is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Free to use with attribution: **"Data from ComparEdge (comparedge.com)"**
 
 ---
 
-<p align="center">
-  <b>Built & maintained by <a href="https://comparedge.com">ComparEdge</a></b><br>
-  <sub>Independent software comparison platform · Open SaaS pricing intelligence · Updated daily</sub><br><br>
-  <a href="https://comparedge.com">Website</a> · 
-  <a href="https://blog.comparedge.com">Research Blog</a> · 
-  <a href="https://x.com/ComparEdge">X (Twitter)</a>
-</p>
-
-## Database & Schema
-
-Pre-built SQLite database and DDL schema with full product, pricing, and feature data.
-
-| File | Description |
-|------|-------------|
-| [comparedge_v1.sqlite](database/comparedge_v1.sqlite) | Full SQLite database — all products, pricing plans, and features |
-| [core_schema_v2.sql](database/core_schema_v2.sql) | Complete DDL schema with views and sample data |
-
-## Enterprise Assets
-
-Ready-to-use templates for SaaS procurement and TCO analysis.
-
-| File | Description |
-|------|-------------|
-| [Vendor_Evaluation_Template_2026.docx](enterprise-assets/Vendor_Evaluation_Template_2026.docx) | SaaS vendor evaluation checklist (22 criteria) |
-| [TCO_Calculator_2026.xlsx](enterprise-assets/TCO_Calculator_2026.xlsx) | 4-sheet TCO calculator with 3-year projection formulas |
-
-## Reports
-
-Research and analysis reports on SaaS pricing trends.
-
-| File | Description |
-|------|-------------|
-| [SaaS_Pricing_Report_Q2_2026.pdf](reports/SaaS_Pricing_Report_Q2_2026.pdf) | Q2 2026 SaaS pricing analysis across 29 categories |
+[🌐 comparedge.com](https://comparedge.com) · [🐦 @ComparEdge](https://x.com/ComparEdge) · [💼 LinkedIn](https://www.linkedin.com/company/comparedge)
