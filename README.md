@@ -1,11 +1,11 @@
 # Awesome SaaS Comparison Data
 
-> Machine-readable pricing, ratings & feature data for **508 software tools** across AI, Business, Security & Crypto. Verified by humans. Updated weekly. CC BY 4.0.
+> Machine-readable pricing, ratings & feature data for **495+ software tools** across AI, Business, Security & Crypto. Verified by humans. Updated weekly. CC BY 4.0.
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Tools](https://img.shields.io/badge/Tools-508-3b82f6?style=flat-square)](https://comparedge.com/tools)
+[![Tools](https://img.shields.io/badge/Tools-495%2B-3b82f6?style=flat-square)](https://comparedge.com/tools)
 [![Categories](https://img.shields.io/badge/Categories-44-10b981?style=flat-square)](https://comparedge.com/best)
-[![With Pricing](https://img.shields.io/badge/With_Pricing-508_(100%25)-a855f7?style=flat-square)](https://comparedge.com/pricing)
+[![With Pricing](https://img.shields.io/badge/With_Pricing-495%2B-a855f7?style=flat-square)](https://comparedge.com/pricing)
 [![Free Plans](https://img.shields.io/badge/Free_Plans-320-f59e0b?style=flat-square)](https://comparedge.com/tools)
 [![G2 Rated](https://img.shields.io/badge/G2_Rated-481-ef4444?style=flat-square)](https://comparedge.com)
 [![MCP Server](https://img.shields.io/badge/MCP_Server-Available-a855f7?style=flat-square&logo=anthropic)](https://smithery.ai/server/@comparedge/mcp-server)
@@ -27,14 +27,14 @@ Every pricing record in this dataset has been manually verified or algorithmical
 
 | Metric | Value |
 |--------|-------|
-| Total products | **508** |
+| Total products | **495+** |
 | Categories | **44** |
-| Products with pricing plans | **508 (100%)** |
+| Products with pricing plans | **495+** |
 | Products with free plan | **320 (63%)** |
 | Products with G2 rating | **481** — avg **4.45** |
 | Products with Capterra rating | **375** |
 | G2 source URLs tracked | **447** |
-| All records verified | **508 (100%)** |
+| All records verified | **495+** |
 | Data license | CC BY 4.0 |
 | Update frequency | Weekly |
 
@@ -84,7 +84,7 @@ Every pricing record in this dataset has been manually verified or algorithmical
 | Business SaaS | 15 | 221 | 142 | 209 |
 | Security & Infrastructure | 9 | 96 | 51 | 88 |
 | Crypto & Web3 | 6 | 48 | 46 | 46 |
-| **Total** | **44** | **508** | **320** | **481** |
+| **Total** | **44** | **495+** | **320** | **481** |
 
 ### Top Categories by Product Count
 
@@ -174,3 +174,4 @@ Attribution: **"Data from ComparEdge (comparedge.com)"**
 *Independent. No affiliate revenue. No sponsored rankings. Data-first.*
 
 [comparedge.com](https://comparedge.com) · [@ComparEdge](https://x.com/ComparEdge)
+
